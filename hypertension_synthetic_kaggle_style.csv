@@ -1,0 +1,2001 @@
+Age,Salt_Intake,Stress_Score,BP_History,Sleep_Duration,BMI,Medication,Family_History,Exercise_Level,Smoking_Status,Has_Hypertension
+56,8.24,0.0,Normal,9.11,26.09,ACE Inhibitor,No,Moderate,Non-Smoker,Yes
+69,11.04,8.37,Hypertension,9.32,27.76,None,No,Low,Non-Smoker,Yes
+46,1.76,5.64,Normal,8.76,24.74,None,No,Moderate,Non-Smoker,No
+32,4.15,8.3,Normal,6.85,25.47,None,No,Moderate,Smoker,Yes
+60,12.0,6.4,Prehypertension,,21.15,None,No,Moderate,Non-Smoker,Yes
+25,8.95,6.84,Prehypertension,6.07,26.27,Diuretic,No,High,Non-Smoker,Yes
+78,14.13,4.45,Prehypertension,8.84,21.79,Beta Blocker,No,Low,Non-Smoker,Yes
+38,9.46,3.42,Normal,8.12,15.0,Diuretic,No,Moderate,Non-Smoker,Yes
+56,8.44,4.82,Prehypertension,8.17,24.88,None,No,Moderate,Non-Smoker,Yes
+75,13.14,2.44,Normal,6.7,16.46,None,Yes,Moderate,Non-Smoker,Yes
+36,11.03,4.95,Normal,4.89,28.56,None,No,Moderate,Non-Smoker,No
+40,7.41,0.0,Hypertension,5.17,18.91,None,No,Moderate,Non-Smoker,Yes
+28,4.72,4.09,Prehypertension,7.07,15.0,Other,No,Low,Non-Smoker,No
+28,0.89,6.96,Normal,6.37,16.04,None,No,Moderate,Non-Smoker,No
+41,6.69,4.21,Prehypertension,6.23,23.81,None,Yes,Low,Non-Smoker,Yes
+70,4.44,7.8,Normal,7.41,24.84,None,No,Moderate,Non-Smoker,Yes
+53,15.79,,Normal,8.22,17.64,ACE Inhibitor,No,Low,Non-Smoker,Yes
+57,6.05,6.21,Normal,6.16,19.17,ACE Inhibitor,No,Low,Non-Smoker,Yes
+41,5.97,2.07,Hypertension,5.43,23.96,None,Yes,High,Non-Smoker,Yes
+20,3.44,6.12,Normal,6.19,28.38,None,Yes,Low,Non-Smoker,Yes
+39,7.2,4.51,Prehypertension,5.75,18.55,None,Yes,Low,Smoker,Yes
+70,6.01,3.52,Normal,7.71,25.71,None,No,Low,Non-Smoker,No
+19,13.21,0.0,Prehypertension,7.0,16.18,Other,No,Low,Non-Smoker,No
+41,8.51,3.44,Normal,9.26,25.42,None,Yes,Moderate,Non-Smoker,Yes
+61,7.97,4.47,Prehypertension,7.88,27.4,None,Yes,Low,Non-Smoker,Yes
+47,7.6,5.82,Normal,9.18,26.36,None,No,Low,Non-Smoker,No
+55,10.36,7.43,Prehypertension,5.32,28.47,None,No,Low,Non-Smoker,Yes
+19,6.64,8.48,Hypertension,3.1,28.17,Diuretic,No,Low,Non-Smoker,Yes
+77,10.0,6.74,Prehypertension,7.29,32.31,None,No,Low,Non-Smoker,Yes
+38,12.84,2.76,Normal,7.15,24.49,None,No,Moderate,Non-Smoker,Yes
+50,9.38,3.33,Hypertension,6.85,32.32,Other,No,Low,Smoker,Yes
+29,7.25,5.63,Normal,7.11,19.75,None,No,Low,Non-Smoker,Yes
+75,5.14,5.14,Prehypertension,5.65,23.08,Beta Blocker,No,High,Non-Smoker,Yes
+39,7.17,7.58,Hypertension,7.68,23.48,None,Yes,High,Non-Smoker,Yes
+78,9.69,9.45,Normal,7.88,19.31,None,Yes,Low,Non-Smoker,Yes
+61,3.4,8.99,Normal,5.56,15.0,None,Yes,Low,Smoker,Yes
+42,10.49,7.29,Normal,6.58,27.91,None,No,Moderate,Non-Smoker,Yes
+66,8.62,5.16,Normal,6.65,19.82,None,Yes,Moderate,Non-Smoker,Yes
+44,7.55,6.97,Prehypertension,6.2,22.2,None,Yes,High,Non-Smoker,Yes
+76,6.02,7.66,Normal,5.61,31.13,None,No,Low,Smoker,Yes
+59,6.57,3.68,Normal,,26.57,None,No,Moderate,Non-Smoker,Yes
+45,9.79,2.83,Normal,7.31,31.83,None,Yes,High,Smoker,Yes
+77,7.62,2.31,Normal,6.27,24.54,ACE Inhibitor,No,Moderate,Non-Smoker,Yes
+33,6.5,2.07,Normal,5.69,26.5,None,Yes,Low,Non-Smoker,Yes
+32,9.41,0.96,Hypertension,7.49,22.92,None,No,Low,Smoker,Yes
+79,9.52,4.55,Normal,6.08,20.18,ACE Inhibitor,No,Low,Non-Smoker,Yes
+79,4.25,1.8,Hypertension,6.63,26.48,None,No,Low,Non-Smoker,Yes
+64,9.71,2.28,Normal,6.48,22.04,None,No,,Non-Smoker,No
+79,15.51,5.54,Normal,8.49,26.9,None,No,Low,Non-Smoker,Yes
+68,9.41,4.4,Prehypertension,,21.43,None,Yes,,Non-Smoker,Yes
+61,2.9,4.95,Normal,9.07,23.21,None,No,High,Non-Smoker,Yes
+72,8.53,7.0,Normal,7.9,23.57,Other,Yes,Moderate,Non-Smoker,Yes
+69,2.51,5.9,Normal,9.19,28.85,Beta Blocker,No,Low,Non-Smoker,Yes
+74,17.5,7.34,Normal,7.8,22.09,None,No,Low,Non-Smoker,Yes
+20,14.71,4.18,Normal,6.73,29.34,None,No,Low,Smoker,Yes
+54,6.0,7.55,Normal,5.9,19.93,None,No,Low,Non-Smoker,Yes
+68,1.26,4.79,Normal,6.57,25.21,ACE Inhibitor,No,Moderate,Non-Smoker,Yes
+24,5.36,4.37,Normal,8.78,20.91,None,No,Low,Non-Smoker,Yes
+38,7.46,7.22,Normal,,29.02,None,No,Moderate,Non-Smoker,Yes
+26,2.71,2.08,Normal,7.79,20.32,None,Yes,Low,Non-Smoker,Yes
+56,,8.45,Normal,7.25,20.77,None,No,High,Smoker,Yes
+35,,3.38,Normal,7.3,18.35,None,Yes,Moderate,Non-Smoker,Yes
+21,8.38,1.32,Hypertension,7.35,24.46,None,No,High,Non-Smoker,Yes
+42,8.69,5.44,Normal,7.59,26.66,ACE Inhibitor,No,Low,Non-Smoker,Yes
+77,5.1,3.17,Prehypertension,6.02,26.17,None,No,Moderate,Non-Smoker,Yes
+31,5.44,8.46,Normal,6.67,23.35,None,No,High,Non-Smoker,Yes
+67,8.14,3.05,Hypertension,7.37,21.03,Beta Blocker,No,Moderate,Non-Smoker,Yes
+75,6.11,4.69,Normal,7.2,22.75,None,No,Low,Smoker,Yes
+26,10.72,0.86,Hypertension,6.45,22.92,None,No,Low,Non-Smoker,Yes
+43,8.11,5.79,Prehypertension,7.5,25.14,None,No,Low,Non-Smoker,Yes
+70,13.6,2.29,Normal,6.07,24.83,None,No,Low,Non-Smoker,Yes
+19,10.46,5.53,Hypertension,5.53,31.83,None,No,Moderate,Non-Smoker,Yes
+37,11.31,3.06,Normal,7.35,24.18,Beta Blocker,No,Moderate,Non-Smoker,Yes
+45,8.4,0.0,Normal,5.56,25.62,ACE Inhibitor,No,Moderate,Non-Smoker,No
+64,8.47,4.29,Prehypertension,7.34,24.32,None,No,Low,Non-Smoker,Yes
+77,13.19,4.19,Hypertension,4.65,22.53,None,No,Low,Non-Smoker,Yes
+24,6.87,5.94,Normal,6.13,25.59,None,No,Low,Smoker,Yes
+61,9.64,7.42,Normal,6.61,22.11,None,No,Moderate,Non-Smoker,Yes
+78,7.2,8.21,Prehypertension,5.07,23.74,None,No,Moderate,Non-Smoker,Yes
+25,7.19,5.9,Prehypertension,6.55,29.22,None,Yes,Low,Non-Smoker,Yes
+64,4.49,4.61,Hypertension,8.42,21.82,None,No,Moderate,Non-Smoker,Yes
+52,5.77,0.86,Prehypertension,5.48,25.74,None,No,Moderate,Non-Smoker,Yes
+31,5.22,4.44,Normal,6.59,15.0,None,No,High,Non-Smoker,Yes
+34,9.78,4.47,Hypertension,9.04,23.17,None,Yes,Low,Non-Smoker,Yes
+53,11.12,3.56,Normal,5.73,21.79,None,No,Moderate,Non-Smoker,Yes
+67,7.72,5.39,Normal,8.68,24.54,Other,No,Low,Smoker,Yes
+57,8.69,6.47,Normal,6.67,22.94,None,No,Low,Smoker,Yes
+21,7.54,2.2,Normal,7.12,24.64,ACE Inhibitor,No,Moderate,Non-Smoker,Yes
+19,5.57,2.17,Normal,8.55,22.3,ACE Inhibitor,No,Moderate,Non-Smoker,Yes
+79,10.59,3.69,Prehypertension,6.42,25.74,Diuretic,No,Low,Non-Smoker,Yes
+23,9.96,2.65,Normal,7.76,16.28,None,No,Low,Non-Smoker,Yes
+71,2.32,0.39,Normal,8.06,24.5,Other,No,Moderate,Smoker,Yes
+59,7.15,1.81,Prehypertension,6.22,,None,No,Low,Non-Smoker,Yes
+21,5.35,1.29,Normal,6.09,29.26,None,Yes,Moderate,Non-Smoker,Yes
+71,6.83,6.66,Normal,6.73,19.71,None,No,Moderate,Non-Smoker,No
+46,5.99,7.75,Normal,6.76,28.48,None,No,Moderate,Non-Smoker,Yes
+35,7.86,1.59,Hypertension,5.71,23.95,None,No,Moderate,Non-Smoker,Yes
+43,7.01,5.2,Normal,6.23,15.77,None,No,Moderate,Non-Smoker,No
+61,6.95,5.92,Normal,3.0,20.06,None,No,Moderate,Smoker,Yes
+51,11.32,0.72,Normal,6.6,27.82,None,Yes,Moderate,Non-Smoker,Yes
+27,,4.35,Normal,8.07,27.56,None,Yes,Low,Smoker,Yes
+79,5.89,9.57,Normal,5.0,18.15,None,No,Low,Smoker,Yes
+53,6.33,5.49,Normal,6.44,31.03,Other,No,High,Non-Smoker,Yes
+31,9.48,3.46,Normal,9.93,23.89,None,No,Low,Smoker,Yes
+48,9.47,2.77,Hypertension,6.97,27.98,None,No,Moderate,Non-Smoker,Yes
+65,6.19,0.0,Normal,8.63,18.55,Other,No,Moderate,Non-Smoker,Yes
+32,7.3,5.04,Normal,5.79,21.95,None,No,Moderate,Non-Smoker,Yes
+25,13.54,8.29,Normal,7.54,25.87,None,Yes,Low,Non-Smoker,Yes
+31,6.24,2.21,Normal,5.58,22.59,ACE Inhibitor,No,Low,Non-Smoker,Yes
+40,13.73,0.0,Prehypertension,7.48,,ACE Inhibitor,No,Low,Non-Smoker,Yes
+77,11.31,2.54,Normal,8.01,23.14,None,Yes,Low,Non-Smoker,Yes
+74,13.18,5.94,Normal,7.73,15.16,None,No,High,Non-Smoker,Yes
+79,6.11,3.06,Prehypertension,6.59,19.18,ACE Inhibitor,Yes,Moderate,Non-Smoker,Yes
+57,7.49,2.19,Normal,7.33,,None,No,,Non-Smoker,No
+38,6.65,4.04,Normal,7.34,,None,No,Moderate,Non-Smoker,Yes
+33,11.38,4.51,Normal,7.8,30.51,None,No,Low,Smoker,Yes
+62,,0.95,Normal,6.85,25.54,None,No,Low,Smoker,Yes
+35,10.19,3.52,Normal,8.12,22.96,Diuretic,No,Low,Non-Smoker,Yes
+64,10.03,2.91,Normal,8.72,24.13,Diuretic,Yes,Moderate,Non-Smoker,Yes
+70,7.86,2.59,Normal,6.62,29.09,Beta Blocker,No,Moderate,Non-Smoker,Yes
+41,11.9,1.76,Hypertension,7.06,15.07,None,No,Moderate,Non-Smoker,Yes
+43,8.32,6.07,Normal,5.91,19.16,None,No,Moderate,Non-Smoker,No
+42,10.5,2.58,Normal,7.41,28.52,Beta Blocker,No,High,Non-Smoker,Yes
+77,6.52,0.0,Normal,7.42,29.46,None,No,Low,Non-Smoker,Yes
+77,5.83,4.58,Normal,7.07,26.65,Other,No,Moderate,Non-Smoker,Yes
+77,10.19,5.6,Normal,7.16,19.3,Diuretic,No,Low,Non-Smoker,Yes
+62,9.29,2.25,Hypertension,9.31,28.45,None,No,Moderate,Smoker,Yes
+58,8.73,2.77,Prehypertension,3.54,30.13,None,No,Low,Non-Smoker,Yes
+46,6.97,2.57,Hypertension,6.4,27.23,None,Yes,Moderate,Non-Smoker,Yes
+32,12.65,3.24,Hypertension,6.59,15.0,ACE Inhibitor,No,Low,Smoker,Yes
+62,4.65,,Normal,8.75,24.56,None,Yes,Low,Non-Smoker,Yes
+18,4.49,3.75,Normal,7.57,26.63,Diuretic,No,Moderate,Non-Smoker,No
+42,10.83,5.85,Normal,7.6,21.68,None,No,Low,Non-Smoker,Yes
+24,10.58,1.87,Normal,8.51,24.84,None,No,Low,Non-Smoker,Yes
+26,9.06,3.16,Hypertension,6.78,21.69,None,No,Moderate,Non-Smoker,Yes
+41,7.14,6.1,Normal,7.78,20.12,None,No,Moderate,Non-Smoker,Yes
+18,9.51,2.23,Hypertension,6.36,30.8,ACE Inhibitor,No,Moderate,Non-Smoker,Yes
+61,13.16,6.23,Normal,5.74,24.97,None,No,Moderate,Non-Smoker,Yes
+25,15.55,2.62,Hypertension,9.15,19.02,None,Yes,Low,Non-Smoker,Yes
+41,,3.29,Hypertension,7.44,17.81,Beta Blocker,No,Low,Non-Smoker,Yes
+28,6.74,7.67,Prehypertension,7.77,20.13,None,No,Moderate,Non-Smoker,Yes
+68,6.55,3.04,Prehypertension,5.7,20.15,None,No,Low,Non-Smoker,Yes
+34,12.88,4.32,Normal,,24.66,None,No,High,Smoker,Yes
+25,0.56,5.36,Prehypertension,9.13,26.19,None,No,Low,Smoker,Yes
+52,9.54,4.5,Hypertension,6.67,26.18,None,No,Moderate,Non-Smoker,Yes
+52,7.23,4.56,Prehypertension,5.49,20.62,Beta Blocker,Yes,High,Non-Smoker,Yes
+50,12.91,3.88,Prehypertension,7.22,28.14,None,No,Moderate,Non-Smoker,Yes
+76,12.5,1.14,Prehypertension,5.76,29.53,None,No,Moderate,Non-Smoker,Yes
+22,9.1,4.77,Prehypertension,5.13,22.83,None,No,Moderate,Non-Smoker,Yes
+59,3.26,2.39,Normal,6.12,19.36,None,No,Moderate,Smoker,No
+56,6.28,,Prehypertension,6.41,24.45,None,Yes,Moderate,Non-Smoker,Yes
+75,6.61,7.02,Normal,5.82,33.72,None,No,Low,Smoker,Yes
+58,4.02,0.03,Normal,8.59,19.24,Beta Blocker,No,Moderate,Smoker,Yes
+45,11.46,,Normal,9.27,21.63,None,No,Low,Non-Smoker,No
+24,3.64,3.1,Normal,7.74,24.26,None,No,Low,Non-Smoker,Yes
+26,13.9,3.71,Normal,7.46,26.44,None,No,Moderate,Smoker,No
+25,13.89,1.99,Normal,6.83,15.06,ACE Inhibitor,Yes,Low,Non-Smoker,Yes
+29,6.84,4.41,Normal,5.92,29.88,None,No,Moderate,Smoker,Yes
+51,8.99,4.15,Normal,8.92,29.82,None,No,High,Non-Smoker,Yes
+50,7.78,6.37,Normal,6.92,22.09,None,Yes,High,Non-Smoker,Yes
+65,10.71,2.37,Prehypertension,6.44,36.18,None,No,Moderate,Non-Smoker,Yes
+72,11.82,,Hypertension,8.22,29.52,None,No,Moderate,Non-Smoker,Yes
+40,8.77,5.46,Prehypertension,6.91,29.29,Diuretic,No,Low,Non-Smoker,Yes
+79,9.41,4.2,Hypertension,8.17,29.34,None,No,Moderate,Smoker,Yes
+41,6.14,3.6,Prehypertension,6.51,29.21,None,No,Low,Non-Smoker,Yes
+54,9.31,3.33,Normal,8.22,23.9,None,Yes,Low,Non-Smoker,Yes
+52,8.49,3.47,Prehypertension,8.18,23.46,None,No,Moderate,Non-Smoker,Yes
+61,5.26,4.37,Prehypertension,8.59,19.75,None,No,Low,Non-Smoker,Yes
+57,7.96,3.54,Normal,6.15,21.4,ACE Inhibitor,No,Low,Non-Smoker,Yes
+39,6.85,2.59,Normal,6.9,22.6,ACE Inhibitor,No,,Non-Smoker,Yes
+44,6.17,,Prehypertension,9.34,24.29,Diuretic,Yes,Low,Non-Smoker,Yes
+52,4.56,2.16,Normal,6.7,31.19,ACE Inhibitor,No,Low,Smoker,Yes
+18,8.19,4.71,Prehypertension,7.97,15.0,None,No,Low,Non-Smoker,Yes
+52,5.66,3.51,Normal,9.75,30.05,None,No,Moderate,Non-Smoker,Yes
+54,6.59,5.53,Normal,4.78,19.45,None,No,Moderate,Smoker,Yes
+64,11.23,6.18,Normal,6.66,23.53,None,Yes,Moderate,Non-Smoker,Yes
+31,9.9,6.18,Normal,7.0,20.74,Diuretic,Yes,Low,Non-Smoker,Yes
+20,5.06,4.7,Normal,4.84,32.34,Other,Yes,Moderate,Non-Smoker,Yes
+18,9.06,4.96,Prehypertension,6.45,21.75,Diuretic,No,Moderate,Non-Smoker,No
+22,8.4,3.29,Prehypertension,5.83,26.35,None,Yes,Low,Smoker,Yes
+43,13.11,5.49,Hypertension,8.03,26.58,None,Yes,Moderate,Non-Smoker,Yes
+72,12.15,5.74,Normal,4.92,,None,No,,Non-Smoker,Yes
+31,3.4,0.55,Prehypertension,9.27,23.56,None,No,Moderate,Smoker,Yes
+56,10.58,4.83,Normal,7.83,29.42,None,No,Moderate,Non-Smoker,Yes
+44,11.8,7.01,Normal,5.74,20.07,None,Yes,Low,Non-Smoker,Yes
+26,9.68,,Normal,8.23,27.73,ACE Inhibitor,No,Moderate,Non-Smoker,Yes
+32,6.99,2.74,Normal,7.72,22.51,ACE Inhibitor,Yes,Moderate,Smoker,Yes
+32,15.24,3.08,Normal,6.95,29.24,None,No,Moderate,Non-Smoker,Yes
+43,9.95,0.69,Normal,6.13,31.86,None,No,Moderate,Non-Smoker,Yes
+59,13.93,4.28,Prehypertension,7.66,15.0,None,No,High,Non-Smoker,Yes
+77,12.05,4.07,Prehypertension,7.15,17.98,None,Yes,Moderate,Non-Smoker,Yes
+30,9.39,4.43,Normal,6.17,22.03,Diuretic,No,Moderate,Non-Smoker,Yes
+68,,4.92,Normal,5.39,30.59,None,No,Moderate,Smoker,Yes
+49,7.93,2.24,Normal,5.98,26.4,None,No,Low,Smoker,No
+56,7.33,4.6,Normal,6.4,18.4,None,No,Moderate,Non-Smoker,Yes
+66,4.36,4.98,Prehypertension,8.39,27.06,None,No,Moderate,Non-Smoker,Yes
+69,9.95,2.93,Normal,8.03,19.89,ACE Inhibitor,No,Low,Non-Smoker,Yes
+78,12.7,4.92,Prehypertension,6.46,27.92,None,No,Low,Smoker,Yes
+49,7.11,4.18,Hypertension,6.51,,ACE Inhibitor,No,Low,Non-Smoker,Yes
+21,14.49,2.61,Normal,8.19,19.87,None,No,,Non-Smoker,Yes
+47,3.33,4.62,Hypertension,7.32,23.7,Beta Blocker,No,Low,Smoker,No
+54,11.16,3.36,Normal,7.3,29.51,None,Yes,Low,Non-Smoker,Yes
+40,13.01,5.53,Normal,6.16,15.49,None,No,Moderate,Non-Smoker,Yes
+56,7.39,3.47,Normal,6.85,,None,Yes,Low,Non-Smoker,Yes
+62,7.44,1.16,Normal,7.01,19.02,None,No,Low,Smoker,Yes
+32,11.13,4.59,Normal,6.89,23.93,Diuretic,No,Moderate,Smoker,Yes
+60,9.52,4.5,Normal,7.88,26.06,None,No,Low,Non-Smoker,Yes
+46,2.01,1.62,Prehypertension,7.92,33.06,ACE Inhibitor,No,Moderate,Non-Smoker,Yes
+53,5.47,5.65,Hypertension,5.9,23.88,None,No,Moderate,Non-Smoker,Yes
+30,,5.54,Prehypertension,6.4,30.59,Diuretic,No,Low,Non-Smoker,Yes
+49,3.89,2.09,Normal,6.18,20.22,None,No,Low,Smoker,Yes
+24,,2.55,Prehypertension,8.67,21.77,Diuretic,No,Low,Non-Smoker,Yes
+76,3.97,3.69,Prehypertension,9.7,26.64,Other,Yes,,Smoker,Yes
+68,6.89,2.33,Prehypertension,6.44,24.91,None,No,Low,Non-Smoker,Yes
+39,6.99,5.41,Prehypertension,6.8,22.52,None,No,Low,Non-Smoker,Yes
+45,9.06,4.33,Hypertension,8.01,22.4,None,No,Low,Non-Smoker,Yes
+19,7.72,1.59,Normal,6.15,30.0,None,No,Moderate,Smoker,Yes
+59,9.51,2.19,Prehypertension,8.04,22.7,None,No,Low,Non-Smoker,Yes
+62,9.15,6.61,Normal,6.97,19.41,None,No,Moderate,Smoker,Yes
+79,11.09,7.38,Hypertension,4.91,20.15,ACE Inhibitor,No,Low,Non-Smoker,Yes
+74,10.62,5.19,Normal,5.44,27.01,ACE Inhibitor,No,Moderate,Non-Smoker,Yes
+70,10.3,3.54,Normal,6.59,34.15,Beta Blocker,Yes,Low,Non-Smoker,Yes
+23,17.31,3.03,Normal,8.47,21.64,None,No,Moderate,Non-Smoker,Yes
+45,9.04,5.21,Prehypertension,5.93,33.67,Beta Blocker,No,Low,Non-Smoker,Yes
+45,15.78,4.17,Normal,6.36,23.95,None,No,Moderate,Non-Smoker,Yes
+61,9.24,0.46,Normal,7.25,22.74,None,No,Low,Non-Smoker,Yes
+61,7.75,6.27,Hypertension,5.0,19.9,None,Yes,Moderate,Non-Smoker,Yes
+37,6.88,6.96,Hypertension,7.36,23.11,ACE Inhibitor,No,Low,Non-Smoker,Yes
+47,12.53,5.62,Normal,5.15,,Beta Blocker,No,Moderate,Non-Smoker,Yes
+79,12.92,1.6,Normal,7.68,20.24,None,Yes,Low,Smoker,Yes
+28,9.8,2.6,Prehypertension,6.03,16.57,Beta Blocker,No,Moderate,Smoker,Yes
+75,11.4,0.0,Hypertension,,31.95,None,No,Low,Non-Smoker,Yes
+72,4.17,7.51,Normal,7.33,28.79,Beta Blocker,No,Low,Non-Smoker,Yes
+45,3.35,3.22,Prehypertension,7.95,25.22,None,Yes,Moderate,Non-Smoker,Yes
+42,11.74,9.13,Normal,7.45,23.35,None,Yes,High,Non-Smoker,No
+56,7.62,8.3,Prehypertension,7.25,23.97,None,No,Moderate,Non-Smoker,Yes
+79,10.25,2.01,Prehypertension,7.27,20.5,None,No,Moderate,Non-Smoker,Yes
+50,5.85,2.44,Normal,7.46,18.9,None,No,Moderate,Non-Smoker,No
+18,12.97,5.03,Normal,7.54,27.23,None,Yes,Moderate,Non-Smoker,No
+74,3.38,0.14,Hypertension,6.53,22.82,None,No,Low,Smoker,Yes
+44,3.84,3.04,Prehypertension,7.79,25.47,Beta Blocker,No,Low,Non-Smoker,Yes
+79,12.33,2.82,Normal,6.04,16.52,ACE Inhibitor,Yes,High,Non-Smoker,Yes
+74,0.17,8.07,Prehypertension,8.31,22.58,None,No,Moderate,Non-Smoker,Yes
+69,9.14,4.35,Prehypertension,7.94,18.81,Other,No,Moderate,Non-Smoker,Yes
+30,,3.37,Normal,9.62,26.18,None,Yes,,Smoker,Yes
+58,5.79,2.61,Prehypertension,7.62,28.48,Diuretic,Yes,Low,Smoker,Yes
+20,7.4,5.97,Normal,8.09,30.57,None,No,Low,Smoker,Yes
+56,5.46,2.91,Hypertension,5.13,21.17,None,Yes,Moderate,Smoker,Yes
+23,12.63,3.89,Normal,8.13,18.92,None,Yes,Low,Smoker,Yes
+25,13.41,2.59,Normal,8.41,22.12,Beta Blocker,No,Low,Non-Smoker,Yes
+44,5.94,0.66,Normal,8.81,,None,Yes,Moderate,Non-Smoker,Yes
+26,8.83,1.81,Prehypertension,7.14,25.94,Beta Blocker,No,High,Non-Smoker,Yes
+79,4.02,2.9,Prehypertension,6.59,17.69,None,Yes,Low,Non-Smoker,Yes
+54,11.22,3.42,Hypertension,5.69,16.11,None,No,Moderate,Non-Smoker,Yes
+50,11.14,3.52,Prehypertension,5.8,22.44,None,No,Low,Non-Smoker,Yes
+68,7.11,3.8,Normal,6.97,27.27,Beta Blocker,No,Low,Smoker,Yes
+59,8.05,2.92,Hypertension,4.9,19.38,None,No,High,Smoker,Yes
+61,7.72,6.97,Normal,6.08,27.82,Beta Blocker,Yes,Moderate,Non-Smoker,Yes
+41,3.14,6.09,Prehypertension,7.11,25.64,None,No,Low,Non-Smoker,Yes
+32,12.64,3.7,Normal,7.08,30.96,Beta Blocker,Yes,Moderate,Non-Smoker,Yes
+76,5.7,4.56,Prehypertension,5.84,20.39,None,Yes,Low,Non-Smoker,Yes
+71,5.72,3.18,Prehypertension,5.52,16.77,None,No,Moderate,Non-Smoker,Yes
+49,7.55,0.0,Prehypertension,,26.69,None,No,Low,Non-Smoker,Yes
+49,10.99,,Normal,6.73,25.26,None,No,Moderate,Non-Smoker,No
+41,6.23,4.67,Normal,,24.91,None,Yes,Moderate,Non-Smoker,Yes
+58,2.14,0.45,Normal,8.27,19.28,ACE Inhibitor,No,Low,Non-Smoker,Yes
+69,5.34,5.1,Prehypertension,7.26,27.49,None,Yes,High,Non-Smoker,Yes
+66,9.27,3.38,Normal,7.66,21.15,None,No,High,Smoker,Yes
+79,14.57,4.74,Hypertension,8.22,24.91,None,No,Low,Non-Smoker,Yes
+66,4.22,3.45,Normal,7.81,21.93,None,No,Moderate,Non-Smoker,Yes
+75,,6.75,Normal,6.63,25.59,None,No,Moderate,Non-Smoker,Yes
+69,3.46,4.5,Prehypertension,5.99,18.62,None,No,Moderate,Smoker,Yes
+29,3.09,6.21,Normal,6.85,26.25,Beta Blocker,No,High,Smoker,No
+79,11.62,6.39,Hypertension,8.21,26.96,None,No,Moderate,Non-Smoker,Yes
+56,12.48,1.54,Prehypertension,6.68,24.52,Beta Blocker,No,,Non-Smoker,Yes
+19,,2.37,Normal,5.67,31.4,None,No,Moderate,Non-Smoker,Yes
+20,,4.99,Normal,4.93,24.93,None,No,Moderate,Non-Smoker,No
+66,13.37,3.2,Normal,6.85,28.13,None,No,Moderate,Non-Smoker,Yes
+54,8.52,3.48,Normal,5.77,24.42,Beta Blocker,Yes,Low,Smoker,Yes
+66,11.27,6.83,Prehypertension,6.48,27.73,None,No,Moderate,Non-Smoker,Yes
+73,6.45,3.32,Normal,8.75,17.1,Diuretic,No,Moderate,Non-Smoker,Yes
+34,8.13,1.87,Normal,6.94,24.15,None,No,Moderate,Non-Smoker,Yes
+76,4.29,2.17,Normal,6.1,18.93,Diuretic,Yes,Moderate,Non-Smoker,Yes
+66,9.89,8.8,Normal,7.37,24.63,None,Yes,Low,Non-Smoker,Yes
+19,8.57,3.61,Normal,9.31,25.73,None,No,Low,Non-Smoker,Yes
+19,5.32,1.0,Hypertension,6.86,27.63,None,No,Moderate,Non-Smoker,Yes
+45,5.36,0.11,Prehypertension,4.17,26.2,None,No,,Smoker,Yes
+71,12.85,2.63,Prehypertension,7.78,22.48,None,Yes,,Non-Smoker,Yes
+40,13.92,3.57,Prehypertension,,20.61,None,No,Moderate,Non-Smoker,Yes
+54,7.36,6.09,Normal,7.11,15.0,Beta Blocker,Yes,High,Non-Smoker,Yes
+49,8.2,5.88,Hypertension,6.74,24.31,None,Yes,,Non-Smoker,Yes
+50,9.2,3.99,Normal,6.03,29.12,None,Yes,High,Non-Smoker,Yes
+18,8.44,3.0,Normal,8.82,24.49,None,No,Low,Smoker,Yes
+36,2.98,4.75,Normal,4.79,23.62,None,No,Moderate,Non-Smoker,No
+79,9.28,0.15,Normal,6.63,24.64,None,No,Moderate,Non-Smoker,Yes
+19,1.74,8.36,Prehypertension,6.6,22.26,None,No,Low,Non-Smoker,Yes
+70,5.8,5.44,Normal,8.02,24.88,Beta Blocker,No,Low,Non-Smoker,Yes
+61,9.52,5.91,Prehypertension,,22.18,None,No,Low,Non-Smoker,Yes
+43,9.8,1.64,Normal,6.73,19.96,None,No,Moderate,Non-Smoker,Yes
+49,5.57,6.82,Normal,7.23,23.66,None,No,Low,Non-Smoker,Yes
+23,6.62,2.99,Prehypertension,7.33,23.56,None,No,High,Non-Smoker,No
+49,6.22,1.9,Normal,8.26,,None,No,Low,Non-Smoker,Yes
+72,7.69,3.91,Normal,8.24,20.37,None,No,High,Non-Smoker,Yes
+21,7.92,3.86,Normal,6.35,23.28,None,No,Low,Non-Smoker,Yes
+72,10.01,,Prehypertension,7.53,22.85,None,No,Low,Non-Smoker,Yes
+28,6.45,2.03,Prehypertension,7.46,21.99,Other,Yes,Low,Non-Smoker,Yes
+73,9.12,1.86,Normal,6.86,26.31,None,No,High,Smoker,No
+76,9.52,1.88,Hypertension,7.45,34.07,None,No,Moderate,Non-Smoker,Yes
+34,8.59,3.15,Hypertension,7.02,22.56,None,Yes,Low,Non-Smoker,Yes
+55,7.22,0.94,Prehypertension,7.19,26.32,None,No,Low,Non-Smoker,No
+41,8.54,2.48,Prehypertension,5.37,15.39,ACE Inhibitor,No,Low,Non-Smoker,Yes
+22,10.26,6.3,Normal,5.9,22.23,None,No,Moderate,Non-Smoker,Yes
+69,10.52,,Prehypertension,7.98,31.0,None,No,Low,Non-Smoker,Yes
+51,13.45,1.69,Normal,5.55,23.75,Diuretic,No,Moderate,Non-Smoker,Yes
+23,5.03,6.11,Normal,7.56,26.26,None,Yes,Moderate,Non-Smoker,No
+39,6.68,0.0,Hypertension,6.9,21.2,Other,No,High,Non-Smoker,Yes
+28,3.16,9.34,Prehypertension,8.24,25.16,ACE Inhibitor,Yes,Moderate,Non-Smoker,Yes
+65,10.79,,Normal,7.78,31.35,None,Yes,Low,Smoker,Yes
+33,7.0,2.77,Normal,6.46,18.78,None,Yes,High,Smoker,No
+50,8.62,4.84,Prehypertension,6.73,33.84,None,Yes,Low,Smoker,Yes
+26,6.19,0.92,Normal,4.62,17.04,None,No,Moderate,Non-Smoker,No
+77,7.02,4.13,Normal,6.84,21.82,None,No,Moderate,Smoker,Yes
+76,11.67,3.6,Normal,5.48,20.24,None,No,Low,Non-Smoker,Yes
+23,10.08,2.16,Normal,6.74,22.77,Other,No,Low,Non-Smoker,Yes
+33,7.67,2.97,Prehypertension,6.23,20.18,None,No,Low,Non-Smoker,Yes
+46,10.3,2.75,Normal,5.95,19.84,None,No,Low,Non-Smoker,Yes
+20,10.37,1.51,Prehypertension,8.43,18.66,None,No,Low,Non-Smoker,Yes
+37,6.83,2.11,Normal,5.47,26.9,ACE Inhibitor,No,Low,Non-Smoker,Yes
+77,3.59,0.83,Prehypertension,5.84,22.93,None,No,Low,Smoker,Yes
+76,5.3,5.89,Hypertension,6.16,21.75,None,Yes,Moderate,Non-Smoker,Yes
+53,3.98,1.95,Prehypertension,6.42,,Diuretic,No,Moderate,Non-Smoker,Yes
+36,11.49,1.31,Hypertension,5.95,17.27,Diuretic,No,Moderate,Smoker,Yes
+43,12.01,5.85,Hypertension,6.57,25.38,ACE Inhibitor,No,Moderate,Non-Smoker,Yes
+20,12.76,4.81,Normal,7.36,23.58,Beta Blocker,No,Moderate,Non-Smoker,Yes
+36,1.94,5.77,Prehypertension,7.8,,None,Yes,High,Non-Smoker,Yes
+37,11.21,6.02,Hypertension,7.75,26.34,None,Yes,Moderate,Non-Smoker,Yes
+49,14.64,,Normal,4.71,31.4,None,No,Moderate,Non-Smoker,Yes
+24,11.34,3.66,Normal,7.46,25.45,None,No,Low,Non-Smoker,Yes
+69,1.55,0.79,Hypertension,7.53,23.1,None,No,Moderate,Non-Smoker,Yes
+58,13.3,4.6,Prehypertension,6.21,18.68,None,No,Moderate,Non-Smoker,Yes
+50,8.13,2.53,Normal,9.0,15.0,ACE Inhibitor,Yes,Moderate,Non-Smoker,Yes
+57,7.3,1.89,Normal,8.31,24.58,None,No,Moderate,Non-Smoker,No
+56,9.35,4.22,Prehypertension,6.78,18.33,None,No,Low,Non-Smoker,Yes
+35,4.85,5.9,Normal,6.28,15.0,None,No,,Smoker,Yes
+57,8.01,2.16,Prehypertension,8.98,22.42,ACE Inhibitor,Yes,High,Non-Smoker,Yes
+18,12.86,6.8,Prehypertension,6.98,25.08,None,No,Moderate,Non-Smoker,Yes
+28,9.87,1.82,Prehypertension,7.1,,None,No,Low,Non-Smoker,Yes
+45,8.18,3.46,Normal,7.09,28.78,None,Yes,Low,Smoker,Yes
+74,8.27,4.85,Prehypertension,,27.94,None,No,Moderate,Smoker,Yes
+42,4.46,3.15,Prehypertension,6.74,28.06,None,No,Moderate,Non-Smoker,Yes
+67,7.55,0.09,Prehypertension,6.97,17.39,ACE Inhibitor,No,Moderate,Non-Smoker,Yes
+40,3.1,6.04,Normal,6.0,23.33,Other,No,Low,Smoker,Yes
+48,11.07,2.63,Normal,6.53,26.61,Other,No,Low,Non-Smoker,Yes
+47,,5.64,Hypertension,,24.21,None,No,Low,Non-Smoker,Yes
+59,10.56,1.22,Normal,6.03,23.3,Other,No,Moderate,Smoker,No
+52,10.94,1.59,Normal,4.83,24.13,Other,No,Low,Smoker,Yes
+24,11.96,5.9,Normal,8.06,25.1,Other,Yes,Low,Non-Smoker,Yes
+77,8.26,4.75,Prehypertension,7.19,23.65,None,No,Moderate,Smoker,Yes
+33,10.75,3.04,Normal,7.29,20.19,Beta Blocker,No,Moderate,Smoker,Yes
+43,7.52,4.78,Normal,6.94,16.34,None,Yes,Low,Non-Smoker,Yes
+65,4.44,1.9,Normal,7.09,23.08,ACE Inhibitor,No,Moderate,Non-Smoker,Yes
+74,12.59,4.24,Prehypertension,8.94,24.26,None,No,High,Non-Smoker,Yes
+69,7.71,4.28,Normal,6.08,24.21,None,No,High,Non-Smoker,Yes
+77,3.77,3.18,Normal,7.33,28.29,Other,No,Moderate,Non-Smoker,Yes
+66,6.6,2.16,Normal,7.33,29.09,None,No,Moderate,Smoker,Yes
+19,6.72,4.15,Hypertension,8.37,23.53,None,No,Low,Smoker,Yes
+18,9.39,3.88,Normal,7.53,23.56,Other,No,Moderate,Non-Smoker,Yes
+65,15.04,2.98,Normal,7.59,26.58,Other,Yes,Moderate,Non-Smoker,Yes
+79,9.57,1.73,Normal,5.49,25.92,None,Yes,Moderate,Non-Smoker,Yes
+29,8.62,4.03,Hypertension,6.03,22.01,ACE Inhibitor,Yes,Moderate,Smoker,Yes
+22,15.37,2.98,Prehypertension,5.6,26.97,None,No,Moderate,Smoker,Yes
+54,10.94,1.72,Hypertension,4.03,23.34,None,No,High,Smoker,Yes
+49,8.76,4.1,Prehypertension,7.48,,None,No,Low,Non-Smoker,No
+76,6.56,7.54,Normal,6.69,25.95,None,No,,Smoker,Yes
+72,8.95,3.19,Prehypertension,7.48,22.64,None,No,Moderate,Non-Smoker,Yes
+26,7.8,7.3,Normal,7.04,24.43,None,No,Low,Non-Smoker,Yes
+58,8.27,8.65,Normal,7.29,25.34,ACE Inhibitor,No,Moderate,Smoker,Yes
+52,11.94,1.9,Normal,8.61,27.68,None,No,Low,Smoker,Yes
+36,6.38,4.02,Normal,7.01,27.37,ACE Inhibitor,No,Moderate,Non-Smoker,Yes
+65,9.54,8.63,Hypertension,7.8,25.2,Beta Blocker,No,Moderate,Smoker,Yes
+33,10.85,3.73,Normal,6.64,15.0,None,No,Low,Smoker,Yes
+20,6.01,4.08,Hypertension,7.99,25.1,Other,No,Low,Non-Smoker,Yes
+37,5.53,0.33,Normal,5.51,25.79,ACE Inhibitor,Yes,Low,Non-Smoker,Yes
+41,7.55,2.83,Normal,4.79,26.7,None,Yes,Low,Non-Smoker,Yes
+71,6.62,5.22,Hypertension,9.53,19.7,None,No,Moderate,Smoker,Yes
+73,11.46,9.34,Prehypertension,9.2,15.0,Beta Blocker,No,Moderate,Non-Smoker,Yes
+50,4.99,,Prehypertension,4.67,27.63,Beta Blocker,No,Low,Non-Smoker,Yes
+41,8.21,0.34,Normal,6.96,18.49,ACE Inhibitor,No,Moderate,Non-Smoker,No
+69,15.64,0.91,Normal,7.18,29.5,None,No,Low,Smoker,No
+28,9.24,3.92,Prehypertension,7.87,21.4,None,No,Moderate,Non-Smoker,Yes
+66,9.74,6.59,Prehypertension,9.09,19.38,None,No,Low,Non-Smoker,Yes
+25,11.48,5.4,Normal,5.73,25.57,None,No,Moderate,Non-Smoker,Yes
+53,6.61,5.01,Hypertension,5.79,26.77,None,No,Moderate,Non-Smoker,Yes
+55,4.76,6.88,Prehypertension,7.0,26.5,None,Yes,Moderate,Non-Smoker,Yes
+57,,2.42,Hypertension,5.84,26.26,None,No,Moderate,Non-Smoker,Yes
+37,8.8,4.04,Prehypertension,3.74,20.81,Beta Blocker,No,High,Non-Smoker,No
+79,3.15,2.86,Prehypertension,6.73,17.13,None,Yes,High,Non-Smoker,Yes
+52,9.13,3.4,Normal,8.03,22.25,None,No,Moderate,Non-Smoker,Yes
+65,11.21,1.79,Normal,6.98,18.84,Diuretic,No,Low,Non-Smoker,Yes
+79,5.26,3.24,Hypertension,7.75,25.95,Other,Yes,High,Smoker,Yes
+42,9.31,,Normal,7.58,27.93,None,Yes,Low,Non-Smoker,Yes
+52,10.68,3.18,Normal,5.77,24.78,None,No,,Non-Smoker,Yes
+42,9.76,3.65,Normal,7.08,24.0,ACE Inhibitor,No,Moderate,Non-Smoker,Yes
+46,10.04,4.89,Normal,5.17,22.6,None,No,High,Non-Smoker,Yes
+35,7.27,6.73,Hypertension,6.39,28.41,Beta Blocker,Yes,,Smoker,Yes
+63,4.62,6.88,Hypertension,7.06,15.76,None,No,,Non-Smoker,Yes
+35,6.66,5.68,Normal,7.0,18.57,None,No,Moderate,Non-Smoker,Yes
+19,6.24,1.23,Normal,5.45,32.22,None,No,Low,Non-Smoker,No
+71,7.76,3.21,Prehypertension,5.69,18.35,None,No,Low,Non-Smoker,Yes
+52,11.28,3.4,Prehypertension,7.35,26.39,None,Yes,Moderate,Non-Smoker,Yes
+33,4.06,2.55,Hypertension,7.99,27.32,None,No,Low,Non-Smoker,Yes
+78,8.43,4.75,Normal,6.75,15.33,Other,Yes,Moderate,Smoker,Yes
+58,4.81,0.49,Normal,6.69,16.2,None,No,High,Smoker,No
+53,5.78,7.73,Normal,8.12,29.69,None,No,Moderate,Non-Smoker,No
+50,9.68,6.63,Hypertension,6.07,19.62,ACE Inhibitor,No,Low,Smoker,Yes
+21,,5.05,Prehypertension,9.07,19.74,None,No,Moderate,Smoker,No
+50,10.2,3.86,Prehypertension,5.39,21.66,Beta Blocker,No,High,Non-Smoker,Yes
+31,3.94,,Normal,8.26,19.63,Other,No,Moderate,Non-Smoker,No
+38,10.0,5.52,Prehypertension,7.65,26.37,None,No,Moderate,Non-Smoker,Yes
+65,3.35,6.43,Prehypertension,9.89,18.68,None,No,High,Smoker,Yes
+37,6.15,3.87,Normal,5.65,15.15,ACE Inhibitor,No,Low,Non-Smoker,Yes
+73,,7.94,Normal,4.2,29.2,None,Yes,High,Non-Smoker,Yes
+25,13.13,6.57,Normal,8.5,18.9,None,Yes,High,Non-Smoker,Yes
+24,6.76,5.12,Normal,5.23,20.62,ACE Inhibitor,No,,Non-Smoker,No
+20,9.17,6.76,Normal,7.74,27.73,Diuretic,Yes,Low,Non-Smoker,Yes
+34,11.61,3.08,Normal,8.42,24.32,Other,No,High,Non-Smoker,Yes
+50,10.04,1.43,Normal,7.46,29.01,None,Yes,Moderate,Non-Smoker,Yes
+65,7.18,4.71,Normal,7.28,27.8,None,No,Moderate,Non-Smoker,Yes
+29,5.75,3.87,Normal,7.48,21.96,None,No,Moderate,Non-Smoker,No
+76,10.6,3.57,Hypertension,8.0,28.6,None,Yes,Low,Non-Smoker,Yes
+68,11.39,6.68,Normal,7.7,24.75,None,No,Low,Non-Smoker,Yes
+39,13.15,4.37,Prehypertension,5.54,21.31,None,No,Moderate,Smoker,Yes
+72,2.94,4.58,Normal,9.19,25.31,None,No,Moderate,Smoker,Yes
+39,4.24,3.28,Prehypertension,7.06,18.11,None,No,Moderate,Non-Smoker,Yes
+63,11.49,,Normal,7.62,27.75,None,No,Low,Non-Smoker,Yes
+47,3.35,5.54,Prehypertension,7.85,27.17,None,Yes,Moderate,Non-Smoker,Yes
+55,11.72,5.92,Normal,8.39,24.54,ACE Inhibitor,Yes,Low,Non-Smoker,Yes
+55,7.36,,Prehypertension,8.26,15.37,None,Yes,Moderate,Non-Smoker,Yes
+62,6.44,6.87,Normal,7.16,29.19,Beta Blocker,No,Low,Non-Smoker,Yes
+68,8.62,8.05,Prehypertension,7.08,25.97,ACE Inhibitor,No,Moderate,Non-Smoker,Yes
+71,3.96,5.85,Normal,7.49,23.9,None,Yes,Moderate,Non-Smoker,Yes
+25,,2.22,Normal,8.32,23.19,None,No,High,Non-Smoker,Yes
+44,13.07,2.24,Normal,5.66,21.58,None,No,Moderate,Smoker,Yes
+44,10.61,3.17,Prehypertension,7.77,22.45,ACE Inhibitor,No,Moderate,Smoker,Yes
+51,7.26,2.76,Hypertension,5.94,27.46,None,No,Low,Non-Smoker,Yes
+38,3.39,3.84,Prehypertension,9.22,21.67,Beta Blocker,No,Moderate,Non-Smoker,Yes
+47,3.5,5.39,Normal,7.44,22.77,Other,No,Moderate,Non-Smoker,Yes
+50,4.01,4.64,Normal,6.5,23.43,Other,No,Low,Non-Smoker,Yes
+45,7.96,4.45,Hypertension,7.51,23.55,None,No,Moderate,Non-Smoker,Yes
+64,8.34,3.47,Normal,7.01,21.22,Diuretic,No,Moderate,Non-Smoker,Yes
+50,10.61,3.84,Prehypertension,6.81,23.23,Other,No,Low,Non-Smoker,Yes
+22,2.61,5.75,Hypertension,4.83,25.54,None,No,Low,Non-Smoker,Yes
+77,11.93,0.0,Hypertension,5.77,19.93,None,No,Moderate,Non-Smoker,Yes
+78,,3.97,Normal,6.83,23.25,None,No,Moderate,Smoker,Yes
+65,7.02,4.63,Normal,4.97,32.69,None,No,Low,Non-Smoker,Yes
+36,4.43,5.72,Normal,6.3,23.72,ACE Inhibitor,No,High,Non-Smoker,Yes
+21,11.75,1.78,Prehypertension,6.4,19.81,None,No,High,Non-Smoker,No
+52,7.1,1.66,Normal,6.06,19.29,ACE Inhibitor,No,Low,Non-Smoker,Yes
+66,7.94,5.28,Normal,7.93,18.31,Diuretic,No,Low,Non-Smoker,Yes
+34,9.15,0.0,Normal,5.94,31.32,None,No,Moderate,Non-Smoker,No
+61,5.26,6.93,Normal,7.11,28.54,None,No,High,Smoker,Yes
+45,7.15,4.5,Prehypertension,6.58,18.2,None,No,Moderate,Non-Smoker,Yes
+47,10.6,7.43,Prehypertension,6.86,24.96,ACE Inhibitor,No,Moderate,Non-Smoker,Yes
+46,10.29,1.61,Normal,8.93,29.51,None,No,Low,Non-Smoker,Yes
+63,10.32,3.04,Normal,7.22,23.82,None,No,,Non-Smoker,Yes
+70,4.53,0.0,Hypertension,7.45,21.79,None,Yes,Moderate,Non-Smoker,Yes
+23,7.29,2.25,Normal,6.08,34.08,ACE Inhibitor,No,Low,Non-Smoker,Yes
+52,6.81,3.6,Prehypertension,7.75,15.43,ACE Inhibitor,Yes,Moderate,Non-Smoker,Yes
+77,9.28,0.0,Hypertension,7.7,35.85,None,No,Low,Non-Smoker,Yes
+58,9.01,3.13,Normal,7.59,24.27,None,No,Moderate,Non-Smoker,No
+54,8.47,0.0,Normal,5.55,29.81,Beta Blocker,No,Low,Non-Smoker,Yes
+41,15.4,3.43,Hypertension,6.3,18.6,None,Yes,Low,Non-Smoker,Yes
+46,7.13,6.52,Normal,8.72,20.73,None,No,High,Non-Smoker,Yes
+66,6.78,3.92,Normal,6.17,19.14,None,No,Low,Non-Smoker,Yes
+63,4.53,7.65,Normal,8.88,23.55,None,Yes,Moderate,Non-Smoker,Yes
+70,3.39,5.73,Normal,6.34,25.38,None,No,Low,Smoker,Yes
+48,4.34,6.97,Prehypertension,7.18,28.8,None,Yes,Low,Non-Smoker,Yes
+52,5.84,2.32,Hypertension,6.78,,None,No,Low,Non-Smoker,No
+77,11.93,2.26,Prehypertension,5.99,24.71,None,No,Low,Non-Smoker,Yes
+50,8.12,4.76,Normal,6.0,,None,No,Low,Non-Smoker,Yes
+69,8.58,0.53,Normal,6.15,28.87,None,No,High,Non-Smoker,Yes
+78,7.71,,Prehypertension,7.18,22.02,None,No,Low,Non-Smoker,Yes
+38,9.1,3.29,Normal,8.07,22.07,None,No,Low,Non-Smoker,Yes
+49,12.21,6.93,Prehypertension,,23.59,Other,No,Moderate,Non-Smoker,Yes
+40,2.02,5.49,Normal,6.96,,None,Yes,Low,Non-Smoker,Yes
+50,11.66,6.41,Prehypertension,8.45,29.86,ACE Inhibitor,No,Moderate,Non-Smoker,Yes
+20,0.45,2.34,Normal,7.05,18.55,None,No,Low,Non-Smoker,No
+35,8.08,6.31,Normal,6.35,20.46,None,Yes,Low,Non-Smoker,Yes
+42,14.58,7.18,Normal,5.8,18.01,None,Yes,Moderate,Non-Smoker,Yes
+59,10.04,3.91,Normal,8.52,25.92,None,Yes,High,Non-Smoker,Yes
+48,9.12,2.37,Normal,6.6,28.96,Beta Blocker,No,Low,Smoker,Yes
+71,14.01,2.41,Prehypertension,6.31,17.61,None,No,Moderate,Non-Smoker,Yes
+75,5.89,6.73,Prehypertension,6.2,24.4,None,No,Low,Non-Smoker,Yes
+20,9.3,,Prehypertension,,28.63,ACE Inhibitor,No,Low,Non-Smoker,Yes
+57,9.73,1.84,Hypertension,6.31,27.53,None,No,High,Non-Smoker,Yes
+63,6.43,1.67,Normal,8.19,27.48,None,No,Low,Non-Smoker,Yes
+41,6.7,6.03,Normal,6.72,18.65,None,No,High,Non-Smoker,Yes
+67,6.37,2.34,Normal,5.55,27.46,None,No,Low,Non-Smoker,Yes
+49,8.26,6.24,Prehypertension,6.6,23.16,None,No,High,Non-Smoker,No
+64,9.64,5.02,Normal,6.96,28.82,None,No,Moderate,Non-Smoker,Yes
+39,8.37,3.95,Prehypertension,6.86,26.02,None,Yes,High,Non-Smoker,Yes
+40,10.13,4.97,Normal,6.83,20.33,None,No,Low,Non-Smoker,Yes
+19,2.09,4.84,Hypertension,6.61,25.25,Beta Blocker,No,Moderate,Smoker,Yes
+44,7.35,3.6,Hypertension,6.06,27.68,Beta Blocker,No,Moderate,Non-Smoker,Yes
+59,4.93,0.14,Normal,7.01,21.72,Other,No,Moderate,Smoker,Yes
+19,8.91,4.39,Normal,7.65,24.58,ACE Inhibitor,No,Moderate,Non-Smoker,Yes
+43,8.86,7.46,Prehypertension,5.24,17.99,ACE Inhibitor,No,Moderate,Smoker,Yes
+34,7.65,0.46,Normal,8.56,26.47,Diuretic,No,High,Non-Smoker,No
+57,9.53,1.88,Normal,3.0,23.75,None,No,Low,Non-Smoker,Yes
+50,10.99,4.94,Prehypertension,7.09,28.11,None,No,Moderate,Smoker,Yes
+26,7.82,4.08,Normal,7.56,26.34,None,No,High,Smoker,Yes
+60,4.84,4.9,Prehypertension,6.28,22.17,None,No,Low,Non-Smoker,Yes
+71,3.26,2.46,Prehypertension,,20.19,ACE Inhibitor,No,Moderate,Non-Smoker,Yes
+65,8.11,6.56,Normal,6.88,19.16,None,Yes,High,Smoker,Yes
+56,8.73,4.1,Normal,7.2,21.72,None,Yes,Moderate,Smoker,Yes
+46,5.09,5.53,Normal,,27.99,None,No,Low,Non-Smoker,Yes
+59,10.18,4.7,Prehypertension,6.0,16.1,None,Yes,Low,Non-Smoker,Yes
+72,6.62,4.39,Normal,8.16,19.34,None,No,High,Non-Smoker,Yes
+43,3.03,5.38,Hypertension,7.14,27.87,None,No,High,Non-Smoker,Yes
+52,11.77,4.41,Normal,5.19,29.98,None,No,High,Smoker,Yes
+67,11.43,1.38,Normal,7.54,19.58,None,Yes,,Non-Smoker,Yes
+42,1.95,6.39,Normal,5.88,19.29,None,No,Moderate,Non-Smoker,Yes
+41,6.31,5.8,Normal,6.07,30.33,None,No,,Non-Smoker,Yes
+30,6.2,,Normal,7.24,23.44,ACE Inhibitor,No,Low,Non-Smoker,Yes
+77,12.92,2.56,Normal,7.13,19.97,None,No,Low,Non-Smoker,No
+75,7.7,6.29,Normal,6.52,28.7,None,No,Low,Smoker,Yes
+24,3.51,0.0,Normal,6.39,26.27,Other,No,High,Non-Smoker,Yes
+74,10.65,6.08,Normal,6.7,27.31,None,No,Moderate,Non-Smoker,Yes
+53,4.31,3.69,Prehypertension,6.06,20.21,None,No,Moderate,Non-Smoker,Yes
+62,7.22,6.95,Normal,8.31,25.69,None,No,High,Non-Smoker,Yes
+37,5.69,4.0,Normal,5.12,29.61,Diuretic,Yes,High,Smoker,Yes
+18,6.32,2.41,Prehypertension,6.71,26.88,None,No,Moderate,Non-Smoker,No
+25,10.81,4.68,Normal,5.25,28.14,None,Yes,,Non-Smoker,Yes
+63,12.56,3.93,Prehypertension,8.12,30.31,Beta Blocker,No,Low,Smoker,Yes
+33,4.18,2.22,Normal,6.71,25.92,None,No,Moderate,Non-Smoker,Yes
+31,9.88,8.88,Normal,5.73,21.46,ACE Inhibitor,Yes,Low,Non-Smoker,Yes
+29,5.8,1.86,Hypertension,7.82,27.95,None,No,Low,Non-Smoker,Yes
+68,5.89,0.0,Normal,4.25,19.02,None,No,High,Non-Smoker,Yes
+40,9.47,7.48,Prehypertension,7.34,23.0,Beta Blocker,No,Low,Non-Smoker,Yes
+32,4.92,2.72,Normal,8.38,26.65,None,Yes,Low,Smoker,Yes
+45,9.41,3.35,Prehypertension,7.22,15.0,ACE Inhibitor,No,Moderate,Non-Smoker,Yes
+51,10.19,3.21,Hypertension,6.39,25.14,Other,Yes,Moderate,Non-Smoker,Yes
+19,6.7,2.75,Normal,5.51,25.35,None,No,Low,Non-Smoker,Yes
+49,11.98,2.31,Prehypertension,8.3,18.89,ACE Inhibitor,No,Low,Non-Smoker,Yes
+40,4.18,1.81,Normal,8.11,25.47,None,Yes,High,Non-Smoker,Yes
+39,12.04,4.14,Prehypertension,6.23,24.85,ACE Inhibitor,Yes,Low,Non-Smoker,Yes
+68,2.17,3.12,Normal,6.26,24.15,None,No,Moderate,Non-Smoker,Yes
+42,16.1,5.61,Hypertension,8.42,29.35,None,No,Moderate,Non-Smoker,Yes
+75,6.78,5.06,Normal,7.64,27.96,None,No,Moderate,Non-Smoker,No
+79,4.51,1.96,Normal,4.86,26.88,None,Yes,Low,Non-Smoker,Yes
+78,7.3,4.24,Hypertension,,19.39,None,No,Moderate,Non-Smoker,Yes
+39,4.86,3.08,Prehypertension,6.72,23.92,ACE Inhibitor,Yes,High,Non-Smoker,Yes
+75,9.16,1.82,Normal,7.3,29.33,ACE Inhibitor,No,Low,Non-Smoker,Yes
+75,12.1,5.52,Normal,7.01,23.03,None,No,Low,Non-Smoker,Yes
+39,5.02,3.73,Normal,6.38,30.99,None,No,Low,Non-Smoker,Yes
+66,9.74,3.1,Normal,7.21,27.01,ACE Inhibitor,Yes,Moderate,Non-Smoker,Yes
+69,3.4,2.12,Normal,6.46,,None,No,Moderate,Non-Smoker,Yes
+59,11.1,,Prehypertension,11.1,19.2,None,No,Low,Non-Smoker,Yes
+23,9.25,8.38,Normal,7.15,23.3,None,No,Low,Non-Smoker,No
+32,11.23,4.74,Prehypertension,6.98,23.73,None,No,Moderate,Non-Smoker,Yes
+71,7.63,1.6,Prehypertension,9.21,26.73,None,No,High,Smoker,Yes
+60,6.69,4.63,Normal,5.36,20.68,Beta Blocker,No,Moderate,Non-Smoker,Yes
+77,10.45,6.34,Normal,6.87,16.77,None,Yes,Low,Non-Smoker,Yes
+54,4.08,4.37,Normal,5.86,25.7,None,No,Low,Non-Smoker,No
+50,2.77,7.02,Normal,7.76,22.35,ACE Inhibitor,Yes,Moderate,Non-Smoker,Yes
+25,7.99,0.61,Prehypertension,6.41,21.88,None,No,Low,Smoker,Yes
+70,6.83,0.0,Normal,7.7,20.88,None,No,Moderate,Non-Smoker,Yes
+77,9.66,4.57,Prehypertension,7.61,24.56,None,No,Moderate,Non-Smoker,Yes
+61,11.27,4.61,Normal,7.94,19.15,None,No,Low,Non-Smoker,Yes
+61,9.6,0.0,Normal,7.63,23.13,None,No,Moderate,Non-Smoker,Yes
+22,11.04,2.63,Normal,6.73,20.27,None,Yes,Moderate,Non-Smoker,No
+56,8.96,1.78,Normal,5.32,21.26,None,No,Moderate,Non-Smoker,Yes
+21,9.48,0.94,Normal,8.21,25.59,None,No,Moderate,Non-Smoker,No
+23,7.65,1.78,Normal,8.69,26.93,None,No,Moderate,Smoker,Yes
+62,9.4,5.31,Hypertension,5.87,22.62,Diuretic,Yes,Moderate,Non-Smoker,Yes
+49,8.5,1.76,Prehypertension,7.88,28.36,None,No,Moderate,Smoker,Yes
+69,8.98,,Normal,5.6,19.62,None,No,Low,Non-Smoker,Yes
+47,7.5,0.44,Normal,7.24,17.16,ACE Inhibitor,No,Low,Non-Smoker,No
+64,10.43,6.79,Normal,7.49,17.99,None,No,High,Smoker,Yes
+52,5.87,4.96,Normal,6.49,19.16,None,Yes,High,Smoker,Yes
+72,7.94,0.0,Normal,7.11,18.09,None,No,Moderate,Smoker,Yes
+57,11.94,1.84,Normal,8.02,33.1,ACE Inhibitor,No,Moderate,Non-Smoker,Yes
+69,5.15,5.16,Normal,6.87,17.02,None,Yes,Low,Smoker,Yes
+33,1.51,6.82,Normal,6.19,28.22,None,Yes,Moderate,Non-Smoker,Yes
+30,9.1,5.85,Normal,5.53,23.89,None,No,High,Non-Smoker,No
+67,7.23,3.22,Normal,6.53,25.01,None,No,High,Non-Smoker,Yes
+77,11.03,0.0,Prehypertension,5.59,19.92,Beta Blocker,No,Low,Smoker,Yes
+59,7.61,,Normal,6.55,25.46,None,No,Low,Non-Smoker,Yes
+47,6.19,3.35,Normal,6.44,19.89,None,Yes,Moderate,Non-Smoker,Yes
+36,7.77,4.15,Normal,7.96,28.15,Other,No,Moderate,Non-Smoker,Yes
+34,11.28,3.61,Hypertension,7.09,28.52,None,No,Low,Non-Smoker,Yes
+73,9.73,1.02,Hypertension,10.06,23.39,None,No,Moderate,Non-Smoker,Yes
+36,0.7,4.8,Prehypertension,4.58,23.69,None,No,Low,Non-Smoker,Yes
+45,8.56,4.5,Normal,7.38,25.95,Diuretic,No,Moderate,Non-Smoker,Yes
+75,8.71,3.06,Normal,6.46,25.72,Beta Blocker,No,Moderate,Non-Smoker,Yes
+72,7.95,5.04,Prehypertension,5.85,28.61,ACE Inhibitor,No,Moderate,Non-Smoker,Yes
+43,6.17,0.98,Normal,,28.48,None,No,Moderate,Non-Smoker,Yes
+54,11.58,3.41,Normal,6.87,23.87,None,No,Moderate,Non-Smoker,Yes
+43,11.73,4.06,Hypertension,8.29,21.85,None,No,Moderate,Non-Smoker,Yes
+70,1.39,0.18,Normal,7.11,27.65,ACE Inhibitor,No,Moderate,Smoker,Yes
+79,5.61,3.87,Normal,6.17,23.3,None,No,High,Non-Smoker,Yes
+40,7.57,5.61,Normal,7.4,24.51,None,No,Low,Non-Smoker,Yes
+26,10.85,3.33,Normal,6.72,26.39,Beta Blocker,No,High,Smoker,No
+29,8.1,3.92,Normal,5.65,28.39,None,Yes,Low,Non-Smoker,Yes
+70,5.95,5.24,Prehypertension,6.7,25.17,None,No,Low,Non-Smoker,Yes
+18,10.13,3.15,Prehypertension,,21.36,ACE Inhibitor,Yes,Moderate,Non-Smoker,Yes
+75,7.37,3.34,Normal,7.09,32.09,None,No,Moderate,Non-Smoker,Yes
+75,7.65,1.41,Hypertension,7.4,30.89,None,No,Low,Smoker,Yes
+18,7.92,3.97,Normal,6.37,19.42,None,No,Moderate,Non-Smoker,Yes
+64,9.72,3.26,Normal,7.38,19.9,None,Yes,Moderate,Non-Smoker,Yes
+51,7.07,5.1,Prehypertension,7.14,20.46,None,Yes,Low,Non-Smoker,Yes
+49,10.06,5.24,Prehypertension,7.15,27.82,None,No,Moderate,Non-Smoker,Yes
+79,7.78,5.74,Prehypertension,7.04,32.26,None,No,Low,Non-Smoker,Yes
+71,4.8,2.88,Hypertension,9.61,21.72,ACE Inhibitor,No,Moderate,Non-Smoker,Yes
+65,7.89,0.0,Prehypertension,8.33,24.76,None,Yes,Moderate,Non-Smoker,Yes
+42,4.95,5.63,Hypertension,7.35,20.61,None,No,Low,Non-Smoker,Yes
+57,8.12,4.95,Normal,6.04,31.65,None,No,High,Smoker,Yes
+62,10.49,2.6,Prehypertension,6.65,27.71,Beta Blocker,No,Moderate,Non-Smoker,Yes
+70,,5.22,Hypertension,8.94,20.29,None,No,Moderate,Smoker,Yes
+18,9.09,0.81,Prehypertension,6.32,15.0,Diuretic,No,Moderate,Non-Smoker,No
+33,5.51,6.27,Normal,6.8,28.67,Diuretic,No,High,Non-Smoker,Yes
+78,8.61,3.27,Normal,,21.42,ACE Inhibitor,No,Low,Non-Smoker,Yes
+56,10.58,2.18,Normal,7.44,27.79,Beta Blocker,No,Low,Non-Smoker,Yes
+22,1.61,2.63,Normal,6.48,25.32,None,No,Moderate,Non-Smoker,No
+39,4.66,3.49,Hypertension,7.21,15.75,Diuretic,No,High,Smoker,Yes
+46,6.89,3.97,Normal,6.5,20.37,ACE Inhibitor,No,Low,Smoker,Yes
+72,8.95,4.11,Normal,8.58,22.41,Other,No,High,Non-Smoker,Yes
+20,7.5,3.05,Hypertension,6.18,20.96,None,No,,Non-Smoker,Yes
+29,7.86,4.44,Normal,8.17,24.52,None,Yes,Low,Non-Smoker,Yes
+43,14.13,4.02,Normal,6.3,25.81,None,No,Low,Non-Smoker,Yes
+33,4.36,2.58,Normal,5.98,32.05,None,No,Moderate,Non-Smoker,Yes
+68,11.41,2.24,Prehypertension,6.16,26.12,Beta Blocker,No,High,Non-Smoker,Yes
+54,6.95,5.34,Normal,4.95,30.71,Other,Yes,Low,Smoker,Yes
+39,9.65,5.15,Hypertension,7.53,21.85,None,No,,Smoker,Yes
+74,14.39,4.13,Normal,5.6,29.24,ACE Inhibitor,No,Low,Smoker,Yes
+46,10.07,6.03,Normal,6.57,22.28,None,No,Moderate,Non-Smoker,Yes
+31,9.12,0.0,Normal,7.91,19.87,None,Yes,Low,Non-Smoker,No
+45,12.8,2.76,Prehypertension,7.88,19.68,None,No,Moderate,Non-Smoker,Yes
+22,11.37,1.46,Normal,5.28,15.0,None,Yes,Moderate,Non-Smoker,No
+64,5.6,8.96,Normal,7.37,27.84,ACE Inhibitor,No,Moderate,Non-Smoker,Yes
+66,8.88,5.57,Normal,8.37,18.19,None,No,Low,Non-Smoker,Yes
+47,2.85,3.83,Prehypertension,6.24,30.34,None,Yes,Low,Non-Smoker,Yes
+63,6.38,5.73,Normal,7.62,23.22,None,No,Moderate,Smoker,Yes
+79,8.94,6.46,Prehypertension,5.63,17.0,None,No,Moderate,Non-Smoker,Yes
+69,6.19,6.43,Prehypertension,7.46,18.97,ACE Inhibitor,No,High,Smoker,Yes
+22,8.82,6.03,Normal,7.16,24.86,None,No,Moderate,Non-Smoker,Yes
+29,7.96,3.42,Normal,7.79,15.54,None,No,High,Non-Smoker,No
+33,9.61,2.9,Normal,7.72,26.65,ACE Inhibitor,No,Moderate,Non-Smoker,Yes
+43,6.73,1.88,Normal,5.38,17.18,None,No,Low,Non-Smoker,Yes
+43,5.18,5.11,Normal,7.16,20.67,Diuretic,No,Low,Smoker,Yes
+65,12.43,3.65,Normal,8.74,24.89,None,No,Moderate,Non-Smoker,Yes
+38,6.51,3.08,Normal,4.38,26.1,None,No,Moderate,Non-Smoker,Yes
+56,9.98,2.96,Normal,8.16,27.59,Other,No,Moderate,Non-Smoker,Yes
+53,12.31,7.19,Normal,8.92,18.12,ACE Inhibitor,Yes,Low,Non-Smoker,Yes
+50,8.49,6.1,Normal,5.22,22.61,None,No,Moderate,Smoker,Yes
+79,5.43,8.03,Prehypertension,6.2,28.92,None,No,Moderate,Non-Smoker,Yes
+47,7.46,5.16,Hypertension,7.62,22.61,Other,No,Moderate,Non-Smoker,Yes
+54,11.05,4.13,Hypertension,5.94,25.32,None,Yes,Low,Non-Smoker,Yes
+40,8.62,3.94,Normal,8.64,24.73,None,No,Moderate,Non-Smoker,Yes
+75,4.38,1.76,Normal,8.27,,None,No,Low,Non-Smoker,Yes
+27,9.79,1.22,Normal,5.34,21.9,None,No,High,Non-Smoker,No
+71,10.31,5.12,Normal,6.11,17.75,None,No,High,Smoker,Yes
+22,6.93,1.94,Normal,7.92,19.64,ACE Inhibitor,Yes,Low,Non-Smoker,Yes
+53,9.83,4.47,Prehypertension,7.88,24.85,None,Yes,Low,Non-Smoker,Yes
+51,8.74,6.45,Normal,9.66,16.94,Diuretic,No,Moderate,Non-Smoker,Yes
+69,7.41,2.54,Normal,5.94,21.55,None,No,Moderate,Non-Smoker,Yes
+48,4.12,8.42,Hypertension,8.75,24.34,None,Yes,Low,Non-Smoker,Yes
+27,11.23,1.82,Normal,5.9,20.55,None,No,High,Non-Smoker,No
+75,10.28,6.18,Normal,7.6,25.47,None,No,Moderate,Non-Smoker,Yes
+36,9.75,4.93,Normal,8.07,27.26,None,No,Low,Smoker,Yes
+75,12.63,6.63,Normal,3.41,26.05,None,No,,Non-Smoker,Yes
+49,10.84,1.54,Prehypertension,8.09,17.04,Beta Blocker,No,Low,Non-Smoker,Yes
+18,10.06,9.08,Normal,8.66,24.36,None,No,Low,Non-Smoker,Yes
+73,1.36,3.61,Normal,8.32,24.71,None,Yes,Moderate,Non-Smoker,Yes
+22,11.59,5.49,Prehypertension,9.46,22.29,Other,Yes,Low,Non-Smoker,Yes
+62,8.25,7.18,Prehypertension,8.16,25.41,Other,No,Moderate,Non-Smoker,Yes
+21,8.94,2.67,Hypertension,6.36,25.25,None,No,High,Non-Smoker,Yes
+33,8.96,5.82,Prehypertension,8.49,23.59,None,No,High,Non-Smoker,Yes
+41,10.32,2.3,Normal,6.29,19.48,Beta Blocker,No,Low,Smoker,Yes
+33,11.37,7.07,Normal,7.1,23.88,Diuretic,Yes,Low,Non-Smoker,Yes
+72,9.9,2.33,Normal,8.0,32.4,None,Yes,Moderate,Non-Smoker,Yes
+19,9.43,4.08,Normal,7.54,22.23,None,No,Moderate,Non-Smoker,Yes
+66,8.69,4.67,Prehypertension,8.62,28.71,Diuretic,No,High,Non-Smoker,Yes
+45,0.0,5.73,Prehypertension,9.99,24.17,ACE Inhibitor,No,Moderate,Non-Smoker,Yes
+49,7.14,8.33,Normal,5.64,,Diuretic,No,Low,Non-Smoker,Yes
+44,5.18,3.01,Normal,6.61,22.67,None,No,Moderate,Smoker,Yes
+37,11.63,6.51,Normal,7.38,23.92,None,No,Moderate,Smoker,Yes
+41,9.86,8.33,Hypertension,6.44,,None,No,High,Smoker,Yes
+29,6.63,4.36,Normal,6.91,34.71,None,Yes,Low,Smoker,Yes
+67,6.93,2.79,Prehypertension,7.93,24.25,None,Yes,Moderate,Non-Smoker,Yes
+52,6.82,0.19,Prehypertension,7.77,18.46,None,No,Low,Non-Smoker,Yes
+77,6.76,8.14,Hypertension,7.3,16.55,None,No,Moderate,Non-Smoker,Yes
+50,3.67,3.46,Prehypertension,7.18,22.1,None,No,Low,Non-Smoker,Yes
+50,3.02,1.8,Prehypertension,6.73,18.92,Diuretic,No,,Smoker,Yes
+78,8.09,1.01,Normal,8.69,26.51,Beta Blocker,No,,Non-Smoker,Yes
+68,11.23,1.79,Normal,9.0,26.54,ACE Inhibitor,No,High,Non-Smoker,Yes
+60,6.39,6.02,Normal,,23.34,Diuretic,No,High,Non-Smoker,Yes
+54,8.91,6.33,Normal,5.62,26.96,None,Yes,Low,Non-Smoker,Yes
+29,10.2,5.43,Hypertension,6.69,24.29,None,Yes,Moderate,Non-Smoker,Yes
+20,5.02,4.29,Normal,7.24,32.4,None,No,High,Non-Smoker,Yes
+18,7.94,1.26,Hypertension,5.87,26.82,None,No,Moderate,Smoker,Yes
+50,6.0,2.39,Normal,7.09,28.03,ACE Inhibitor,Yes,Moderate,Smoker,Yes
+57,12.82,1.57,Normal,7.03,17.48,None,Yes,Moderate,Non-Smoker,Yes
+27,12.69,5.26,Hypertension,8.3,18.73,None,No,Moderate,Non-Smoker,Yes
+60,5.02,1.66,Normal,6.4,26.15,None,No,Low,Non-Smoker,Yes
+61,9.16,2.43,Normal,8.4,17.03,None,No,Moderate,Non-Smoker,No
+46,11.2,3.6,Normal,5.85,21.19,None,Yes,Low,Non-Smoker,Yes
+30,10.54,0.33,Prehypertension,6.02,29.31,None,No,Low,Smoker,Yes
+29,8.24,4.1,Normal,6.54,21.09,None,No,Low,Smoker,Yes
+48,11.92,3.76,Normal,7.06,18.56,None,No,Low,Smoker,Yes
+63,5.29,6.61,Normal,4.1,27.0,ACE Inhibitor,No,Moderate,Non-Smoker,Yes
+19,7.09,,Prehypertension,,33.33,None,No,Low,Non-Smoker,Yes
+78,5.37,1.14,Prehypertension,9.05,20.36,None,No,Low,Non-Smoker,No
+68,10.35,3.18,Normal,7.78,29.51,None,No,Moderate,Non-Smoker,Yes
+67,6.25,1.58,Normal,6.75,19.8,None,No,Moderate,Smoker,Yes
+52,7.49,4.09,Prehypertension,,23.49,None,No,Moderate,Smoker,Yes
+40,9.85,0.0,Normal,4.82,23.69,None,No,High,Non-Smoker,Yes
+34,10.09,2.67,Normal,5.03,20.48,Diuretic,No,Low,Non-Smoker,Yes
+43,5.28,1.96,Normal,6.84,27.94,Beta Blocker,No,Low,Non-Smoker,Yes
+25,11.17,5.25,Hypertension,9.53,17.07,None,No,Low,Non-Smoker,Yes
+46,9.37,2.22,Normal,3.74,24.88,None,No,High,Non-Smoker,No
+43,4.75,0.18,Normal,7.84,28.83,None,Yes,Moderate,Non-Smoker,Yes
+27,4.02,3.56,Prehypertension,6.19,27.56,None,Yes,Low,Non-Smoker,Yes
+43,7.95,4.7,Prehypertension,6.6,26.21,None,No,Low,Smoker,Yes
+79,10.55,3.4,Normal,5.87,31.13,None,No,Moderate,Non-Smoker,Yes
+51,10.63,2.66,Normal,5.36,,None,No,Low,Smoker,Yes
+68,9.07,2.52,Prehypertension,7.15,17.14,Beta Blocker,No,Moderate,Non-Smoker,Yes
+58,8.15,4.25,Hypertension,7.32,24.61,ACE Inhibitor,No,High,Non-Smoker,Yes
+24,9.54,2.04,Prehypertension,7.8,23.43,Beta Blocker,No,Moderate,Non-Smoker,Yes
+21,5.43,3.28,Normal,4.98,15.0,None,No,,Smoker,Yes
+75,13.06,5.65,Normal,8.05,18.94,None,Yes,Low,Smoker,Yes
+70,13.02,1.14,Hypertension,8.07,18.36,None,No,Moderate,Non-Smoker,Yes
+67,9.29,3.9,Prehypertension,7.51,20.33,None,No,High,Non-Smoker,Yes
+62,8.59,0.06,Normal,6.49,22.42,None,Yes,Moderate,Non-Smoker,No
+28,6.77,4.5,Normal,7.37,22.59,None,No,Moderate,Non-Smoker,Yes
+46,9.59,1.85,Prehypertension,6.81,20.5,None,No,Moderate,Smoker,Yes
+73,5.93,6.24,Normal,8.16,18.36,Beta Blocker,No,,Non-Smoker,Yes
+53,1.33,0.75,Normal,6.56,25.7,Beta Blocker,No,Low,Non-Smoker,Yes
+42,0.0,4.97,Normal,7.13,24.52,None,Yes,Low,Non-Smoker,No
+38,5.6,6.69,Normal,4.91,24.66,None,Yes,Low,Non-Smoker,Yes
+78,8.47,1.73,Normal,7.37,32.01,None,No,High,Non-Smoker,Yes
+74,9.0,2.1,Prehypertension,6.1,24.73,None,Yes,High,Smoker,Yes
+53,6.54,1.92,Normal,7.61,22.35,None,Yes,Low,Smoker,Yes
+27,8.43,2.93,Normal,7.95,23.52,Beta Blocker,No,Low,Non-Smoker,No
+54,7.18,5.14,Normal,6.27,24.44,None,No,High,Non-Smoker,Yes
+26,5.0,2.75,Normal,7.04,26.77,None,Yes,Low,Smoker,Yes
+41,7.84,1.53,Normal,7.21,,None,No,Low,Non-Smoker,Yes
+52,10.44,0.0,Normal,7.44,15.26,None,No,Low,Smoker,Yes
+66,5.14,7.52,Prehypertension,7.95,22.03,None,No,Low,Non-Smoker,Yes
+52,5.14,7.7,Normal,7.79,24.01,Beta Blocker,Yes,Moderate,Smoker,Yes
+65,4.79,5.23,Normal,6.54,29.87,None,No,Moderate,Non-Smoker,Yes
+53,2.19,2.22,Normal,8.92,20.46,None,Yes,Moderate,Non-Smoker,No
+35,6.56,5.64,Normal,7.9,16.64,ACE Inhibitor,No,High,Smoker,Yes
+66,10.14,6.09,Hypertension,8.69,24.29,None,No,Low,Smoker,Yes
+56,8.52,3.44,Normal,7.42,27.9,None,Yes,Low,Non-Smoker,Yes
+49,7.49,4.09,Hypertension,7.49,22.23,None,No,High,Non-Smoker,Yes
+41,8.39,6.71,Normal,6.86,34.72,Beta Blocker,No,Moderate,Smoker,Yes
+40,6.53,0.39,Prehypertension,6.47,33.66,None,No,Low,Non-Smoker,Yes
+79,2.16,6.2,Normal,8.17,23.67,None,No,Low,Non-Smoker,Yes
+49,10.35,3.32,Prehypertension,7.32,24.84,Other,No,Low,Non-Smoker,Yes
+54,11.21,1.55,Normal,6.84,30.16,Beta Blocker,No,Moderate,Non-Smoker,Yes
+29,5.82,1.73,Normal,5.77,23.6,None,Yes,Low,Non-Smoker,Yes
+66,7.55,2.1,Prehypertension,8.87,20.38,Beta Blocker,No,Moderate,Non-Smoker,No
+72,7.29,1.34,Prehypertension,7.14,28.0,None,Yes,Low,Non-Smoker,Yes
+30,9.05,7.9,Normal,5.53,26.09,None,No,Moderate,Smoker,Yes
+40,13.07,5.08,Normal,7.1,20.37,None,No,Low,Non-Smoker,Yes
+42,,6.34,Normal,6.76,25.26,None,Yes,Moderate,Smoker,Yes
+52,6.87,5.24,Prehypertension,6.71,,None,Yes,Low,Non-Smoker,Yes
+58,9.63,4.13,Normal,7.69,22.27,ACE Inhibitor,No,Low,Non-Smoker,Yes
+47,11.76,4.16,Normal,6.76,20.46,None,No,Moderate,Non-Smoker,Yes
+34,9.23,3.13,Prehypertension,6.63,24.55,None,No,Moderate,Non-Smoker,Yes
+66,7.99,3.31,Hypertension,8.63,22.8,None,No,Moderate,Smoker,Yes
+79,9.34,0.9,Prehypertension,4.91,25.28,ACE Inhibitor,No,Moderate,Non-Smoker,Yes
+37,5.89,6.38,Prehypertension,6.94,27.69,Diuretic,No,Low,Non-Smoker,Yes
+65,6.33,0.01,Prehypertension,8.11,25.04,None,No,Moderate,Non-Smoker,Yes
+42,4.81,1.67,Normal,7.75,25.12,Other,No,Low,Non-Smoker,Yes
+39,8.92,8.43,Normal,8.22,21.56,None,Yes,Low,Non-Smoker,Yes
+30,7.61,4.3,Prehypertension,9.43,29.28,None,No,Moderate,Smoker,Yes
+76,5.53,4.39,Normal,9.04,20.18,Beta Blocker,Yes,High,Smoker,Yes
+36,7.51,5.4,Hypertension,5.61,16.75,None,Yes,Moderate,Non-Smoker,Yes
+66,9.41,0.61,Normal,5.07,19.18,Other,Yes,Moderate,Non-Smoker,Yes
+53,13.74,0.93,Normal,7.39,28.65,None,No,High,Non-Smoker,Yes
+29,11.04,3.02,Hypertension,5.38,26.07,None,No,Low,Non-Smoker,Yes
+78,1.15,2.01,Prehypertension,4.69,29.9,ACE Inhibitor,Yes,High,Smoker,Yes
+58,8.72,3.84,Normal,7.38,18.05,Beta Blocker,Yes,Moderate,Non-Smoker,Yes
+36,12.29,5.07,Prehypertension,7.68,34.44,None,Yes,Moderate,Non-Smoker,Yes
+29,3.99,7.06,Prehypertension,9.05,22.72,None,No,Moderate,Smoker,Yes
+26,9.65,5.78,Normal,7.92,16.08,Beta Blocker,Yes,Moderate,Non-Smoker,Yes
+24,7.29,1.81,Normal,9.3,33.88,None,No,,Non-Smoker,Yes
+45,11.45,3.18,Prehypertension,7.43,18.1,ACE Inhibitor,Yes,Low,Non-Smoker,Yes
+31,9.21,2.58,Hypertension,5.64,22.21,Beta Blocker,Yes,High,Non-Smoker,Yes
+48,5.35,1.76,Normal,7.99,23.07,None,Yes,Low,Non-Smoker,Yes
+69,7.4,1.26,Hypertension,8.6,26.0,None,No,Low,Non-Smoker,Yes
+36,7.57,7.66,Hypertension,7.47,20.44,None,No,Low,Smoker,Yes
+75,7.63,4.02,Normal,8.74,28.68,None,No,Low,Non-Smoker,Yes
+64,11.36,3.51,Prehypertension,6.85,27.39,Diuretic,No,Low,Smoker,Yes
+33,5.47,5.07,Normal,7.66,24.09,Other,Yes,Low,Smoker,Yes
+70,11.01,5.17,Normal,6.79,29.96,None,Yes,Moderate,Non-Smoker,Yes
+22,7.09,6.46,Prehypertension,9.85,23.69,None,No,Moderate,Non-Smoker,Yes
+52,8.67,2.36,Hypertension,8.01,22.76,None,No,Low,Non-Smoker,Yes
+29,8.22,4.89,Prehypertension,5.66,32.99,None,No,Low,Non-Smoker,Yes
+42,7.93,2.0,Normal,9.22,25.33,None,No,High,Smoker,Yes
+69,7.96,3.58,Normal,6.12,19.56,None,No,Low,Non-Smoker,Yes
+76,12.37,4.12,Normal,7.02,20.17,None,Yes,Low,Non-Smoker,Yes
+38,10.53,4.34,Normal,7.56,24.09,ACE Inhibitor,No,Low,Non-Smoker,Yes
+53,6.91,4.24,Normal,7.66,15.0,None,No,Low,Non-Smoker,Yes
+70,,5.76,Normal,7.58,21.15,Beta Blocker,Yes,,Non-Smoker,Yes
+40,8.82,2.69,Normal,5.64,23.55,Beta Blocker,No,Low,Smoker,Yes
+33,9.07,4.4,Prehypertension,7.58,23.25,None,No,Moderate,Non-Smoker,Yes
+74,5.49,2.33,Normal,8.32,18.34,None,No,Low,Non-Smoker,Yes
+56,6.51,10.0,Normal,8.29,21.98,None,No,Moderate,Non-Smoker,Yes
+62,5.93,1.99,Normal,5.44,29.31,None,Yes,Moderate,Smoker,Yes
+70,8.26,2.46,Normal,6.21,28.38,Beta Blocker,No,,Non-Smoker,Yes
+59,9.92,5.94,Normal,5.75,24.43,None,No,Low,Smoker,Yes
+75,9.1,3.06,Normal,7.41,23.69,None,No,Low,Non-Smoker,Yes
+56,12.76,5.94,Hypertension,5.14,23.27,None,Yes,Moderate,Non-Smoker,Yes
+31,5.34,,Normal,5.65,25.06,Diuretic,No,Low,Non-Smoker,Yes
+48,8.34,3.11,Prehypertension,6.2,24.46,None,No,Moderate,Non-Smoker,Yes
+75,4.15,2.34,Hypertension,4.84,25.46,None,No,Low,Non-Smoker,Yes
+22,5.23,2.26,Prehypertension,6.97,26.26,None,No,Low,Non-Smoker,Yes
+52,11.79,3.14,Normal,4.47,18.55,ACE Inhibitor,Yes,Low,Non-Smoker,Yes
+40,6.61,3.62,Hypertension,7.58,22.6,None,No,Low,Non-Smoker,Yes
+46,5.59,2.17,Normal,6.52,24.89,None,No,Low,Non-Smoker,Yes
+60,1.61,3.76,Normal,6.25,19.65,None,No,Low,Non-Smoker,No
+28,5.56,1.59,Hypertension,6.45,20.97,None,Yes,Moderate,Non-Smoker,No
+35,7.38,5.66,Prehypertension,6.93,23.02,None,No,Low,Smoker,Yes
+64,3.93,6.08,Normal,7.71,23.24,None,No,Moderate,Non-Smoker,Yes
+29,7.21,2.45,Normal,8.58,24.97,None,No,Moderate,Smoker,Yes
+26,11.81,2.33,Normal,8.22,20.18,None,Yes,Moderate,Smoker,No
+27,5.88,4.39,Normal,9.68,28.36,None,No,High,Smoker,Yes
+75,5.17,6.78,Normal,7.81,23.2,None,No,Low,Non-Smoker,Yes
+61,4.63,7.27,Hypertension,7.17,24.65,None,No,Low,Non-Smoker,Yes
+34,4.57,0.91,Hypertension,6.45,22.34,None,No,Moderate,Smoker,Yes
+78,9.61,6.21,Hypertension,6.49,25.06,ACE Inhibitor,No,Moderate,Non-Smoker,Yes
+55,8.15,3.86,Normal,7.65,31.52,None,No,Moderate,Non-Smoker,Yes
+24,10.87,3.91,Prehypertension,5.8,22.29,None,Yes,Low,Non-Smoker,Yes
+63,14.06,5.11,Hypertension,7.27,21.55,None,No,Moderate,Smoker,Yes
+30,2.51,2.94,Hypertension,6.98,20.26,None,No,High,Smoker,Yes
+57,9.14,6.41,Normal,6.13,23.73,None,Yes,Low,Non-Smoker,Yes
+59,4.64,7.13,Normal,5.74,23.68,None,Yes,High,Non-Smoker,Yes
+26,10.37,7.21,Normal,10.03,24.23,Other,Yes,Low,Non-Smoker,Yes
+67,7.18,,Normal,5.32,26.11,Beta Blocker,No,Low,Non-Smoker,Yes
+44,8.08,3.49,Prehypertension,6.92,25.54,Diuretic,No,Low,Non-Smoker,Yes
+75,4.15,0.0,Prehypertension,8.47,23.9,Other,No,Moderate,Non-Smoker,Yes
+19,6.72,2.32,Normal,7.63,32.79,ACE Inhibitor,No,Moderate,Non-Smoker,Yes
+22,8.27,0.0,Normal,6.43,27.11,Beta Blocker,No,Moderate,Non-Smoker,Yes
+46,,4.99,Normal,5.57,19.1,None,No,Moderate,Smoker,Yes
+54,5.62,4.48,Normal,7.16,17.05,None,No,Low,Smoker,Yes
+55,6.35,3.05,Normal,3.83,20.87,None,No,Low,Non-Smoker,Yes
+36,10.83,2.26,Prehypertension,7.2,24.69,None,Yes,Low,Non-Smoker,Yes
+25,5.42,4.69,Normal,7.04,20.49,None,No,High,Non-Smoker,No
+65,11.43,1.77,Prehypertension,8.28,,Other,No,Low,Smoker,Yes
+62,7.97,1.63,Normal,5.63,24.12,None,Yes,High,Smoker,Yes
+18,8.91,1.35,Normal,6.61,22.46,None,No,Low,Non-Smoker,No
+39,9.1,3.55,Normal,7.52,15.0,None,Yes,Low,Non-Smoker,Yes
+69,6.15,2.72,Hypertension,7.25,28.85,None,No,Low,Non-Smoker,Yes
+34,9.17,3.15,Normal,5.39,27.8,None,No,Low,Non-Smoker,Yes
+24,5.68,5.15,Prehypertension,6.22,18.22,None,Yes,High,Non-Smoker,Yes
+42,6.49,6.12,Normal,8.68,24.26,None,No,Moderate,Smoker,Yes
+62,9.68,7.19,Hypertension,7.31,18.98,None,No,High,Non-Smoker,Yes
+21,8.88,4.13,Prehypertension,5.0,21.26,None,No,Moderate,Smoker,Yes
+53,7.78,4.76,Normal,8.06,26.19,None,Yes,Moderate,Smoker,Yes
+23,4.22,4.42,Prehypertension,5.08,27.65,None,No,Moderate,Non-Smoker,Yes
+77,4.97,0.32,Normal,6.63,27.54,None,Yes,Moderate,Non-Smoker,Yes
+48,8.83,3.19,Hypertension,7.68,25.1,None,No,Moderate,Non-Smoker,Yes
+36,,3.2,Normal,8.46,,None,Yes,Low,Non-Smoker,Yes
+78,4.67,2.88,Normal,4.19,21.25,None,No,Moderate,Non-Smoker,Yes
+61,5.48,3.91,Prehypertension,7.85,,None,No,Moderate,Smoker,Yes
+71,8.4,3.52,Prehypertension,8.03,15.0,None,No,Low,Non-Smoker,No
+56,8.34,1.83,Normal,6.33,23.58,None,No,Moderate,Non-Smoker,No
+44,3.13,3.67,Prehypertension,7.11,26.61,ACE Inhibitor,No,High,Smoker,Yes
+27,8.48,2.59,Normal,3.34,25.28,None,No,Moderate,Non-Smoker,No
+43,6.2,0.0,Normal,3.7,21.19,None,No,Moderate,Non-Smoker,Yes
+36,12.92,0.93,Prehypertension,8.33,27.8,None,Yes,Low,Smoker,Yes
+56,8.75,4.2,Normal,6.35,23.67,None,Yes,Moderate,Non-Smoker,Yes
+79,9.26,6.4,Normal,6.58,27.45,None,No,Low,Non-Smoker,Yes
+20,9.34,0.0,Prehypertension,7.28,26.19,Diuretic,Yes,High,Smoker,No
+62,4.36,2.09,Normal,6.56,30.41,Diuretic,No,High,Non-Smoker,Yes
+30,13.83,4.95,Prehypertension,6.45,25.53,None,Yes,High,Non-Smoker,Yes
+67,3.13,5.93,Normal,7.47,26.74,ACE Inhibitor,No,Low,Non-Smoker,Yes
+45,10.39,3.08,Normal,5.21,23.65,None,No,Low,Non-Smoker,Yes
+79,9.86,2.5,Normal,8.39,21.74,None,No,High,Non-Smoker,Yes
+75,6.57,6.68,Prehypertension,6.72,26.21,None,No,Moderate,Non-Smoker,Yes
+37,10.0,5.75,Prehypertension,5.79,30.76,None,No,High,Non-Smoker,Yes
+45,7.05,5.89,Normal,5.63,21.23,None,No,Moderate,Non-Smoker,Yes
+25,5.97,2.97,Normal,7.05,22.88,None,No,Moderate,Non-Smoker,Yes
+78,9.41,6.45,Hypertension,6.63,24.12,None,No,Low,Non-Smoker,Yes
+58,4.98,0.0,Normal,5.14,27.08,None,Yes,Moderate,Non-Smoker,Yes
+56,7.33,6.49,Hypertension,6.28,25.55,None,No,,Non-Smoker,Yes
+18,6.22,3.85,Normal,6.03,28.11,None,Yes,Low,Non-Smoker,Yes
+20,6.99,4.28,Prehypertension,8.51,32.88,None,Yes,Low,Non-Smoker,Yes
+30,9.3,1.92,Normal,7.16,21.12,None,No,Moderate,Non-Smoker,No
+45,6.22,0.01,Hypertension,,26.74,None,No,Moderate,Non-Smoker,Yes
+79,7.42,4.24,Prehypertension,6.15,25.44,ACE Inhibitor,No,Low,Smoker,Yes
+74,6.49,5.21,Normal,6.65,24.09,None,No,Low,Non-Smoker,Yes
+77,12.33,5.55,Normal,7.46,26.73,ACE Inhibitor,No,Low,Smoker,Yes
+66,9.03,5.31,Prehypertension,7.72,22.8,None,No,Low,Non-Smoker,Yes
+42,8.66,4.81,Prehypertension,7.87,25.45,None,No,High,Smoker,Yes
+73,10.05,1.97,Normal,5.93,18.13,ACE Inhibitor,No,Moderate,Non-Smoker,No
+50,6.22,5.69,Normal,5.97,21.58,None,No,Moderate,Non-Smoker,Yes
+55,10.58,1.72,Prehypertension,6.57,28.71,None,No,Moderate,Non-Smoker,Yes
+70,9.04,6.44,Normal,8.78,28.54,None,No,Low,Non-Smoker,Yes
+23,3.32,3.82,Prehypertension,5.8,25.17,None,No,Moderate,Smoker,Yes
+75,3.72,3.89,Normal,6.37,21.96,None,No,High,Non-Smoker,No
+61,6.28,5.91,Hypertension,7.88,27.71,None,Yes,,Non-Smoker,Yes
+62,4.04,6.2,Hypertension,7.81,29.56,ACE Inhibitor,Yes,Moderate,Non-Smoker,Yes
+49,7.29,5.7,Hypertension,7.67,22.14,None,No,Moderate,Smoker,Yes
+62,4.96,2.19,Normal,7.1,17.45,None,No,High,Non-Smoker,No
+78,7.71,5.68,Hypertension,5.72,26.02,Diuretic,No,Low,Non-Smoker,Yes
+64,12.24,2.21,Normal,6.17,28.11,None,No,Low,Smoker,Yes
+38,7.85,5.73,Normal,8.35,26.64,None,No,High,Smoker,Yes
+33,7.09,0.86,Normal,7.93,31.04,None,No,High,Smoker,No
+71,9.16,3.79,Normal,5.4,31.06,None,No,Moderate,Non-Smoker,Yes
+38,5.91,2.19,Hypertension,8.04,22.63,None,No,Low,Non-Smoker,Yes
+28,10.53,5.91,Normal,8.57,24.9,None,Yes,Low,Non-Smoker,Yes
+77,9.49,6.45,Prehypertension,7.06,21.77,None,Yes,Moderate,Non-Smoker,Yes
+54,8.12,4.44,Prehypertension,7.51,19.4,Other,No,High,Non-Smoker,Yes
+53,8.46,4.37,Prehypertension,8.21,19.66,Beta Blocker,No,Low,Non-Smoker,Yes
+52,14.13,5.55,Normal,6.17,27.23,None,No,Moderate,Non-Smoker,Yes
+36,10.83,6.47,Normal,9.8,25.36,Beta Blocker,Yes,High,Smoker,Yes
+37,14.6,4.08,Prehypertension,8.47,28.0,None,No,Low,Smoker,Yes
+74,9.6,2.9,Normal,7.63,35.39,None,No,Moderate,Non-Smoker,Yes
+35,3.58,5.42,Normal,6.96,26.25,None,No,Low,Non-Smoker,Yes
+64,7.21,0.0,Normal,7.59,20.45,None,No,Moderate,Non-Smoker,No
+58,2.9,6.0,Normal,5.13,28.66,Diuretic,No,High,Non-Smoker,No
+66,9.58,2.44,Hypertension,9.5,20.37,None,No,Low,Non-Smoker,Yes
+31,10.24,3.47,Normal,8.35,31.87,None,No,Moderate,Smoker,No
+32,5.34,6.02,Normal,8.76,15.13,None,No,High,Non-Smoker,Yes
+48,6.03,3.09,Normal,7.04,21.54,None,No,High,Smoker,Yes
+18,8.45,5.42,Normal,6.57,26.8,None,No,Moderate,Non-Smoker,No
+70,4.41,6.51,Normal,6.19,29.3,Beta Blocker,No,Moderate,Smoker,Yes
+71,4.18,4.24,Normal,7.98,20.95,Other,Yes,Low,Non-Smoker,Yes
+71,11.72,4.69,Normal,6.38,20.14,None,No,Low,Non-Smoker,Yes
+20,8.34,3.74,Prehypertension,6.78,24.67,None,No,Moderate,Smoker,Yes
+33,6.33,4.25,Normal,7.66,32.59,None,No,Low,Non-Smoker,Yes
+40,2.92,1.54,Normal,6.21,17.08,Diuretic,Yes,Moderate,Non-Smoker,Yes
+74,10.56,3.35,Normal,8.25,22.59,None,No,Moderate,Non-Smoker,Yes
+28,5.95,1.17,Normal,6.98,25.17,None,Yes,High,Non-Smoker,Yes
+29,13.58,2.02,Hypertension,5.19,20.42,Beta Blocker,No,Moderate,Non-Smoker,Yes
+27,10.58,0.0,Normal,6.2,20.4,None,No,Low,Non-Smoker,No
+49,5.58,4.58,Normal,8.57,22.95,None,No,Moderate,Non-Smoker,No
+33,5.85,7.72,Normal,5.88,25.32,None,No,Moderate,Non-Smoker,Yes
+25,13.17,3.0,Hypertension,8.07,23.12,None,No,Low,Non-Smoker,Yes
+55,7.75,6.12,Normal,7.15,30.6,None,No,Low,Non-Smoker,Yes
+29,6.46,6.48,Prehypertension,6.79,26.67,None,No,High,Non-Smoker,Yes
+41,8.08,1.36,Normal,10.02,25.72,None,Yes,Low,Smoker,No
+45,6.45,1.84,Hypertension,5.46,28.62,None,No,High,Non-Smoker,Yes
+70,8.72,6.18,Hypertension,6.11,25.8,ACE Inhibitor,No,High,Non-Smoker,Yes
+25,7.77,3.8,Normal,6.97,22.01,None,No,Moderate,Smoker,No
+75,10.63,1.16,Normal,9.9,22.82,Beta Blocker,No,Moderate,Non-Smoker,Yes
+45,6.83,2.6,Normal,6.97,18.92,None,No,Low,Smoker,Yes
+53,5.35,4.92,Normal,7.33,33.02,None,Yes,High,Non-Smoker,Yes
+43,6.95,2.25,Normal,6.6,,None,No,Moderate,Non-Smoker,No
+25,6.93,0.0,Normal,7.43,15.0,None,No,Low,Non-Smoker,No
+75,7.77,3.29,Normal,6.67,30.0,None,No,Moderate,Non-Smoker,Yes
+77,9.9,3.47,Normal,7.83,17.4,None,Yes,Moderate,Non-Smoker,Yes
+67,9.74,4.02,Normal,,26.34,None,No,Low,Smoker,Yes
+45,11.6,6.77,Normal,6.72,15.0,None,Yes,High,Non-Smoker,Yes
+45,5.57,4.12,Normal,5.65,22.07,Other,No,Moderate,Non-Smoker,Yes
+54,9.17,4.53,Hypertension,7.11,30.03,None,No,Moderate,Non-Smoker,Yes
+58,10.18,6.32,Normal,8.68,30.28,None,No,Low,Non-Smoker,Yes
+53,5.98,4.02,Prehypertension,6.01,,None,No,Moderate,Non-Smoker,Yes
+44,7.38,8.7,Normal,7.4,27.54,None,Yes,Moderate,Non-Smoker,Yes
+71,2.75,1.22,Normal,5.55,17.64,Beta Blocker,Yes,Moderate,Non-Smoker,Yes
+34,10.72,1.94,Normal,5.75,26.42,None,No,Moderate,Non-Smoker,Yes
+26,7.35,5.35,Normal,8.56,27.83,None,No,Moderate,Smoker,No
+50,10.42,6.76,Prehypertension,7.83,35.56,None,No,Low,Non-Smoker,Yes
+70,8.62,3.56,Prehypertension,7.42,21.2,Beta Blocker,No,Moderate,Non-Smoker,Yes
+37,7.44,1.78,Normal,4.21,24.07,None,Yes,Low,Non-Smoker,Yes
+30,3.22,,Hypertension,,24.35,None,No,Low,Non-Smoker,Yes
+45,3.76,2.26,Normal,7.73,27.14,None,No,Low,Non-Smoker,Yes
+65,0.22,4.75,Hypertension,5.26,,None,Yes,High,Non-Smoker,Yes
+46,6.31,6.89,Hypertension,6.58,28.77,None,No,High,Non-Smoker,Yes
+30,14.83,3.03,Normal,7.92,28.45,ACE Inhibitor,No,Low,Non-Smoker,Yes
+63,4.14,2.63,Normal,5.19,17.33,Beta Blocker,No,Low,Non-Smoker,Yes
+52,0.11,2.78,Normal,4.98,15.0,None,No,Low,Non-Smoker,Yes
+78,10.89,5.98,Prehypertension,5.21,21.69,None,No,Moderate,Non-Smoker,Yes
+23,15.09,6.33,Normal,7.4,23.84,None,Yes,Moderate,Non-Smoker,Yes
+35,8.89,4.07,Hypertension,,21.24,None,Yes,Moderate,Smoker,Yes
+68,8.87,8.14,Prehypertension,8.05,21.93,None,No,Moderate,Non-Smoker,Yes
+22,7.07,4.07,Normal,7.15,22.49,None,No,Moderate,Smoker,Yes
+64,2.62,6.84,Normal,9.26,26.6,Other,Yes,Low,Smoker,Yes
+42,3.65,3.05,Prehypertension,5.52,19.35,None,No,Low,Non-Smoker,Yes
+19,7.05,9.13,Normal,7.4,23.65,ACE Inhibitor,No,Low,Non-Smoker,Yes
+27,,7.45,Prehypertension,6.05,,None,Yes,Moderate,Non-Smoker,Yes
+73,7.65,3.72,Normal,7.72,26.5,None,Yes,High,Non-Smoker,Yes
+47,10.49,7.16,Normal,7.14,29.23,None,No,Low,Non-Smoker,Yes
+67,6.25,7.04,Normal,5.81,31.58,Beta Blocker,No,Low,Non-Smoker,Yes
+76,10.55,7.42,Prehypertension,6.81,20.64,None,Yes,High,Smoker,Yes
+62,6.27,0.0,Normal,7.09,15.0,ACE Inhibitor,No,Low,Non-Smoker,Yes
+22,11.11,5.58,Prehypertension,6.28,22.91,Diuretic,Yes,,Non-Smoker,Yes
+72,8.26,5.19,Normal,7.87,16.85,None,No,High,Non-Smoker,Yes
+73,6.69,5.04,Prehypertension,5.76,36.31,None,No,Moderate,Non-Smoker,Yes
+50,8.21,4.48,Normal,9.51,20.07,Beta Blocker,No,Moderate,Non-Smoker,No
+71,7.12,4.55,Normal,8.14,26.54,None,No,Moderate,Non-Smoker,Yes
+18,8.34,6.82,Prehypertension,7.42,,None,No,Moderate,Non-Smoker,Yes
+35,10.27,5.19,Normal,10.41,25.53,None,Yes,Low,Non-Smoker,Yes
+49,7.74,4.48,Normal,6.63,33.35,ACE Inhibitor,Yes,Moderate,Non-Smoker,Yes
+64,6.89,6.51,Normal,7.73,23.09,None,No,Moderate,Non-Smoker,Yes
+66,4.63,4.92,Prehypertension,7.27,20.24,Other,No,High,Non-Smoker,Yes
+28,9.74,5.13,Hypertension,7.96,20.01,None,Yes,High,Non-Smoker,Yes
+38,9.04,8.11,Normal,8.8,27.38,None,No,Low,Non-Smoker,Yes
+43,4.45,3.04,Normal,7.66,23.15,None,No,Moderate,Smoker,Yes
+42,10.51,0.67,Prehypertension,8.25,20.01,None,No,Low,Non-Smoker,Yes
+39,4.41,4.16,Normal,6.34,25.99,Diuretic,No,Low,Non-Smoker,Yes
+76,11.09,4.47,Hypertension,6.75,27.19,ACE Inhibitor,No,Moderate,Non-Smoker,Yes
+44,10.06,5.59,Normal,8.97,25.22,Beta Blocker,Yes,Moderate,Non-Smoker,Yes
+66,9.26,4.24,Hypertension,7.72,28.05,Other,No,Moderate,Smoker,Yes
+30,6.87,5.66,Prehypertension,7.3,24.4,None,No,Moderate,Non-Smoker,Yes
+50,9.73,9.51,Prehypertension,6.1,21.33,None,No,Moderate,Non-Smoker,Yes
+51,11.23,5.76,Prehypertension,8.16,27.65,None,No,Moderate,Smoker,Yes
+58,9.78,6.15,Normal,6.06,19.99,Diuretic,No,Moderate,Non-Smoker,Yes
+52,5.99,3.72,Normal,,18.92,None,Yes,Low,Non-Smoker,Yes
+18,8.8,,Normal,7.14,29.2,Other,Yes,Moderate,Non-Smoker,No
+38,11.4,0.0,Prehypertension,4.12,22.43,None,No,High,Non-Smoker,No
+65,14.6,2.86,Prehypertension,7.73,31.5,Other,Yes,Low,Non-Smoker,Yes
+72,7.38,0.0,Hypertension,7.45,27.85,None,No,Moderate,Non-Smoker,Yes
+23,10.57,5.13,Normal,6.58,22.09,None,No,High,Non-Smoker,No
+45,11.4,3.16,Normal,6.69,26.19,Beta Blocker,No,Moderate,Non-Smoker,Yes
+34,5.56,1.11,Normal,6.86,35.38,Diuretic,No,Moderate,Non-Smoker,Yes
+22,13.35,4.29,Prehypertension,6.05,27.39,None,Yes,Low,Non-Smoker,Yes
+48,4.8,2.38,Normal,7.22,26.62,ACE Inhibitor,No,Moderate,Smoker,Yes
+22,10.43,4.99,Normal,6.7,21.32,ACE Inhibitor,No,Moderate,Non-Smoker,No
+55,8.92,5.56,Prehypertension,7.13,32.3,None,No,Low,Non-Smoker,Yes
+20,8.17,2.46,Normal,6.81,,None,Yes,Moderate,Non-Smoker,Yes
+70,15.64,3.48,Normal,6.58,21.36,None,No,Low,Smoker,Yes
+40,7.1,4.47,Normal,7.33,32.46,None,No,Moderate,Non-Smoker,Yes
+54,7.05,0.9,Prehypertension,,24.74,Beta Blocker,No,High,Non-Smoker,Yes
+70,11.99,4.47,Normal,6.37,20.22,None,No,Moderate,Non-Smoker,Yes
+54,10.29,0.85,Prehypertension,7.47,21.31,None,No,Moderate,Non-Smoker,Yes
+27,11.85,5.24,Normal,7.62,27.95,None,No,Moderate,Non-Smoker,Yes
+27,8.35,3.04,Hypertension,5.46,20.25,None,Yes,Low,Non-Smoker,Yes
+36,8.95,0.84,Normal,8.17,19.04,None,No,High,Non-Smoker,No
+34,13.7,2.72,Normal,9.47,22.03,None,No,Low,Non-Smoker,No
+38,5.49,2.82,Prehypertension,,22.7,None,No,Low,Non-Smoker,Yes
+31,7.69,6.35,Prehypertension,6.79,20.97,None,No,Moderate,Non-Smoker,Yes
+26,10.39,4.38,Normal,6.74,21.96,Other,Yes,Moderate,Non-Smoker,Yes
+63,7.41,1.9,Prehypertension,7.74,28.13,None,No,,Non-Smoker,Yes
+18,6.29,7.63,Normal,7.61,25.15,None,Yes,Low,Non-Smoker,Yes
+68,9.86,5.38,Hypertension,5.09,21.68,None,No,Moderate,Non-Smoker,Yes
+62,12.01,3.26,Prehypertension,5.96,22.07,None,No,Low,Non-Smoker,Yes
+30,7.58,0.58,Normal,7.61,23.41,None,Yes,Low,Non-Smoker,No
+21,7.49,3.07,Prehypertension,6.83,23.67,Beta Blocker,No,Low,Non-Smoker,Yes
+79,6.06,3.51,Normal,5.6,23.68,None,No,Low,Non-Smoker,Yes
+18,7.11,4.81,Normal,8.8,27.96,Other,No,Moderate,Smoker,Yes
+66,11.25,5.34,Hypertension,6.04,24.89,None,Yes,Moderate,Non-Smoker,Yes
+57,8.24,5.77,Prehypertension,7.04,25.02,ACE Inhibitor,No,Moderate,Non-Smoker,Yes
+49,5.59,0.45,Normal,6.79,30.42,ACE Inhibitor,Yes,Low,Non-Smoker,Yes
+51,8.79,4.46,Normal,5.71,32.44,None,Yes,Low,Non-Smoker,Yes
+45,11.15,3.65,Normal,7.22,18.46,None,No,Low,Non-Smoker,No
+48,6.31,9.89,Hypertension,7.47,16.89,None,Yes,,Smoker,Yes
+25,4.01,4.14,Normal,6.44,22.43,None,No,Low,Non-Smoker,Yes
+56,14.57,2.63,Normal,6.6,27.52,ACE Inhibitor,No,Low,Non-Smoker,Yes
+43,3.86,4.24,Normal,7.72,25.69,None,No,Low,Smoker,Yes
+75,6.92,3.98,Normal,4.63,28.74,None,No,Moderate,Smoker,Yes
+51,8.7,0.0,Normal,5.99,22.23,Diuretic,No,Low,Non-Smoker,Yes
+71,7.18,4.9,Normal,7.26,15.19,Other,Yes,Low,Smoker,Yes
+71,7.78,3.32,Normal,6.37,,None,No,Low,Non-Smoker,Yes
+20,9.73,3.94,Normal,6.35,26.54,ACE Inhibitor,No,Low,Non-Smoker,Yes
+76,0.82,2.08,Hypertension,8.08,28.78,None,No,Moderate,Non-Smoker,Yes
+67,4.2,1.59,Normal,6.24,15.42,None,Yes,Low,Smoker,Yes
+29,8.13,5.93,Prehypertension,9.38,30.35,None,No,Low,Non-Smoker,Yes
+18,6.79,6.44,Prehypertension,4.89,26.09,Beta Blocker,No,Low,Smoker,Yes
+71,8.39,,Prehypertension,4.35,23.68,None,No,Low,Non-Smoker,Yes
+61,8.68,0.02,Hypertension,8.05,21.18,None,No,Moderate,Non-Smoker,Yes
+22,1.65,5.06,Normal,5.82,31.16,None,No,High,Non-Smoker,Yes
+47,11.82,0.05,Normal,5.84,28.04,None,No,Low,Non-Smoker,Yes
+47,6.51,2.55,Normal,8.18,26.21,None,No,Moderate,Non-Smoker,No
+76,5.4,5.9,Normal,6.4,20.71,Beta Blocker,No,,Non-Smoker,Yes
+74,8.63,5.45,Prehypertension,8.09,31.26,None,Yes,Low,Non-Smoker,Yes
+34,8.32,5.01,Prehypertension,6.27,24.14,None,No,Low,Non-Smoker,Yes
+65,11.59,6.89,Hypertension,7.44,25.35,Diuretic,No,High,Non-Smoker,Yes
+64,8.82,5.23,Normal,6.39,24.33,ACE Inhibitor,No,Low,Non-Smoker,Yes
+40,11.47,0.0,Hypertension,5.9,20.56,None,No,High,Non-Smoker,Yes
+32,5.19,3.19,Normal,9.08,25.44,None,No,,Smoker,Yes
+54,8.43,3.91,Normal,8.34,27.14,Other,Yes,Low,Smoker,Yes
+38,4.66,3.65,Normal,6.13,22.01,ACE Inhibitor,No,Moderate,Non-Smoker,Yes
+31,8.29,2.64,Prehypertension,6.79,25.05,None,No,High,Non-Smoker,Yes
+19,7.66,1.73,Normal,8.77,24.26,None,No,Moderate,Smoker,No
+28,7.53,9.28,Hypertension,5.81,28.12,None,No,Moderate,Non-Smoker,Yes
+68,7.55,3.14,Hypertension,5.88,22.65,None,Yes,Low,Non-Smoker,Yes
+56,10.21,9.17,Hypertension,,,None,No,Low,Smoker,Yes
+55,3.18,1.49,Normal,9.72,25.97,None,No,Low,Smoker,Yes
+77,5.3,5.45,Hypertension,7.06,22.55,None,No,Moderate,Non-Smoker,Yes
+51,7.88,4.51,Prehypertension,8.26,20.29,ACE Inhibitor,No,High,Non-Smoker,Yes
+55,4.46,1.97,Normal,5.78,21.02,None,No,Moderate,Non-Smoker,Yes
+67,8.14,2.97,Normal,7.43,25.84,None,No,Moderate,Non-Smoker,No
+51,7.85,3.97,Normal,6.57,22.94,Other,No,Low,Non-Smoker,Yes
+35,3.79,2.14,Normal,9.24,22.88,None,No,Moderate,Non-Smoker,Yes
+47,3.64,3.44,Normal,8.92,26.72,None,Yes,High,Non-Smoker,Yes
+32,0.13,0.0,Hypertension,9.74,28.59,Diuretic,No,Moderate,Non-Smoker,Yes
+44,4.34,5.57,Normal,6.17,29.36,None,No,Moderate,Non-Smoker,Yes
+68,8.04,6.7,Normal,7.04,21.24,Diuretic,No,Moderate,Non-Smoker,Yes
+51,8.47,5.0,Hypertension,7.45,28.15,None,No,Moderate,Non-Smoker,Yes
+69,,,Normal,6.21,33.38,None,No,High,Non-Smoker,Yes
+74,5.67,5.5,Hypertension,7.16,24.57,ACE Inhibitor,No,Moderate,Non-Smoker,Yes
+55,7.95,6.51,Normal,8.09,23.67,None,No,Low,Non-Smoker,Yes
+50,9.19,6.72,Normal,6.34,22.73,Beta Blocker,No,Moderate,Non-Smoker,Yes
+41,4.2,0.0,Normal,6.16,19.21,None,No,Low,Non-Smoker,No
+32,8.37,4.93,Normal,6.08,27.79,None,No,Moderate,Non-Smoker,Yes
+77,,0.96,Normal,5.39,23.69,Diuretic,No,Low,Non-Smoker,Yes
+47,6.53,1.4,Prehypertension,8.02,23.33,None,Yes,High,Non-Smoker,Yes
+72,11.19,1.78,Normal,6.15,27.09,None,No,High,Smoker,Yes
+59,6.6,3.31,Hypertension,6.03,27.51,None,No,Low,Non-Smoker,Yes
+68,5.42,5.43,Normal,7.63,21.3,None,No,Low,Non-Smoker,Yes
+34,9.67,4.95,Normal,6.99,21.4,Beta Blocker,No,Moderate,Non-Smoker,No
+22,14.1,3.97,Prehypertension,6.37,21.2,Diuretic,No,Moderate,Smoker,Yes
+46,8.26,5.59,Normal,7.97,33.51,None,No,Low,Non-Smoker,Yes
+21,9.9,5.72,Prehypertension,6.32,30.65,None,No,Low,Smoker,Yes
+27,6.47,4.97,Hypertension,4.39,27.18,None,Yes,Moderate,Non-Smoker,Yes
+73,4.28,0.21,Prehypertension,8.6,22.31,None,No,Moderate,Smoker,Yes
+34,8.5,2.37,Normal,6.01,22.84,Beta Blocker,No,Low,Non-Smoker,Yes
+27,8.97,4.06,Normal,6.14,25.64,None,No,Moderate,Non-Smoker,No
+34,6.93,5.61,Prehypertension,6.14,33.94,None,No,High,Non-Smoker,Yes
+77,9.89,1.08,Prehypertension,7.07,25.3,Other,No,Low,Non-Smoker,Yes
+37,6.04,3.98,Normal,6.67,26.29,None,No,Moderate,Non-Smoker,Yes
+41,5.29,0.56,Normal,8.19,15.0,None,No,Low,Non-Smoker,Yes
+22,11.18,6.26,Normal,8.97,25.16,None,No,Low,Non-Smoker,Yes
+51,11.2,4.53,Normal,6.18,17.73,Beta Blocker,No,Low,Non-Smoker,Yes
+23,6.1,1.04,Normal,5.87,21.81,None,No,Moderate,Non-Smoker,No
+70,13.16,1.02,Normal,6.37,24.21,None,No,Moderate,Smoker,Yes
+19,7.14,4.85,Prehypertension,7.53,22.64,Other,No,Moderate,Smoker,Yes
+30,8.25,7.02,Hypertension,,21.14,Beta Blocker,No,Low,Non-Smoker,Yes
+79,7.75,1.59,Prehypertension,6.4,21.18,Diuretic,Yes,Low,Non-Smoker,Yes
+60,9.57,5.73,Normal,5.44,23.05,None,No,Moderate,Non-Smoker,Yes
+60,8.81,2.81,Normal,4.35,22.85,None,No,Low,Non-Smoker,Yes
+65,8.77,5.81,Hypertension,5.79,24.09,None,No,Low,Non-Smoker,Yes
+28,4.94,5.5,Hypertension,8.52,23.75,None,Yes,Moderate,Non-Smoker,Yes
+68,2.93,4.34,Hypertension,7.52,29.75,None,No,High,Non-Smoker,Yes
+64,11.43,0.0,Prehypertension,6.77,15.0,None,Yes,Low,Non-Smoker,Yes
+74,6.36,5.5,Normal,7.88,25.1,None,No,Moderate,Non-Smoker,Yes
+40,7.85,5.1,Prehypertension,5.45,24.32,None,No,Low,Non-Smoker,Yes
+72,8.98,4.9,Normal,7.07,,Beta Blocker,No,Moderate,Non-Smoker,Yes
+33,12.89,4.43,Normal,4.86,20.82,None,No,,Smoker,No
+48,8.48,2.07,Prehypertension,7.42,23.33,None,No,Moderate,Non-Smoker,Yes
+28,6.82,6.38,Normal,7.31,16.65,None,No,Moderate,Non-Smoker,Yes
+71,6.43,5.98,Normal,7.34,24.93,None,Yes,Low,Non-Smoker,Yes
+33,7.89,1.63,Normal,8.4,25.75,None,Yes,Low,Non-Smoker,Yes
+25,5.27,6.89,Normal,7.93,20.83,None,No,Low,Non-Smoker,Yes
+21,8.09,4.29,Hypertension,5.55,32.73,ACE Inhibitor,Yes,Moderate,Non-Smoker,Yes
+57,7.84,4.28,Normal,8.42,23.46,Diuretic,Yes,High,Non-Smoker,Yes
+21,12.92,3.61,Normal,6.75,24.2,None,No,Moderate,Non-Smoker,Yes
+73,7.75,3.83,Normal,4.64,30.01,ACE Inhibitor,No,Moderate,Non-Smoker,Yes
+42,2.23,7.02,Normal,6.87,33.64,None,No,Low,Non-Smoker,Yes
+20,16.02,6.27,Normal,7.78,18.94,Diuretic,No,Moderate,Non-Smoker,Yes
+49,10.87,6.23,Prehypertension,5.78,21.4,None,No,Low,Non-Smoker,Yes
+20,14.25,,Normal,8.6,23.54,None,No,Low,Non-Smoker,No
+44,4.53,5.96,Prehypertension,5.89,20.66,Beta Blocker,No,Moderate,Smoker,Yes
+46,7.33,2.16,Hypertension,6.42,27.81,None,No,Moderate,Non-Smoker,Yes
+49,10.02,5.28,Prehypertension,6.2,20.16,None,No,Low,Non-Smoker,Yes
+67,9.61,3.66,Normal,4.95,29.7,ACE Inhibitor,Yes,Moderate,Non-Smoker,Yes
+78,8.92,0.0,Normal,5.81,26.81,Beta Blocker,No,Moderate,Non-Smoker,Yes
+75,1.4,0.51,Hypertension,6.15,29.24,None,Yes,,Non-Smoker,Yes
+68,2.86,2.54,Normal,6.84,20.18,None,No,Moderate,Non-Smoker,Yes
+36,12.55,4.91,Prehypertension,3.4,22.27,Diuretic,No,Low,Non-Smoker,Yes
+38,13.09,2.54,Hypertension,7.86,28.04,Other,Yes,Low,Non-Smoker,Yes
+22,7.68,,Hypertension,7.85,,None,No,Low,Non-Smoker,Yes
+35,12.17,5.68,Hypertension,8.42,22.71,ACE Inhibitor,No,Low,Non-Smoker,Yes
+45,4.93,2.78,Normal,5.21,23.35,ACE Inhibitor,No,Moderate,Smoker,Yes
+59,5.62,6.93,Normal,6.65,22.05,None,No,High,Non-Smoker,Yes
+78,4.69,6.56,Hypertension,8.13,23.23,ACE Inhibitor,No,Low,Non-Smoker,Yes
+39,5.45,4.05,Normal,8.23,19.66,None,No,Low,Non-Smoker,Yes
+38,10.17,5.66,Normal,8.77,18.9,None,No,Low,Non-Smoker,Yes
+23,5.41,5.36,Prehypertension,7.12,28.52,None,Yes,Moderate,Non-Smoker,Yes
+18,14.72,3.46,Normal,6.93,23.08,None,No,Low,Non-Smoker,Yes
+22,9.38,5.9,Hypertension,5.13,29.18,Beta Blocker,No,Moderate,Non-Smoker,Yes
+58,11.25,6.22,Prehypertension,8.28,26.68,None,No,Moderate,Non-Smoker,Yes
+29,9.47,1.9,Normal,6.45,25.4,ACE Inhibitor,Yes,Moderate,Non-Smoker,Yes
+43,11.64,4.34,Hypertension,7.04,20.8,Diuretic,No,High,Smoker,Yes
+63,5.4,4.31,Prehypertension,6.96,18.55,Diuretic,No,Low,Non-Smoker,Yes
+51,12.34,5.87,Prehypertension,4.13,21.94,None,No,High,Non-Smoker,Yes
+66,8.42,3.02,Normal,6.03,30.89,None,No,Low,Non-Smoker,Yes
+31,,2.68,Normal,7.54,28.0,None,No,Low,Non-Smoker,Yes
+43,3.68,4.37,Prehypertension,6.94,21.52,ACE Inhibitor,Yes,,Smoker,Yes
+62,8.54,6.6,Normal,7.55,21.99,None,Yes,Moderate,Non-Smoker,Yes
+44,8.44,1.36,Normal,7.94,19.82,Other,No,Moderate,Non-Smoker,Yes
+26,6.14,1.75,Prehypertension,6.01,17.04,Diuretic,No,Low,Smoker,Yes
+43,8.94,2.85,Normal,6.38,24.46,Beta Blocker,No,High,Non-Smoker,Yes
+74,12.62,,Normal,6.83,31.76,None,No,Low,Smoker,Yes
+64,5.91,0.12,Normal,7.93,31.82,None,No,Low,Non-Smoker,Yes
+74,10.89,7.3,Normal,6.72,26.74,Beta Blocker,No,Low,Smoker,Yes
+39,4.62,3.71,Prehypertension,4.86,21.29,None,Yes,Moderate,Smoker,Yes
+64,14.33,3.38,Normal,6.76,17.48,ACE Inhibitor,Yes,Moderate,Smoker,Yes
+73,10.35,7.57,Normal,7.88,28.71,None,No,,Non-Smoker,Yes
+47,13.18,5.58,Prehypertension,8.63,26.01,Beta Blocker,No,Low,Non-Smoker,Yes
+60,,2.82,Hypertension,7.34,22.58,Diuretic,No,Low,Smoker,Yes
+65,9.17,4.36,Prehypertension,5.22,21.83,None,No,,Non-Smoker,Yes
+78,10.38,3.91,Normal,6.51,26.7,None,No,Moderate,Non-Smoker,Yes
+34,7.59,7.19,Normal,7.57,20.28,Diuretic,No,Moderate,Non-Smoker,Yes
+43,3.15,3.63,Hypertension,8.04,25.08,None,No,Moderate,Non-Smoker,Yes
+53,9.34,0.83,Normal,7.61,18.51,None,No,High,Smoker,Yes
+18,5.73,0.0,Prehypertension,6.7,34.03,None,No,Low,Non-Smoker,Yes
+25,4.7,7.25,Normal,8.03,20.91,None,Yes,Low,Non-Smoker,Yes
+66,9.91,2.27,Normal,6.23,26.92,None,No,Moderate,Smoker,Yes
+52,7.16,5.47,Prehypertension,7.22,18.61,Diuretic,No,Moderate,Non-Smoker,Yes
+78,11.08,4.16,Prehypertension,7.9,23.27,None,Yes,Moderate,Non-Smoker,Yes
+69,5.63,3.08,Prehypertension,7.69,27.98,None,No,High,Non-Smoker,Yes
+32,6.59,3.43,Normal,7.72,,Other,No,Moderate,Smoker,Yes
+64,11.45,7.48,Normal,7.69,27.43,None,No,Low,Non-Smoker,Yes
+73,8.84,0.81,Normal,5.74,23.38,None,No,Low,Non-Smoker,Yes
+39,3.57,3.15,Normal,7.02,21.0,Beta Blocker,No,Moderate,Non-Smoker,Yes
+31,8.77,5.99,Normal,5.91,19.15,Beta Blocker,No,Moderate,Non-Smoker,Yes
+43,12.44,1.18,Normal,6.65,30.77,None,Yes,Low,Smoker,Yes
+45,6.56,6.9,Normal,5.6,24.47,Other,Yes,Low,Non-Smoker,Yes
+40,9.79,5.96,Hypertension,7.41,25.3,ACE Inhibitor,No,Moderate,Non-Smoker,Yes
+31,5.45,,Prehypertension,4.64,,None,No,Moderate,Non-Smoker,Yes
+41,7.59,2.89,Hypertension,7.74,26.64,None,No,Low,Smoker,Yes
+19,11.27,0.89,Normal,7.02,23.43,Diuretic,Yes,Moderate,Non-Smoker,Yes
+62,8.66,5.56,Hypertension,9.28,27.35,None,No,Low,Non-Smoker,Yes
+43,11.87,10.0,Normal,6.75,21.2,None,Yes,High,Non-Smoker,Yes
+31,9.28,4.32,Normal,6.75,17.02,Diuretic,No,Low,Non-Smoker,Yes
+76,14.66,0.0,Prehypertension,7.82,30.35,None,No,Moderate,Smoker,Yes
+73,3.31,5.01,Normal,6.82,21.57,None,Yes,Moderate,Non-Smoker,Yes
+68,7.35,5.89,Normal,7.33,22.63,None,No,Low,Non-Smoker,Yes
+24,4.75,,Normal,8.19,23.03,None,Yes,Moderate,Non-Smoker,No
+20,4.95,,Normal,6.68,21.29,None,No,Low,Non-Smoker,Yes
+64,4.98,2.36,Prehypertension,,28.96,None,Yes,Moderate,Smoker,Yes
+40,8.5,2.83,Prehypertension,4.99,25.69,None,No,Moderate,Smoker,Yes
+63,8.68,3.62,Prehypertension,8.92,22.63,None,No,Low,Non-Smoker,Yes
+60,9.28,2.11,Normal,4.85,18.26,ACE Inhibitor,No,,Smoker,Yes
+64,4.63,1.28,Prehypertension,8.62,25.37,ACE Inhibitor,Yes,Moderate,Non-Smoker,Yes
+77,7.03,4.38,Normal,4.76,15.0,None,No,Low,Non-Smoker,Yes
+62,5.11,3.6,Normal,9.38,25.05,Beta Blocker,No,Moderate,Non-Smoker,Yes
+35,10.81,3.04,Hypertension,7.19,30.04,Beta Blocker,No,Low,Non-Smoker,Yes
+75,5.39,4.18,Normal,5.87,24.29,Diuretic,Yes,High,Non-Smoker,Yes
+55,7.36,0.66,Prehypertension,9.24,29.43,None,No,Moderate,Non-Smoker,Yes
+52,9.68,4.58,Normal,5.69,18.47,None,No,Moderate,Smoker,Yes
+68,6.15,3.09,Prehypertension,6.73,33.17,Beta Blocker,Yes,Low,Non-Smoker,Yes
+32,10.08,4.53,Prehypertension,10.13,28.94,None,Yes,Low,Non-Smoker,Yes
+42,12.79,4.88,Normal,7.47,26.14,None,No,Low,Non-Smoker,Yes
+72,8.57,6.49,Normal,4.57,21.31,None,No,Low,Smoker,Yes
+54,10.7,4.23,Prehypertension,6.67,20.56,Other,No,Moderate,Non-Smoker,Yes
+45,1.78,6.35,Normal,6.57,23.68,None,No,Moderate,Non-Smoker,Yes
+27,6.71,3.29,Normal,7.23,29.41,None,No,Low,Non-Smoker,Yes
+56,8.55,3.4,Prehypertension,6.95,18.08,None,No,Moderate,Non-Smoker,Yes
+74,4.84,3.8,Normal,7.66,,ACE Inhibitor,Yes,Low,Smoker,Yes
+34,8.62,,Hypertension,5.17,27.3,None,No,Low,Non-Smoker,Yes
+56,11.18,5.39,Normal,6.34,28.18,None,No,High,Non-Smoker,Yes
+39,2.36,4.3,Normal,7.37,27.29,None,No,,Smoker,Yes
+43,4.43,1.3,Prehypertension,6.09,17.62,None,No,Moderate,Non-Smoker,Yes
+79,8.55,5.35,Normal,8.32,29.09,None,No,Low,Smoker,Yes
+61,9.38,2.1,Normal,6.11,24.3,None,No,Low,Non-Smoker,Yes
+42,10.21,1.99,Normal,7.17,19.11,None,No,Low,Non-Smoker,No
+34,8.33,1.5,Normal,6.87,23.89,None,Yes,High,Non-Smoker,Yes
+30,9.38,3.82,Normal,5.78,15.19,Beta Blocker,Yes,Moderate,Non-Smoker,No
+37,10.71,6.67,Normal,7.07,26.6,None,No,Low,Non-Smoker,Yes
+42,6.76,1.88,Normal,5.43,23.43,None,No,Moderate,Non-Smoker,No
+21,6.17,7.69,Normal,6.47,18.28,None,No,Moderate,Non-Smoker,No
+27,7.49,6.0,Prehypertension,7.04,22.69,None,No,Moderate,Non-Smoker,Yes
+20,8.6,0.78,Prehypertension,5.29,20.82,None,No,Low,Smoker,Yes
+58,,3.16,Normal,7.75,21.1,None,No,Low,Non-Smoker,Yes
+62,6.82,1.71,Prehypertension,7.31,,Diuretic,No,Low,Non-Smoker,Yes
+35,9.19,5.46,Prehypertension,7.64,16.48,None,No,Low,Non-Smoker,Yes
+64,8.47,1.83,Normal,7.0,22.97,None,No,Moderate,Non-Smoker,Yes
+53,7.44,0.43,Prehypertension,5.62,22.19,None,No,Moderate,Non-Smoker,Yes
+64,2.78,3.28,Normal,7.0,28.38,None,No,Moderate,Non-Smoker,Yes
+39,7.99,6.57,Hypertension,7.75,21.16,None,No,,Smoker,No
+51,5.09,3.58,Normal,5.57,21.63,None,Yes,Low,Non-Smoker,Yes
+64,10.95,4.88,Normal,,21.84,None,No,High,Non-Smoker,Yes
+25,7.07,4.96,Prehypertension,6.7,23.11,None,Yes,High,Non-Smoker,Yes
+57,5.01,0.67,Normal,6.55,24.41,None,Yes,Moderate,Non-Smoker,No
+66,7.82,2.02,Normal,6.98,22.17,None,No,Low,Non-Smoker,No
+61,11.81,,Normal,6.65,26.57,None,No,Moderate,Non-Smoker,Yes
+36,9.89,2.77,Normal,7.19,34.35,None,No,Low,Non-Smoker,Yes
+59,8.66,7.75,Prehypertension,8.47,20.29,None,No,Moderate,Smoker,Yes
+58,4.02,1.3,Prehypertension,7.65,25.76,None,No,Low,Non-Smoker,Yes
+54,12.86,2.0,Normal,7.07,24.13,None,No,Moderate,Non-Smoker,Yes
+23,6.14,4.64,Normal,5.67,28.71,None,No,Moderate,Non-Smoker,Yes
+69,10.8,2.62,Prehypertension,6.13,24.91,None,No,Low,Non-Smoker,Yes
+43,7.02,0.0,Normal,8.01,20.73,None,No,Low,Non-Smoker,Yes
+51,10.51,8.26,Prehypertension,6.44,18.76,None,No,Low,Non-Smoker,Yes
+76,11.92,1.64,Normal,5.84,26.75,None,No,Moderate,Non-Smoker,No
+73,9.94,5.23,Normal,9.52,19.12,None,Yes,Moderate,Non-Smoker,Yes
+76,10.27,1.24,Normal,8.83,29.33,Diuretic,No,Low,Non-Smoker,Yes
+62,7.7,2.1,Normal,6.85,26.49,ACE Inhibitor,Yes,Moderate,Non-Smoker,Yes
+23,6.7,0.43,Normal,5.7,24.39,None,No,Low,Smoker,Yes
+54,8.41,2.37,Normal,7.87,18.09,Diuretic,No,Moderate,Non-Smoker,Yes
+74,6.98,2.58,Normal,6.41,27.04,None,No,High,Non-Smoker,Yes
+50,15.4,3.71,Normal,8.07,31.28,None,Yes,Low,Smoker,Yes
+70,5.02,,Normal,6.41,22.09,Other,Yes,High,Non-Smoker,Yes
+39,11.01,0.83,Normal,8.97,20.66,Diuretic,No,Moderate,Non-Smoker,Yes
+38,9.55,2.85,Normal,6.38,23.59,Other,Yes,Low,Non-Smoker,Yes
+23,8.69,7.18,Normal,9.84,26.1,None,No,High,Non-Smoker,Yes
+23,12.44,6.92,Normal,7.23,21.61,None,No,Low,Smoker,Yes
+72,8.9,5.0,Prehypertension,8.66,28.05,None,No,Low,Non-Smoker,Yes
+65,6.1,5.46,Hypertension,6.35,32.6,None,No,Moderate,Smoker,Yes
+21,,8.53,Normal,5.43,25.49,None,No,Moderate,Non-Smoker,No
+47,7.45,5.26,Normal,4.23,22.54,ACE Inhibitor,No,Moderate,Non-Smoker,Yes
+28,9.51,5.42,Normal,8.53,25.98,None,Yes,Low,Non-Smoker,Yes
+79,10.44,0.56,Prehypertension,7.08,29.3,None,No,High,Non-Smoker,Yes
+79,5.42,1.55,Normal,5.5,24.72,None,No,Moderate,Non-Smoker,Yes
+47,11.59,3.93,Normal,8.58,26.18,None,No,High,Non-Smoker,Yes
+48,7.24,2.22,Prehypertension,8.39,27.17,None,Yes,Low,Non-Smoker,Yes
+41,9.33,1.8,Normal,8.66,20.06,Other,Yes,Moderate,Non-Smoker,Yes
+72,9.85,2.06,Normal,5.39,26.07,None,No,High,Non-Smoker,Yes
+26,9.1,0.87,Normal,8.5,17.96,None,No,Low,Non-Smoker,Yes
+72,7.67,2.26,Prehypertension,7.46,21.04,ACE Inhibitor,No,High,Non-Smoker,Yes
+20,6.53,4.75,Normal,8.71,29.16,Other,No,Low,Non-Smoker,Yes
+68,7.19,7.95,Hypertension,7.65,27.92,Diuretic,No,,Non-Smoker,Yes
+48,12.7,5.75,Prehypertension,7.21,22.78,ACE Inhibitor,No,High,Non-Smoker,Yes
+57,5.4,5.4,Normal,8.51,31.68,None,No,High,Smoker,Yes
+54,,,Normal,8.02,18.1,ACE Inhibitor,No,Low,Non-Smoker,Yes
+53,5.71,4.26,Normal,8.3,,None,No,Low,Non-Smoker,Yes
+41,8.41,3.85,Prehypertension,6.41,25.24,Beta Blocker,No,Moderate,Smoker,Yes
+48,3.43,4.64,Prehypertension,6.79,15.0,None,No,High,Non-Smoker,Yes
+23,3.94,3.21,Normal,4.92,23.29,None,Yes,Moderate,Non-Smoker,No
+19,7.22,7.66,Hypertension,6.33,18.94,None,No,Moderate,Non-Smoker,Yes
+37,4.14,4.12,Normal,7.95,19.04,None,Yes,Moderate,Non-Smoker,No
+45,4.38,4.33,Normal,7.68,22.77,None,Yes,Low,Non-Smoker,Yes
+28,4.16,0.0,Hypertension,5.82,15.78,None,No,High,Non-Smoker,Yes
+21,5.46,3.77,Prehypertension,8.54,20.36,Diuretic,No,Low,Non-Smoker,Yes
+32,10.19,6.53,Normal,10.57,15.89,None,No,Moderate,Non-Smoker,No
+23,10.87,5.22,Prehypertension,5.92,24.56,None,No,Moderate,Non-Smoker,Yes
+71,13.76,0.0,Hypertension,6.75,24.47,ACE Inhibitor,No,Moderate,Non-Smoker,Yes
+66,13.65,3.01,Prehypertension,6.25,22.43,None,No,Moderate,Non-Smoker,Yes
+47,10.36,7.81,Prehypertension,6.89,28.48,None,No,High,Non-Smoker,Yes
+73,11.08,3.67,Prehypertension,7.33,22.67,None,No,Moderate,Smoker,Yes
+55,8.39,4.71,Normal,6.16,23.9,None,Yes,,Non-Smoker,Yes
+68,9.56,7.56,Prehypertension,6.67,19.92,Other,No,Low,Non-Smoker,Yes
+79,13.83,3.66,Normal,7.1,15.0,ACE Inhibitor,No,Moderate,Smoker,Yes
+74,9.11,5.74,Hypertension,7.57,23.35,Beta Blocker,Yes,Low,Smoker,Yes
+19,11.46,4.91,Normal,8.76,22.76,None,No,Low,Non-Smoker,Yes
+32,5.2,5.38,Prehypertension,6.98,31.69,None,Yes,Low,Non-Smoker,Yes
+28,6.0,4.83,Normal,6.33,27.0,None,Yes,Moderate,Non-Smoker,No
+25,8.94,2.8,Normal,7.84,22.14,None,No,High,Non-Smoker,No
+43,8.45,3.01,Normal,7.48,24.64,None,No,Moderate,Non-Smoker,Yes
+68,6.14,2.12,Hypertension,6.77,28.08,None,No,Low,Smoker,Yes
+62,15.22,0.39,Hypertension,7.58,26.33,None,No,Low,Non-Smoker,Yes
+61,8.52,6.74,Normal,6.54,31.51,None,No,Moderate,Non-Smoker,Yes
+22,6.67,4.02,Hypertension,6.36,20.45,None,No,Low,Smoker,Yes
+23,8.45,6.63,Prehypertension,4.72,28.39,Other,No,Low,Non-Smoker,Yes
+43,8.08,7.44,Prehypertension,6.61,22.1,None,Yes,Moderate,Non-Smoker,Yes
+71,8.56,4.12,Normal,4.88,24.87,Beta Blocker,No,High,Non-Smoker,Yes
+21,3.22,1.11,Hypertension,6.23,21.49,Beta Blocker,No,Moderate,Non-Smoker,Yes
+36,11.88,3.57,Normal,7.7,23.36,None,No,Low,Non-Smoker,Yes
+37,12.05,,Hypertension,5.19,24.95,None,No,Moderate,Smoker,Yes
+50,,0.0,Prehypertension,6.77,26.67,None,No,Moderate,Smoker,Yes
+37,8.98,2.9,Prehypertension,7.08,24.28,None,Yes,High,Non-Smoker,Yes
+66,9.99,3.84,Prehypertension,6.71,15.0,None,No,Low,Smoker,Yes
+29,5.4,2.58,Normal,6.42,23.65,ACE Inhibitor,No,Moderate,Non-Smoker,No
+64,10.5,2.3,Normal,7.39,30.62,Other,No,High,Non-Smoker,Yes
+18,8.76,1.19,Normal,7.56,23.62,None,No,Low,Non-Smoker,No
+43,6.62,4.43,Normal,7.0,30.74,Other,Yes,Moderate,Non-Smoker,Yes
+31,10.59,8.11,Normal,6.49,23.46,None,No,Low,Smoker,Yes
+55,10.71,6.81,Prehypertension,8.04,16.93,ACE Inhibitor,No,Moderate,Non-Smoker,Yes
+54,8.18,5.44,Hypertension,5.43,22.05,None,Yes,Moderate,Non-Smoker,Yes
+79,9.32,5.49,Normal,7.82,21.49,None,No,Moderate,Non-Smoker,Yes
+28,4.9,3.71,Normal,7.5,22.97,None,No,Moderate,Non-Smoker,No
+53,11.73,0.03,Normal,7.24,18.67,ACE Inhibitor,No,Moderate,Non-Smoker,Yes
+30,5.3,3.19,Normal,6.99,23.96,None,No,High,Non-Smoker,Yes
+60,5.88,1.87,Normal,4.73,22.52,None,No,Moderate,Smoker,Yes
+20,8.19,4.34,Prehypertension,8.66,29.8,ACE Inhibitor,Yes,Low,Non-Smoker,Yes
+50,11.34,6.71,Normal,8.01,18.55,ACE Inhibitor,No,Moderate,Non-Smoker,Yes
+23,11.34,8.34,Prehypertension,5.85,25.11,None,Yes,Moderate,Non-Smoker,Yes
+67,7.99,4.14,Normal,7.91,25.85,Beta Blocker,Yes,Moderate,Smoker,Yes
+73,10.32,0.33,Hypertension,7.23,27.49,None,No,Moderate,Non-Smoker,Yes
+27,2.93,4.14,Prehypertension,6.3,22.36,None,No,Moderate,Non-Smoker,No
+22,5.84,4.2,Hypertension,8.43,24.99,None,No,Moderate,Non-Smoker,Yes
+40,5.9,5.49,Hypertension,6.48,25.59,None,No,Moderate,Smoker,Yes
+27,11.76,3.96,Hypertension,8.63,16.58,None,No,Moderate,Non-Smoker,Yes
+61,9.96,4.15,Hypertension,7.64,22.53,None,No,Moderate,Non-Smoker,Yes
+19,8.55,2.61,Prehypertension,8.15,23.85,None,No,Moderate,Non-Smoker,Yes
+30,8.85,3.31,Normal,7.69,24.38,Beta Blocker,No,Low,Non-Smoker,Yes
+57,12.71,5.13,Normal,7.64,24.33,Beta Blocker,No,Low,Smoker,Yes
+19,7.49,0.0,Normal,7.26,25.97,None,Yes,High,Non-Smoker,No
+37,4.06,3.3,Prehypertension,6.13,32.72,None,No,Low,Non-Smoker,Yes
+18,11.26,5.51,Normal,7.08,21.32,None,No,Moderate,Non-Smoker,Yes
+54,8.55,7.61,Hypertension,8.1,25.72,Beta Blocker,No,High,Smoker,Yes
+26,10.86,3.12,Hypertension,7.86,29.86,None,No,Low,Smoker,Yes
+34,,6.61,Normal,7.6,15.91,None,Yes,Moderate,Non-Smoker,Yes
+26,5.48,7.72,Normal,4.49,25.21,None,No,Moderate,Non-Smoker,No
+28,9.21,3.15,Hypertension,6.74,16.44,None,No,High,Non-Smoker,No
+32,8.03,2.77,Normal,6.62,33.84,None,No,Low,Non-Smoker,Yes
+41,8.55,3.6,Prehypertension,5.68,26.35,ACE Inhibitor,No,Low,Non-Smoker,Yes
+55,12.85,3.82,Normal,8.08,25.74,None,No,High,Non-Smoker,Yes
+72,4.7,6.4,Prehypertension,4.57,15.57,None,Yes,Low,Non-Smoker,Yes
+52,8.86,2.3,Normal,8.0,21.73,None,No,Moderate,Non-Smoker,No
+47,5.54,7.38,Hypertension,8.6,21.75,ACE Inhibitor,No,Moderate,Smoker,Yes
+48,0.23,2.24,Normal,6.75,31.95,None,No,Low,Non-Smoker,Yes
+66,7.85,1.22,Normal,,27.28,None,No,High,Non-Smoker,Yes
+22,8.09,5.15,Normal,8.16,,None,No,Moderate,Smoker,Yes
+79,9.87,6.71,Normal,,26.11,Beta Blocker,No,Low,Smoker,Yes
+77,7.35,4.39,Hypertension,7.79,17.24,None,No,Low,Non-Smoker,Yes
+61,3.53,4.96,Prehypertension,5.9,16.67,None,No,Low,Non-Smoker,Yes
+67,5.53,8.3,Normal,5.54,26.04,ACE Inhibitor,Yes,Low,Non-Smoker,Yes
+31,11.95,6.74,Normal,7.36,27.35,Other,Yes,Moderate,Non-Smoker,Yes
+70,5.49,4.07,Normal,6.97,26.06,None,No,Low,Non-Smoker,Yes
+73,12.75,3.05,Prehypertension,4.93,32.46,Other,No,Low,Non-Smoker,Yes
+28,11.15,,Prehypertension,8.7,25.66,None,No,,Non-Smoker,No
+26,7.05,5.82,Normal,6.5,24.77,None,Yes,Moderate,Smoker,No
+51,5.81,4.92,Prehypertension,7.61,18.53,None,No,Low,Non-Smoker,Yes
+29,11.14,3.28,Prehypertension,8.93,27.86,None,Yes,High,Non-Smoker,Yes
+52,7.28,3.83,Hypertension,7.3,16.57,None,No,Low,Non-Smoker,Yes
+52,3.36,3.68,Hypertension,8.53,33.09,None,Yes,High,Non-Smoker,Yes
+18,,3.32,Prehypertension,,27.92,ACE Inhibitor,No,,Non-Smoker,No
+57,9.25,2.68,Prehypertension,8.71,36.55,Beta Blocker,Yes,Moderate,Smoker,Yes
+39,11.41,4.58,Normal,6.01,25.75,None,Yes,Moderate,Non-Smoker,Yes
+77,9.05,2.58,Prehypertension,6.31,28.14,None,No,Moderate,Non-Smoker,Yes
+46,6.35,4.39,Normal,5.25,22.75,None,Yes,Moderate,Non-Smoker,No
+25,11.81,0.0,Normal,7.32,23.81,None,No,Moderate,Non-Smoker,No
+28,12.1,2.68,Normal,7.76,19.27,None,No,Low,Non-Smoker,Yes
+58,8.7,6.42,Prehypertension,7.92,17.49,None,Yes,Moderate,Non-Smoker,Yes
+54,8.18,2.02,Normal,5.28,24.85,None,No,High,Smoker,Yes
+31,4.03,5.3,Normal,7.45,23.78,None,No,Moderate,Non-Smoker,No
+77,6.18,2.2,Normal,7.49,19.16,Beta Blocker,No,High,Smoker,Yes
+47,10.28,5.71,Normal,7.74,19.96,ACE Inhibitor,No,Moderate,Non-Smoker,Yes
+52,6.33,3.35,Normal,6.07,24.15,None,Yes,Moderate,Non-Smoker,Yes
+38,3.63,3.26,Prehypertension,3.99,19.08,None,Yes,Low,Non-Smoker,Yes
+54,18.49,4.12,Prehypertension,7.85,25.6,None,Yes,Low,Non-Smoker,Yes
+22,3.61,1.04,Normal,6.83,19.22,None,No,Moderate,Smoker,No
+36,14.77,6.14,Hypertension,7.34,25.15,None,No,Moderate,Non-Smoker,Yes
+76,7.08,6.87,Prehypertension,6.89,18.82,None,Yes,Moderate,Non-Smoker,Yes
+31,7.75,3.21,Normal,7.28,18.84,None,No,,Non-Smoker,No
+43,5.98,5.15,Prehypertension,7.88,15.0,None,No,Moderate,Non-Smoker,Yes
+79,10.35,5.71,Hypertension,4.77,23.28,None,No,Moderate,Smoker,Yes
+21,3.68,3.8,Normal,8.37,30.54,None,Yes,Low,Non-Smoker,Yes
+42,2.48,1.56,Normal,6.78,30.29,None,Yes,Moderate,Non-Smoker,Yes
+62,12.83,7.51,Hypertension,8.95,25.46,Other,No,Low,Non-Smoker,Yes
+59,5.59,3.14,Prehypertension,6.45,15.0,ACE Inhibitor,Yes,Moderate,Non-Smoker,Yes
+42,10.24,2.66,Normal,6.18,27.8,None,No,Low,Smoker,Yes
+35,4.74,7.61,Normal,6.82,25.02,None,No,Low,Non-Smoker,Yes
+57,10.13,5.34,Normal,7.6,22.17,ACE Inhibitor,No,Low,Smoker,Yes
+25,13.05,4.57,Hypertension,6.67,29.43,None,No,Low,Non-Smoker,Yes
+56,6.42,1.86,Normal,7.69,26.77,ACE Inhibitor,No,Moderate,Non-Smoker,Yes
+57,2.2,5.77,Normal,6.54,32.83,None,No,High,Smoker,Yes
+31,13.07,10.0,Prehypertension,7.04,17.67,ACE Inhibitor,No,Low,Non-Smoker,Yes
+49,10.78,5.94,Normal,9.68,18.03,ACE Inhibitor,No,Moderate,Smoker,Yes
+68,6.58,,Normal,7.43,18.78,None,No,Moderate,Non-Smoker,Yes
+78,7.35,5.59,Normal,7.52,22.72,None,No,Low,Non-Smoker,Yes
+55,4.67,3.28,Prehypertension,5.23,31.15,None,No,Low,Non-Smoker,Yes
+50,12.26,3.26,Normal,8.63,21.19,None,No,Low,Non-Smoker,Yes
+40,6.4,3.23,Prehypertension,8.28,21.29,None,No,Moderate,Non-Smoker,No
+32,,2.74,Normal,6.14,25.88,None,No,Low,Non-Smoker,Yes
+50,8.64,3.22,Normal,8.26,27.79,None,Yes,Low,Non-Smoker,Yes
+42,5.42,3.21,Normal,7.4,15.0,None,Yes,Low,Smoker,Yes
+34,4.91,3.46,Normal,7.06,28.68,ACE Inhibitor,Yes,Moderate,Non-Smoker,Yes
+50,6.71,,Prehypertension,8.55,21.05,None,Yes,Moderate,Non-Smoker,No
+64,8.26,4.53,Normal,6.39,23.54,None,No,Low,Non-Smoker,Yes
+72,,4.17,Prehypertension,6.13,30.38,None,Yes,Moderate,Smoker,Yes
+19,12.16,4.37,Normal,7.25,23.03,None,No,Moderate,Smoker,Yes
+31,10.03,7.35,Hypertension,7.63,17.11,None,Yes,Low,Non-Smoker,Yes
+70,6.9,4.17,Prehypertension,8.16,17.37,Other,Yes,Low,Non-Smoker,Yes
+57,5.29,8.86,Prehypertension,6.82,23.87,None,No,Moderate,Smoker,Yes
+57,7.73,4.78,Normal,5.98,22.5,None,No,Moderate,Non-Smoker,Yes
+68,10.7,3.02,Normal,10.03,24.27,None,No,Moderate,Non-Smoker,Yes
+56,10.23,6.97,Normal,5.7,22.19,None,No,Moderate,Non-Smoker,Yes
+68,11.18,3.83,Hypertension,7.07,29.59,Diuretic,No,Low,Non-Smoker,Yes
+23,6.56,0.0,Normal,7.94,24.11,None,No,Low,Non-Smoker,No
+23,0.0,3.99,Prehypertension,8.38,16.07,None,No,Moderate,Non-Smoker,No
+20,11.74,3.45,Prehypertension,6.32,27.67,None,Yes,Moderate,Non-Smoker,Yes
+24,7.5,7.53,Normal,4.75,32.58,Other,No,Low,Non-Smoker,Yes
+68,10.0,2.03,Prehypertension,6.29,24.7,None,No,High,Non-Smoker,Yes
+25,13.01,3.27,Prehypertension,8.03,25.05,ACE Inhibitor,No,Moderate,Non-Smoker,Yes
+59,15.3,6.79,Prehypertension,7.76,20.49,None,No,Low,Non-Smoker,Yes
+69,6.05,,Normal,7.8,22.91,None,No,Moderate,Smoker,Yes
+32,8.4,3.62,Normal,7.85,26.26,None,No,Low,Non-Smoker,Yes
+64,12.1,2.34,Normal,8.61,29.09,None,Yes,Moderate,Smoker,Yes
+46,5.47,4.77,Prehypertension,6.07,26.01,None,No,Moderate,Non-Smoker,Yes
+50,6.25,3.94,Prehypertension,5.56,32.18,None,No,Low,Non-Smoker,Yes
+69,6.24,2.31,Normal,7.44,24.44,None,Yes,Moderate,Smoker,Yes
+47,7.92,2.43,Hypertension,5.74,18.95,Diuretic,No,Moderate,Non-Smoker,Yes
+56,7.34,2.21,Normal,5.49,19.08,None,No,Low,Non-Smoker,Yes
+44,6.22,1.82,Hypertension,8.47,29.55,None,No,Low,Non-Smoker,Yes
+53,5.1,6.05,Hypertension,7.3,28.53,None,No,Low,Non-Smoker,Yes
+46,,5.76,Hypertension,7.03,16.6,None,Yes,Moderate,Smoker,Yes
+55,12.01,6.06,Prehypertension,7.06,23.06,None,No,Low,Non-Smoker,Yes
+74,12.45,4.01,Normal,6.87,23.22,None,Yes,Moderate,Non-Smoker,Yes
+50,6.56,3.47,Normal,8.46,20.62,None,No,Low,Non-Smoker,Yes
+78,10.56,3.51,Prehypertension,5.18,17.65,None,No,Low,Non-Smoker,Yes
+54,8.71,6.25,Normal,5.13,20.52,None,No,Moderate,Non-Smoker,No
+44,6.29,0.0,Normal,5.88,19.71,ACE Inhibitor,Yes,Moderate,Non-Smoker,No
+72,10.2,2.87,Prehypertension,7.35,17.76,None,No,Moderate,Non-Smoker,Yes
+50,6.15,2.05,Normal,9.17,27.73,None,No,Moderate,Non-Smoker,No
+79,6.87,6.99,Hypertension,8.04,25.27,Beta Blocker,No,Moderate,Non-Smoker,Yes
+21,3.87,2.95,Prehypertension,7.71,21.91,None,No,Low,Smoker,Yes
+39,6.61,0.4,Prehypertension,6.9,15.0,None,Yes,Low,Non-Smoker,Yes
+19,8.76,4.49,Prehypertension,5.4,22.65,None,No,Low,Smoker,Yes
+27,12.71,3.19,Hypertension,7.62,26.34,ACE Inhibitor,No,Moderate,Non-Smoker,Yes
+22,6.94,2.77,Prehypertension,9.43,20.69,Other,No,High,Non-Smoker,Yes
+76,4.89,2.55,Prehypertension,6.71,18.83,Beta Blocker,No,Low,Smoker,Yes
+27,12.49,2.46,Normal,6.33,23.45,None,Yes,Low,Smoker,Yes
+50,6.49,5.56,Hypertension,6.72,25.51,None,Yes,Low,Non-Smoker,Yes
+71,2.75,4.49,Prehypertension,7.72,15.0,None,No,Moderate,Non-Smoker,No
+55,8.4,3.56,Normal,7.13,30.09,None,No,Moderate,Non-Smoker,No
+30,7.03,1.58,Normal,8.09,18.38,Other,No,Low,Non-Smoker,No
+48,14.9,3.63,Prehypertension,6.96,,None,No,Moderate,Non-Smoker,Yes
+64,9.43,4.57,Normal,6.71,29.32,None,No,Moderate,Non-Smoker,Yes
+53,7.56,4.66,Hypertension,7.27,24.56,ACE Inhibitor,No,Low,Non-Smoker,Yes
+62,5.23,4.35,Hypertension,6.35,28.93,Beta Blocker,No,Moderate,Non-Smoker,Yes
+41,8.99,1.97,Normal,9.09,30.99,None,Yes,Moderate,Smoker,No
+69,12.37,0.0,Prehypertension,7.99,17.43,None,No,Low,Smoker,Yes
+73,8.94,7.96,Normal,5.68,28.06,None,No,Moderate,Non-Smoker,Yes
+32,5.46,1.12,Prehypertension,6.11,,None,No,Low,Non-Smoker,Yes
+46,9.62,0.0,Normal,7.68,22.31,None,Yes,Moderate,Non-Smoker,Yes
+25,7.85,4.29,Prehypertension,7.22,22.67,None,No,Moderate,Smoker,Yes
+22,9.35,0.24,Normal,7.36,15.39,Other,No,Moderate,Smoker,No
+46,6.94,2.23,Normal,6.77,27.51,None,No,Low,Smoker,Yes
+64,6.87,5.21,Normal,7.55,15.0,None,No,Low,Smoker,Yes
+21,6.75,7.9,Normal,,28.36,None,No,Moderate,Non-Smoker,No
+29,10.83,4.85,Normal,7.68,17.62,None,No,Low,Non-Smoker,No
+62,6.9,3.03,Normal,7.93,30.26,None,No,,Non-Smoker,Yes
+19,6.62,3.89,Normal,8.93,25.78,ACE Inhibitor,No,Low,Non-Smoker,No
+44,5.17,0.02,Hypertension,6.38,28.54,ACE Inhibitor,No,Moderate,Non-Smoker,Yes
+48,9.36,3.01,Prehypertension,6.99,20.34,None,No,High,Smoker,Yes
+68,8.94,3.01,Hypertension,5.54,18.0,ACE Inhibitor,No,High,Non-Smoker,Yes
+68,6.65,4.34,Hypertension,9.19,16.06,None,No,Low,Non-Smoker,Yes
+53,5.87,8.27,Normal,4.63,28.91,None,No,Moderate,Smoker,Yes
+53,13.63,0.0,Normal,9.02,26.98,None,No,Low,Non-Smoker,Yes
+43,2.36,3.1,Normal,7.11,27.14,ACE Inhibitor,No,Moderate,Non-Smoker,Yes
+60,,0.0,Hypertension,7.5,25.31,None,No,Low,Smoker,Yes
+44,11.87,2.89,Hypertension,6.8,26.45,None,No,Moderate,Non-Smoker,Yes
+22,0.0,2.1,Normal,,22.69,Beta Blocker,No,Moderate,Non-Smoker,No
+37,10.38,0.71,Normal,7.71,25.67,None,Yes,High,Non-Smoker,Yes
+28,7.34,6.01,Normal,5.04,20.14,None,No,Moderate,Non-Smoker,Yes
+79,8.77,4.56,Prehypertension,6.22,22.46,None,No,Low,Non-Smoker,Yes
+27,7.03,5.75,Prehypertension,5.99,37.69,None,No,High,Non-Smoker,Yes
+57,11.23,2.83,Normal,7.54,24.18,None,No,Low,Non-Smoker,Yes
+55,,3.84,Normal,7.01,15.13,None,Yes,High,Non-Smoker,Yes
+23,8.4,7.51,Prehypertension,7.74,22.16,ACE Inhibitor,No,Moderate,Non-Smoker,Yes
+25,5.3,3.99,Prehypertension,7.2,19.24,None,No,High,Non-Smoker,Yes
+40,13.65,,Normal,8.27,24.72,None,No,Low,Non-Smoker,Yes
+64,8.03,2.64,Hypertension,6.11,20.0,None,No,Low,Non-Smoker,Yes
+43,14.87,5.58,Normal,7.07,23.05,Diuretic,No,Moderate,Smoker,Yes
+63,13.78,2.79,Prehypertension,8.33,20.67,Other,No,High,Non-Smoker,Yes
+60,2.66,0.0,Prehypertension,8.09,24.89,None,No,Low,Non-Smoker,No
+29,6.04,3.98,Normal,5.22,21.18,None,Yes,Low,Non-Smoker,Yes
+43,4.89,2.97,Normal,5.77,25.61,ACE Inhibitor,Yes,Low,Non-Smoker,Yes
+30,7.86,0.43,Prehypertension,,32.77,Diuretic,No,High,Non-Smoker,Yes
+57,8.56,4.42,Normal,6.72,18.81,None,Yes,Moderate,Non-Smoker,Yes
+79,8.69,2.03,Prehypertension,,27.26,None,Yes,Low,Smoker,Yes
+35,11.16,10.0,Prehypertension,7.96,15.0,None,Yes,Low,Non-Smoker,Yes
+42,12.48,0.78,Prehypertension,7.35,22.95,None,No,Moderate,Non-Smoker,Yes
+50,10.9,1.33,Normal,7.42,25.03,ACE Inhibitor,No,Low,Non-Smoker,Yes
+64,6.32,5.91,Normal,7.8,20.63,None,No,Moderate,Smoker,Yes
+57,5.65,,Prehypertension,8.29,15.96,None,Yes,Moderate,Non-Smoker,Yes
+77,8.01,5.87,Normal,3.33,23.83,None,No,Moderate,Non-Smoker,Yes
+60,9.28,4.84,Prehypertension,,30.89,None,No,High,Smoker,Yes
+29,7.45,2.72,Prehypertension,,23.34,None,Yes,Moderate,Non-Smoker,Yes
+61,3.96,0.97,Normal,7.57,26.51,None,No,Low,Smoker,Yes
+53,10.05,6.36,Prehypertension,6.45,29.07,None,No,Moderate,Non-Smoker,Yes
+65,6.82,1.17,Normal,7.09,35.12,None,No,Low,Non-Smoker,Yes
+21,6.73,5.23,Normal,8.02,19.26,None,No,High,Smoker,Yes
+22,7.84,6.02,Hypertension,6.28,19.73,Diuretic,No,Low,Smoker,Yes
+73,7.28,3.72,Hypertension,7.44,22.68,Other,Yes,Moderate,Non-Smoker,Yes
+54,6.9,3.33,Normal,8.86,26.77,None,No,Low,Non-Smoker,Yes
+25,4.16,1.84,Hypertension,8.0,15.0,Diuretic,No,Low,Non-Smoker,Yes
+59,7.66,5.02,Normal,5.1,26.94,None,No,Low,Non-Smoker,Yes
+66,10.11,0.0,Normal,6.65,24.67,None,No,High,Non-Smoker,Yes
+45,8.79,5.57,Normal,7.43,21.6,Other,No,High,Non-Smoker,Yes
+48,10.84,4.26,Hypertension,7.66,25.91,None,No,Low,Non-Smoker,Yes
+75,5.81,3.51,Normal,6.7,28.0,None,No,Low,Non-Smoker,Yes
+26,4.17,4.53,Normal,6.23,28.63,Other,No,Low,Non-Smoker,Yes
+71,7.26,0.98,Normal,7.08,24.07,Diuretic,No,Low,Smoker,Yes
+68,6.16,,Prehypertension,5.7,25.47,None,No,Moderate,Non-Smoker,Yes
+46,6.47,5.03,Normal,8.32,25.3,Other,No,Moderate,Non-Smoker,Yes
+31,8.64,6.9,Normal,9.24,29.54,None,Yes,Moderate,Non-Smoker,No
+57,6.49,0.17,Normal,7.47,25.72,None,No,Moderate,Non-Smoker,Yes
+58,4.25,1.68,Prehypertension,6.72,26.9,None,No,Moderate,Smoker,Yes
+39,6.32,5.66,Prehypertension,8.13,28.02,None,Yes,Moderate,Non-Smoker,Yes
+28,9.02,4.79,Normal,7.93,32.81,None,No,Low,Non-Smoker,Yes
+40,,10.0,Prehypertension,6.67,21.36,None,No,Low,Non-Smoker,Yes
+18,9.98,6.37,Normal,6.94,31.32,None,No,Moderate,Non-Smoker,Yes
+63,9.27,5.84,Hypertension,6.27,35.12,None,No,Low,Smoker,Yes
+54,7.5,2.32,Normal,7.2,21.65,None,No,Low,Non-Smoker,Yes
+38,9.21,5.15,Normal,7.36,23.02,None,No,High,Non-Smoker,Yes
+43,7.87,7.29,Normal,6.06,22.07,Other,No,Moderate,Non-Smoker,Yes
+63,8.34,3.64,Prehypertension,5.71,26.96,None,No,Moderate,Non-Smoker,Yes
+53,5.18,3.74,Hypertension,5.41,15.62,None,No,Moderate,Smoker,Yes
+71,8.13,4.31,Normal,7.5,21.75,None,Yes,Low,Non-Smoker,Yes
+40,9.14,2.54,Prehypertension,6.99,22.77,Diuretic,Yes,High,Non-Smoker,Yes
+74,9.02,4.59,Normal,6.9,22.38,None,No,Low,Non-Smoker,Yes
+18,,4.54,Normal,7.56,22.33,None,Yes,Moderate,Non-Smoker,Yes
+71,8.29,7.26,Normal,5.92,21.8,None,No,Moderate,Non-Smoker,Yes
+72,3.67,3.58,Prehypertension,5.72,27.5,None,No,Moderate,Smoker,No
+68,8.52,5.48,Prehypertension,7.29,26.42,None,No,Moderate,Non-Smoker,Yes
+57,5.9,3.65,Normal,4.93,31.67,None,Yes,High,Non-Smoker,Yes
+32,13.12,5.41,Normal,6.69,27.51,ACE Inhibitor,Yes,Moderate,Non-Smoker,Yes
+38,8.36,3.45,Normal,9.96,19.06,None,Yes,Low,Non-Smoker,Yes
+64,10.4,5.26,Normal,,23.23,ACE Inhibitor,No,Moderate,Non-Smoker,Yes
+26,14.33,5.6,Normal,6.48,22.76,ACE Inhibitor,No,High,Non-Smoker,Yes
+70,5.55,1.65,Normal,4.45,25.15,ACE Inhibitor,Yes,Moderate,Non-Smoker,Yes
+26,9.31,6.43,Normal,6.72,28.92,Other,No,Moderate,Smoker,Yes
+27,4.44,3.63,Normal,9.36,24.84,ACE Inhibitor,No,Moderate,Non-Smoker,No
+69,9.03,2.97,Normal,7.56,24.85,None,No,Low,Non-Smoker,No
+74,13.3,2.44,Normal,6.26,24.05,None,Yes,Low,Smoker,Yes
+70,6.12,4.66,Normal,9.62,27.65,None,No,High,Non-Smoker,Yes
+43,,3.99,Prehypertension,4.91,21.44,ACE Inhibitor,No,Moderate,Non-Smoker,Yes
+58,7.73,4.82,Normal,7.54,17.44,None,No,Low,Smoker,Yes
+52,14.14,4.86,Prehypertension,7.08,26.9,None,Yes,High,Non-Smoker,Yes
+69,10.31,5.34,Normal,6.7,25.69,None,Yes,Moderate,Non-Smoker,Yes
+42,5.29,,Normal,7.97,,Diuretic,No,Moderate,Non-Smoker,Yes
+43,12.37,4.09,Normal,5.58,15.0,Beta Blocker,Yes,Low,Smoker,Yes
+28,3.03,2.38,Normal,7.38,23.55,None,No,High,Non-Smoker,Yes
+55,14.41,0.0,Normal,,24.48,None,No,Moderate,Non-Smoker,Yes
+19,10.57,1.37,Hypertension,,17.2,None,No,Moderate,Non-Smoker,Yes
+24,13.29,6.72,Normal,,23.61,None,No,Low,Non-Smoker,Yes
+35,3.06,5.58,Normal,6.78,29.34,None,No,Low,Non-Smoker,Yes
+44,8.51,1.03,Prehypertension,6.83,33.39,None,No,Low,Non-Smoker,Yes
+51,7.6,9.42,Normal,5.77,28.42,Other,No,,Smoker,Yes
+44,4.98,4.72,Prehypertension,6.8,,None,No,Low,Non-Smoker,Yes
+34,4.11,5.01,Normal,9.8,29.68,None,No,Moderate,Non-Smoker,Yes
+60,9.52,8.94,Hypertension,6.7,28.1,Beta Blocker,No,Low,Non-Smoker,Yes
+76,9.79,7.83,Normal,7.62,21.82,None,No,Low,Non-Smoker,Yes
+61,11.9,5.72,Normal,8.14,21.38,None,No,Low,Non-Smoker,Yes
+76,6.49,5.82,Hypertension,6.78,23.24,None,Yes,Moderate,Non-Smoker,Yes
+68,7.58,6.03,Normal,,19.27,Other,No,Moderate,Smoker,Yes
+71,3.85,3.47,Normal,7.57,22.6,None,Yes,High,Non-Smoker,Yes
+41,12.62,4.63,Prehypertension,,26.19,None,No,High,Non-Smoker,Yes
+42,8.21,5.26,Normal,6.6,28.67,Other,No,Low,Smoker,Yes
+24,10.17,3.72,Normal,8.13,22.3,Diuretic,Yes,Moderate,Non-Smoker,Yes
+69,10.27,1.88,Prehypertension,6.92,30.25,None,Yes,Moderate,Smoker,Yes
+23,12.38,3.41,Normal,8.46,26.93,Beta Blocker,No,High,Smoker,No
+70,5.51,1.83,Prehypertension,6.89,,ACE Inhibitor,No,Low,Non-Smoker,Yes
+41,10.09,4.14,Hypertension,5.42,19.86,Other,No,Moderate,Non-Smoker,Yes
+50,7.92,0.08,Normal,3.0,32.13,Other,No,Low,Non-Smoker,Yes
+66,14.32,4.75,Normal,4.79,26.49,None,No,Low,Non-Smoker,Yes
+46,5.5,0.41,Normal,5.0,22.5,None,Yes,Low,Smoker,Yes
+60,11.51,3.11,Normal,7.32,21.71,None,No,Low,Non-Smoker,Yes
+39,9.05,5.11,Hypertension,5.83,22.6,None,No,Moderate,Non-Smoker,Yes
+43,8.89,5.74,Normal,,19.42,Other,No,Moderate,Smoker,Yes
+45,8.16,5.48,Normal,6.84,28.45,ACE Inhibitor,Yes,Moderate,Non-Smoker,Yes
+67,12.04,4.7,Prehypertension,5.7,19.88,None,No,Low,Non-Smoker,Yes
+38,8.79,1.54,Hypertension,7.56,,None,No,Low,Smoker,Yes
+66,3.43,,Normal,7.53,21.98,None,No,Low,Non-Smoker,Yes
+24,11.66,1.59,Normal,7.65,27.02,None,No,High,Non-Smoker,Yes
+34,11.11,6.41,Prehypertension,3.93,27.63,Beta Blocker,Yes,Low,Smoker,Yes
+37,9.76,5.38,Hypertension,7.05,21.1,None,No,Moderate,Non-Smoker,Yes
+58,4.61,6.99,Prehypertension,6.85,23.85,None,Yes,Low,Smoker,Yes
+66,5.08,4.05,Normal,5.53,17.5,None,No,Moderate,Non-Smoker,Yes
+37,2.37,2.2,Normal,4.44,31.65,None,No,Low,Non-Smoker,Yes
+71,9.38,1.16,Normal,6.87,28.81,Other,No,Low,Smoker,Yes
+39,3.95,1.4,Normal,8.28,17.72,None,Yes,Low,Non-Smoker,Yes
+45,2.84,0.4,Hypertension,3.9,20.1,ACE Inhibitor,No,Low,Non-Smoker,Yes
+78,11.82,6.07,Hypertension,6.0,23.39,None,No,Low,Non-Smoker,Yes
+57,10.3,6.35,Hypertension,7.16,24.17,None,No,Moderate,Non-Smoker,Yes
+66,7.0,5.22,Normal,8.35,20.91,None,Yes,Low,Smoker,Yes
+24,7.6,3.93,Prehypertension,6.63,18.85,Beta Blocker,No,Low,Non-Smoker,Yes
+18,0.78,8.53,Prehypertension,9.32,25.78,None,No,Low,Non-Smoker,Yes
+49,10.75,3.78,Prehypertension,4.85,31.83,None,No,High,Smoker,Yes
+30,5.92,4.49,Normal,4.58,24.25,None,No,Moderate,Non-Smoker,No
+47,8.99,3.89,Normal,8.22,22.69,None,No,Moderate,Non-Smoker,Yes
+40,0.53,3.26,Hypertension,4.18,22.21,None,Yes,Low,Non-Smoker,Yes
+68,10.93,5.39,Normal,7.55,19.06,None,No,Low,Non-Smoker,Yes
+76,5.74,2.61,Hypertension,6.65,20.98,None,No,Low,Smoker,Yes
+73,3.87,2.46,Normal,5.92,29.11,None,No,Moderate,Smoker,Yes
+36,6.98,5.5,Prehypertension,6.49,15.0,None,No,Moderate,Smoker,Yes
+79,6.21,2.91,Prehypertension,5.45,24.32,None,No,High,Non-Smoker,Yes
+49,11.22,4.29,Prehypertension,6.62,24.13,Other,No,High,Non-Smoker,Yes
+47,6.74,3.25,Normal,7.02,24.53,None,No,Moderate,Non-Smoker,No
+46,12.09,3.97,Hypertension,6.5,27.27,ACE Inhibitor,No,Moderate,Non-Smoker,Yes
+66,8.99,2.52,Prehypertension,6.3,24.28,None,No,Low,Smoker,Yes
+62,10.68,2.59,Normal,7.3,21.96,Beta Blocker,No,Low,Non-Smoker,Yes
+46,7.99,2.2,Prehypertension,8.99,21.05,None,No,High,Non-Smoker,Yes
+47,11.82,5.86,Normal,6.68,29.84,None,No,Low,Non-Smoker,Yes
+33,4.54,4.38,Normal,7.98,28.68,Diuretic,Yes,High,Smoker,Yes
+57,,6.02,Normal,5.84,36.95,Diuretic,No,,Smoker,Yes
+36,6.81,6.26,Hypertension,5.4,22.74,Diuretic,No,Moderate,Non-Smoker,Yes
+35,12.19,2.99,Normal,7.54,21.13,Diuretic,No,Low,Non-Smoker,Yes
+18,12.5,5.94,Prehypertension,6.72,26.04,None,No,Moderate,Non-Smoker,Yes
+31,8.0,3.97,Normal,8.36,25.93,None,Yes,Moderate,Non-Smoker,No
+68,4.13,3.65,Normal,8.59,26.86,None,Yes,Low,Non-Smoker,Yes
+64,9.28,6.76,Hypertension,8.01,27.81,ACE Inhibitor,No,Low,Non-Smoker,Yes
+67,3.01,5.22,Prehypertension,7.98,,None,Yes,Low,Non-Smoker,Yes
+19,12.88,3.22,Hypertension,3.0,28.84,ACE Inhibitor,No,Moderate,Smoker,Yes
+71,6.58,5.08,Normal,7.53,29.44,None,No,Low,Smoker,Yes
+45,7.91,1.22,Normal,8.04,29.52,None,No,Moderate,Non-Smoker,Yes
+66,5.96,4.54,Hypertension,5.47,15.0,None,No,Moderate,Non-Smoker,Yes
+67,5.29,0.7,Prehypertension,7.01,25.05,None,No,Low,Non-Smoker,Yes
+47,10.21,1.83,Normal,,19.85,Beta Blocker,Yes,Moderate,Non-Smoker,Yes
+55,7.52,5.29,Normal,8.23,28.75,None,No,Low,Non-Smoker,Yes
+68,8.13,0.0,Prehypertension,5.85,15.0,ACE Inhibitor,Yes,Moderate,Non-Smoker,Yes
+21,4.99,7.97,Normal,6.05,30.61,Beta Blocker,Yes,Low,Non-Smoker,Yes
+18,10.57,5.84,Prehypertension,6.44,20.11,None,No,Low,Non-Smoker,Yes
+25,10.87,0.0,Normal,9.7,19.08,ACE Inhibitor,No,Low,Non-Smoker,Yes
+46,7.37,9.28,Normal,8.21,25.6,None,Yes,Moderate,Smoker,Yes
+72,11.8,9.88,Hypertension,8.94,22.32,None,No,Low,Non-Smoker,Yes
+56,7.69,3.6,Normal,4.82,,None,Yes,Low,Non-Smoker,Yes
+20,10.34,1.96,Normal,5.48,,None,No,Low,Non-Smoker,Yes
+49,3.13,7.71,Prehypertension,8.61,21.7,None,Yes,Low,Non-Smoker,Yes
+27,9.06,3.24,Normal,4.89,28.69,ACE Inhibitor,No,Moderate,Non-Smoker,Yes
+27,7.19,4.35,Normal,6.19,21.55,None,Yes,Moderate,Smoker,Yes
+36,8.47,6.68,Prehypertension,9.47,21.51,None,No,High,Smoker,Yes
+63,8.33,3.66,Normal,5.84,27.21,None,No,Low,Non-Smoker,Yes
+51,8.38,,Normal,4.81,30.55,None,No,Low,Non-Smoker,Yes
+77,9.85,1.2,Normal,7.06,22.02,Beta Blocker,No,Moderate,Non-Smoker,Yes
+50,6.3,2.61,Normal,4.86,22.36,Beta Blocker,No,Moderate,Non-Smoker,Yes
+40,9.71,3.43,Prehypertension,8.48,25.36,None,No,Low,Non-Smoker,Yes
+72,11.7,1.28,Prehypertension,5.93,19.98,ACE Inhibitor,No,Moderate,Non-Smoker,Yes
+45,3.77,1.47,Normal,5.69,31.04,None,No,Moderate,Non-Smoker,Yes
+49,5.66,4.07,Prehypertension,7.04,19.93,None,No,Low,Non-Smoker,Yes
+67,5.78,0.0,Hypertension,6.51,21.15,None,Yes,Moderate,Non-Smoker,Yes
+24,4.72,2.07,Normal,7.3,31.95,None,No,Low,Non-Smoker,Yes
+46,6.58,8.28,Prehypertension,7.63,24.97,ACE Inhibitor,No,High,Non-Smoker,Yes
+25,11.1,3.24,Normal,6.74,32.75,None,Yes,Moderate,Non-Smoker,Yes
+18,12.34,,Hypertension,5.61,23.01,None,No,,Non-Smoker,Yes
+74,8.32,3.23,Hypertension,7.88,35.34,None,No,Moderate,Non-Smoker,Yes
+72,7.03,3.26,Normal,6.17,26.77,None,No,High,Non-Smoker,Yes
+20,10.41,5.26,Normal,5.96,20.61,None,No,Moderate,Non-Smoker,Yes
+41,0.91,5.11,Normal,7.17,20.54,None,No,Low,Smoker,Yes
+40,4.83,3.14,Normal,4.69,17.44,ACE Inhibitor,No,Moderate,Non-Smoker,No
+76,1.04,3.53,Normal,7.47,17.93,Beta Blocker,No,Moderate,Non-Smoker,Yes
+78,4.8,6.89,Prehypertension,7.23,,None,Yes,Low,Non-Smoker,Yes
+25,5.7,0.68,Normal,,19.54,Beta Blocker,No,,Non-Smoker,No
+71,12.43,3.87,Normal,6.4,15.0,None,Yes,Moderate,Non-Smoker,Yes
+74,0.0,,Prehypertension,8.59,27.79,None,No,Moderate,Non-Smoker,Yes
+64,6.75,2.29,Normal,7.64,27.49,None,No,Low,Non-Smoker,Yes
+54,9.86,3.75,Hypertension,6.97,25.39,None,No,Moderate,Non-Smoker,Yes
+20,9.23,1.99,Prehypertension,9.18,18.89,ACE Inhibitor,No,Moderate,Smoker,Yes
+68,12.39,5.4,Normal,7.11,31.41,None,No,Low,Non-Smoker,Yes
+50,8.48,1.06,Normal,6.38,23.2,Diuretic,No,Low,Non-Smoker,Yes
+45,9.12,6.34,Normal,7.15,20.25,None,Yes,Moderate,Non-Smoker,Yes
+64,2.48,3.84,Prehypertension,6.35,25.05,None,No,Moderate,Non-Smoker,Yes
+25,5.04,3.01,Normal,7.45,24.79,Beta Blocker,No,Moderate,Non-Smoker,Yes
+51,2.65,1.79,Prehypertension,,15.0,None,No,Low,Non-Smoker,Yes
+52,9.72,6.27,Prehypertension,6.99,23.86,None,No,Moderate,Non-Smoker,Yes
+49,9.05,2.57,Normal,7.11,,None,No,High,Non-Smoker,Yes
+41,8.94,1.43,Hypertension,7.96,22.3,None,No,Low,Non-Smoker,Yes
+31,5.36,6.31,Normal,8.42,18.05,Other,No,Low,Smoker,Yes
+49,5.08,2.01,Hypertension,6.46,18.19,None,No,Moderate,Non-Smoker,No
+73,,3.79,Normal,7.21,26.31,None,No,Low,Non-Smoker,Yes
+63,5.99,5.8,Prehypertension,7.96,27.43,ACE Inhibitor,No,Low,Smoker,Yes
+60,4.94,4.35,Normal,7.4,21.98,None,No,Low,Non-Smoker,Yes
+33,6.47,7.81,Prehypertension,4.77,25.72,None,No,Low,Non-Smoker,Yes
+21,6.02,2.16,Normal,8.18,21.94,None,No,Moderate,Smoker,No
+69,5.4,3.54,Normal,7.63,20.16,None,No,Low,Smoker,Yes
+54,4.32,3.71,Normal,7.71,24.97,None,No,High,Smoker,Yes
+71,9.35,5.37,Normal,5.57,18.83,None,No,Moderate,Smoker,Yes
+38,12.67,6.83,Prehypertension,7.18,32.52,ACE Inhibitor,No,Moderate,Smoker,Yes
+31,7.88,4.16,Hypertension,8.01,17.53,None,No,Low,Non-Smoker,No
+48,8.67,3.7,Normal,5.94,25.28,None,No,Moderate,Smoker,No
+72,9.61,0.74,Normal,6.26,24.68,None,No,Moderate,Non-Smoker,Yes
+65,9.1,4.25,Normal,8.03,24.28,None,No,Moderate,Non-Smoker,Yes
+35,5.46,2.57,Normal,6.2,30.68,ACE Inhibitor,No,Moderate,Non-Smoker,Yes
+24,13.16,5.36,Normal,6.75,15.0,None,Yes,Moderate,Non-Smoker,No
+27,,3.1,Normal,5.76,25.85,None,No,Moderate,Non-Smoker,No
+24,9.94,,Normal,9.18,22.77,None,No,Moderate,Smoker,Yes
+50,9.59,0.79,Normal,7.62,26.63,None,No,Moderate,Smoker,Yes
+40,2.12,0.01,Hypertension,6.69,24.25,None,No,Low,Non-Smoker,Yes
+38,6.92,8.09,Normal,6.47,23.66,None,No,Low,Non-Smoker,Yes
+36,8.17,4.29,Normal,5.53,18.57,None,No,High,Non-Smoker,No
+65,8.4,4.89,Prehypertension,6.87,20.97,None,No,Low,Non-Smoker,Yes
+78,8.9,1.99,Prehypertension,,38.09,None,Yes,Moderate,Non-Smoker,Yes
+36,10.27,5.93,Normal,6.03,26.67,None,No,Low,Non-Smoker,Yes
+53,7.98,5.53,Prehypertension,7.13,28.74,None,No,Moderate,Smoker,Yes
+46,9.06,2.23,Hypertension,6.56,22.42,Other,Yes,Moderate,Non-Smoker,Yes
+77,7.87,1.67,Normal,8.66,20.15,None,No,Low,Non-Smoker,Yes
+35,4.95,2.39,Normal,6.24,27.49,ACE Inhibitor,Yes,Moderate,Smoker,Yes
+19,8.1,3.94,Normal,7.93,15.43,None,No,Moderate,Smoker,No
+18,10.25,4.37,Normal,8.67,21.07,Diuretic,Yes,Moderate,Non-Smoker,Yes
+64,11.33,4.08,Normal,6.55,22.4,None,Yes,Moderate,Non-Smoker,Yes
+22,9.61,6.86,Prehypertension,6.29,28.25,None,No,Low,Non-Smoker,Yes
+37,12.0,2.43,Normal,8.11,25.86,None,No,Moderate,Non-Smoker,Yes
+28,9.26,1.61,Normal,4.86,21.87,None,Yes,Low,Non-Smoker,Yes
+59,10.59,4.0,Normal,7.52,25.66,None,No,Low,Non-Smoker,Yes
+19,10.81,0.28,Normal,5.11,22.64,None,No,High,Smoker,Yes
+20,7.33,5.53,Prehypertension,8.47,,None,No,Moderate,Non-Smoker,Yes
+40,,4.22,Normal,6.7,25.06,None,No,Moderate,Non-Smoker,Yes
+72,5.18,3.26,Hypertension,6.89,31.81,None,No,Moderate,Smoker,Yes
+29,9.05,3.13,Normal,6.13,22.75,None,No,Low,Non-Smoker,Yes
+37,9.73,6.0,Normal,5.1,29.51,None,No,Moderate,Non-Smoker,Yes
+22,11.15,5.93,Prehypertension,8.52,24.41,None,No,Moderate,Non-Smoker,Yes
+54,10.46,3.46,Normal,6.79,20.86,None,Yes,Low,Non-Smoker,Yes
+55,11.19,5.3,Normal,10.85,35.71,None,Yes,Moderate,Non-Smoker,Yes
+47,7.7,5.9,Prehypertension,6.03,29.89,None,No,Moderate,Non-Smoker,Yes
+26,6.96,4.74,Normal,6.22,25.05,None,Yes,Low,Non-Smoker,Yes
+51,7.18,,Hypertension,5.92,27.45,ACE Inhibitor,No,Moderate,Non-Smoker,Yes
+70,8.8,4.84,Hypertension,6.79,19.13,None,No,Low,Non-Smoker,Yes
+61,2.57,1.71,Normal,8.89,19.29,ACE Inhibitor,No,Low,Non-Smoker,Yes
+52,12.0,4.16,Normal,8.21,29.01,None,No,Moderate,Non-Smoker,Yes
+69,8.13,3.49,Normal,5.19,24.02,ACE Inhibitor,No,High,Non-Smoker,Yes
+75,6.75,3.14,Normal,8.44,23.3,Diuretic,Yes,Moderate,Smoker,Yes
+39,,0.2,Prehypertension,7.82,22.7,None,No,Moderate,Smoker,Yes
+61,7.89,1.74,Prehypertension,7.58,24.68,None,No,High,Non-Smoker,Yes
+41,7.4,2.93,Normal,6.18,22.86,None,Yes,High,Non-Smoker,Yes
+34,5.31,5.97,Normal,6.27,15.0,None,No,Low,Non-Smoker,No
+27,5.98,4.63,Normal,7.16,30.37,Other,No,Moderate,Non-Smoker,Yes
+47,7.92,6.07,Normal,6.34,23.5,Other,No,Low,Non-Smoker,Yes
+73,6.24,6.73,Prehypertension,8.58,32.24,Beta Blocker,Yes,Moderate,Non-Smoker,Yes
+76,9.72,4.72,Normal,6.28,16.07,ACE Inhibitor,No,High,Non-Smoker,Yes
+63,5.75,4.31,Prehypertension,4.66,16.05,ACE Inhibitor,No,Low,Non-Smoker,Yes
+40,8.46,1.86,Prehypertension,5.44,22.76,None,No,,Non-Smoker,No
+49,11.54,8.37,Prehypertension,5.51,28.4,None,No,Moderate,Non-Smoker,Yes
+34,7.89,0.88,Normal,6.68,18.51,None,No,Low,Non-Smoker,Yes
+67,9.07,4.26,Prehypertension,7.26,18.34,None,No,Low,Non-Smoker,Yes
+68,8.88,5.83,Prehypertension,7.06,25.67,None,No,Moderate,Non-Smoker,Yes
+34,,5.86,Prehypertension,7.55,22.59,None,No,Low,Smoker,Yes
+31,7.8,1.46,Normal,6.7,26.45,None,No,Moderate,Smoker,Yes
+26,6.29,3.08,Normal,6.74,22.67,None,No,Moderate,Non-Smoker,No
+57,,2.24,Prehypertension,9.1,25.73,ACE Inhibitor,No,Moderate,Non-Smoker,Yes
+19,7.15,0.0,Normal,8.45,30.15,None,No,Low,Non-Smoker,Yes
+62,12.64,4.29,Normal,7.49,18.52,None,No,Moderate,Smoker,Yes
+42,10.43,2.42,Hypertension,8.1,29.33,Diuretic,No,Low,Non-Smoker,Yes
+56,3.64,7.31,Normal,4.69,16.33,None,Yes,High,Smoker,Yes
+26,3.81,5.35,Normal,6.01,26.74,None,No,Low,Non-Smoker,Yes
+71,,4.09,Normal,6.48,30.39,None,No,High,Smoker,Yes
+39,6.81,2.96,Prehypertension,6.03,21.64,None,No,Moderate,Non-Smoker,Yes
+60,7.45,4.25,Normal,,26.9,ACE Inhibitor,No,Moderate,Non-Smoker,Yes
+63,9.95,3.44,Prehypertension,7.5,21.81,None,Yes,Low,Non-Smoker,Yes
+21,8.95,4.15,Normal,8.66,26.63,None,No,Low,Non-Smoker,Yes
+43,8.92,8.18,Normal,6.98,15.0,None,No,Moderate,Non-Smoker,No
+75,12.34,1.66,Prehypertension,7.78,24.73,ACE Inhibitor,Yes,Low,Non-Smoker,Yes
+46,3.83,3.63,Normal,6.95,25.78,None,No,High,Non-Smoker,No
+62,8.31,5.55,Hypertension,6.47,30.05,ACE Inhibitor,No,Low,Smoker,Yes
+51,6.26,3.12,Normal,8.1,28.16,None,No,High,Smoker,Yes
+40,12.31,7.48,Normal,5.29,,ACE Inhibitor,Yes,Moderate,Non-Smoker,Yes
+54,1.37,5.49,Normal,4.76,25.21,Beta Blocker,Yes,Low,Smoker,Yes
+28,1.5,2.42,Normal,5.27,17.49,Beta Blocker,No,Moderate,Non-Smoker,Yes
+23,8.91,4.45,Hypertension,8.02,31.4,None,No,Low,Non-Smoker,Yes
+35,11.38,2.45,Hypertension,7.1,27.11,ACE Inhibitor,Yes,Low,Non-Smoker,Yes
+38,10.32,2.25,Normal,7.45,15.63,None,No,Low,Smoker,Yes
+59,5.6,3.69,Normal,9.01,25.11,ACE Inhibitor,No,High,Non-Smoker,Yes
+53,12.52,6.78,Prehypertension,5.6,25.45,None,No,Moderate,Non-Smoker,Yes
+58,4.31,5.64,Normal,8.45,,None,No,Moderate,Non-Smoker,Yes
+55,11.92,3.95,Normal,6.52,24.44,None,No,Low,Non-Smoker,Yes
+51,4.7,5.72,Hypertension,6.34,20.06,None,Yes,Moderate,Smoker,Yes
+34,6.94,4.59,Hypertension,7.1,17.68,None,Yes,Low,Non-Smoker,Yes
+54,9.92,1.43,Hypertension,7.29,21.24,None,Yes,Low,Non-Smoker,Yes
+42,,3.68,Prehypertension,6.75,24.77,None,No,Low,Smoker,Yes
+55,12.41,3.84,Prehypertension,7.73,28.18,ACE Inhibitor,No,Moderate,Smoker,Yes
+75,6.93,5.68,Normal,7.1,24.31,None,No,Moderate,Non-Smoker,Yes
+29,8.41,2.75,Normal,6.76,28.22,None,Yes,Low,Non-Smoker,Yes
+40,11.49,1.99,Normal,6.5,26.92,ACE Inhibitor,Yes,High,Non-Smoker,Yes
+70,5.62,3.9,Prehypertension,7.29,19.34,None,No,Low,Non-Smoker,Yes
+59,11.18,2.58,Prehypertension,5.37,26.88,None,Yes,Moderate,Non-Smoker,Yes
+39,12.92,3.29,Prehypertension,5.71,27.01,None,No,Low,Non-Smoker,Yes
+38,6.03,3.82,Hypertension,6.56,31.84,None,Yes,Low,Non-Smoker,Yes
+44,12.11,3.16,Hypertension,7.65,25.85,None,Yes,High,Non-Smoker,Yes
+74,2.72,6.12,Hypertension,9.57,18.44,None,Yes,Moderate,Non-Smoker,Yes
+48,9.17,7.11,Normal,6.81,21.51,Other,No,Moderate,Smoker,Yes
+23,4.31,5.9,Prehypertension,4.87,15.66,None,No,High,Non-Smoker,Yes
+44,10.83,0.1,Normal,6.05,26.3,None,No,Moderate,Non-Smoker,No
+57,10.58,2.59,Normal,7.79,31.44,Diuretic,No,Moderate,Non-Smoker,Yes
+51,,3.61,Hypertension,5.84,15.0,None,Yes,Moderate,Non-Smoker,Yes
+29,12.26,0.0,Hypertension,5.43,31.63,None,No,Low,Non-Smoker,Yes
+62,7.5,2.07,Normal,7.78,26.24,ACE Inhibitor,No,Moderate,Non-Smoker,Yes
+74,4.75,3.58,Normal,7.56,19.16,None,No,Moderate,Non-Smoker,Yes
+70,9.7,3.01,Prehypertension,5.23,25.16,ACE Inhibitor,No,Low,Smoker,Yes
+24,7.82,4.02,Prehypertension,5.93,19.3,None,Yes,High,Non-Smoker,No
+27,12.65,0.96,Hypertension,8.49,25.98,Beta Blocker,Yes,Low,Smoker,Yes
+62,1.5,2.99,Normal,8.02,24.29,None,No,High,Non-Smoker,No
+34,,4.33,Normal,5.56,25.48,None,No,Low,Smoker,Yes
+43,9.6,4.02,Normal,4.61,19.86,None,No,Low,Non-Smoker,Yes
+38,5.56,4.98,Normal,7.32,20.52,Other,No,Low,Non-Smoker,Yes
+45,10.2,4.85,Normal,6.64,26.26,Beta Blocker,No,High,Non-Smoker,Yes
+79,11.89,3.1,Hypertension,7.22,21.74,None,No,,Non-Smoker,Yes
+75,8.34,4.26,Normal,7.76,24.67,Other,Yes,Moderate,Non-Smoker,Yes
+63,2.71,2.24,Normal,5.85,26.04,None,No,Moderate,Non-Smoker,Yes
+19,7.12,3.41,Normal,6.48,23.0,None,No,Low,Smoker,Yes
+77,11.12,1.68,Normal,5.92,29.2,None,No,High,Non-Smoker,No
+71,9.49,6.34,Prehypertension,5.96,23.17,Beta Blocker,No,Low,Non-Smoker,Yes
+60,7.53,3.4,Prehypertension,7.68,23.03,Diuretic,No,Moderate,Non-Smoker,Yes
+18,11.92,6.34,Prehypertension,7.17,21.16,None,No,Moderate,Non-Smoker,Yes
+68,10.22,4.69,Normal,5.12,28.68,ACE Inhibitor,No,Low,Non-Smoker,Yes
+70,10.45,2.05,Normal,7.87,20.82,None,No,Low,Non-Smoker,Yes
+53,6.77,4.55,Normal,6.58,29.65,None,No,Moderate,Non-Smoker,Yes
+68,6.48,5.78,Normal,7.93,24.73,None,No,High,Smoker,Yes
+43,2.9,3.83,Prehypertension,5.78,36.07,ACE Inhibitor,Yes,Low,Smoker,Yes
+46,7.22,4.16,Normal,5.89,21.03,None,No,Low,Non-Smoker,Yes
+38,10.81,2.79,Prehypertension,7.3,29.74,None,Yes,High,Non-Smoker,Yes
+28,7.39,4.05,Normal,5.68,26.3,None,No,Low,Smoker,Yes
+57,9.34,4.52,Prehypertension,6.67,21.69,None,No,Moderate,Non-Smoker,Yes
+28,11.33,2.73,Hypertension,5.55,26.36,None,No,Moderate,Non-Smoker,No
+53,9.12,1.63,Prehypertension,6.53,26.14,None,Yes,Low,Smoker,Yes
+66,9.41,6.83,Normal,6.96,22.51,ACE Inhibitor,No,Moderate,Non-Smoker,Yes
+76,3.93,5.33,Hypertension,7.02,25.93,None,No,High,Non-Smoker,Yes
+56,7.03,2.8,Prehypertension,6.56,29.24,None,No,Moderate,Non-Smoker,Yes
+57,13.18,4.48,Normal,7.4,26.3,Beta Blocker,No,Moderate,Non-Smoker,Yes
+52,8.31,0.75,Normal,7.18,22.11,None,No,Moderate,Non-Smoker,Yes
+71,,0.0,Prehypertension,6.89,21.86,ACE Inhibitor,Yes,Moderate,Non-Smoker,Yes
+51,5.83,6.39,Prehypertension,6.25,23.61,None,Yes,Low,Non-Smoker,Yes
+72,8.7,4.51,Normal,8.28,29.01,None,No,Moderate,Smoker,Yes
+64,6.85,,Normal,7.46,20.61,None,No,Low,Non-Smoker,Yes
+41,9.78,4.51,Hypertension,5.76,25.76,ACE Inhibitor,No,Low,Non-Smoker,Yes
+71,10.69,10.0,Normal,7.78,16.97,Other,No,High,Non-Smoker,Yes
+39,9.81,5.91,Normal,8.05,26.68,None,No,Moderate,Non-Smoker,Yes
+22,11.13,1.7,Normal,6.9,27.38,None,Yes,High,Smoker,Yes
+73,7.96,0.3,Prehypertension,6.98,33.12,None,No,Low,Non-Smoker,Yes
+50,7.43,6.32,Normal,4.53,28.16,None,Yes,Moderate,Non-Smoker,Yes
+75,2.73,5.88,Prehypertension,5.99,22.19,None,No,Moderate,Non-Smoker,Yes
+53,9.92,5.27,Normal,8.01,17.09,None,Yes,High,Smoker,Yes
+64,8.52,2.21,Prehypertension,6.06,26.31,None,Yes,High,Non-Smoker,Yes
+37,7.8,4.8,Prehypertension,6.81,22.53,None,No,High,Non-Smoker,Yes
+36,7.43,2.41,Normal,5.97,25.5,Beta Blocker,No,High,Smoker,Yes
+52,7.89,5.46,Normal,7.28,20.76,None,No,Low,Smoker,Yes
+69,7.29,6.16,Normal,7.47,23.22,None,Yes,Moderate,Non-Smoker,Yes
+60,6.42,2.8,Normal,7.5,16.35,None,No,Low,Smoker,Yes
+34,8.72,6.49,Prehypertension,5.63,19.29,None,No,Moderate,Non-Smoker,Yes
+79,,4.25,Normal,7.13,18.66,Beta Blocker,No,High,Non-Smoker,Yes
+76,5.69,5.08,Prehypertension,8.89,27.93,None,No,Low,Non-Smoker,Yes
+62,6.8,1.12,Normal,7.9,20.28,None,No,Moderate,Non-Smoker,No
+60,7.39,4.51,Normal,7.11,30.2,None,Yes,Moderate,Non-Smoker,Yes
+51,8.01,,Normal,,20.32,ACE Inhibitor,No,Low,Non-Smoker,Yes
+26,7.62,5.04,Normal,6.7,33.43,None,No,Low,Non-Smoker,Yes
+43,9.98,7.23,Normal,8.98,15.23,None,Yes,Low,Non-Smoker,Yes
+19,3.04,4.64,Prehypertension,8.58,25.91,None,No,Low,Smoker,Yes
+70,3.57,,Normal,7.55,24.17,None,No,Moderate,Non-Smoker,Yes
+26,8.58,5.38,Normal,6.14,18.55,None,Yes,Moderate,Non-Smoker,No
+26,6.19,4.88,Prehypertension,7.06,21.52,None,No,Low,Smoker,Yes
+57,10.65,8.53,Prehypertension,7.93,22.82,Diuretic,Yes,High,Non-Smoker,Yes
+34,11.51,4.56,Normal,8.13,25.12,Beta Blocker,No,Moderate,Non-Smoker,Yes
+18,8.7,2.71,Prehypertension,7.38,19.79,None,No,Moderate,Non-Smoker,Yes
+42,4.78,5.7,Normal,8.03,25.91,None,Yes,Low,Non-Smoker,No
+78,11.16,3.72,Prehypertension,6.93,24.54,None,No,Moderate,Non-Smoker,Yes
+60,8.6,4.18,Hypertension,6.88,27.51,None,Yes,Low,Non-Smoker,Yes
+57,3.54,1.96,Hypertension,6.45,20.12,None,Yes,Moderate,Smoker,Yes
+59,3.8,3.73,Prehypertension,7.51,22.16,None,Yes,Moderate,Non-Smoker,Yes
+42,12.55,4.07,Normal,8.2,30.49,None,No,Low,Smoker,Yes
+56,12.05,3.72,Prehypertension,7.85,19.92,None,No,High,Non-Smoker,Yes
+52,0.45,2.7,Normal,5.54,17.73,None,No,Moderate,Non-Smoker,No
+20,3.93,4.63,Normal,5.6,21.16,None,No,Low,Non-Smoker,No
+67,11.42,1.97,Normal,8.32,16.01,None,No,,Smoker,No
+54,7.94,1.45,Hypertension,7.21,31.53,ACE Inhibitor,No,Moderate,Non-Smoker,Yes
+61,10.11,5.56,Hypertension,7.26,22.73,None,No,Moderate,Non-Smoker,Yes
+61,7.81,5.36,Normal,7.23,22.77,ACE Inhibitor,No,Moderate,Non-Smoker,Yes
+68,9.96,1.12,Prehypertension,9.1,27.34,None,Yes,Low,Non-Smoker,Yes
+47,8.02,0.0,Prehypertension,6.46,20.73,ACE Inhibitor,No,High,Non-Smoker,Yes
+55,6.69,1.78,Normal,8.34,23.03,None,No,Moderate,Non-Smoker,Yes
+51,11.18,3.72,Normal,7.28,20.62,ACE Inhibitor,No,Low,Non-Smoker,Yes
+29,,6.54,Prehypertension,5.08,16.1,None,No,High,Non-Smoker,Yes
+36,9.96,3.66,Normal,6.01,24.23,None,No,Moderate,Smoker,Yes
+54,8.47,2.31,Normal,6.27,28.62,None,Yes,Moderate,Smoker,Yes
+61,6.54,4.33,Prehypertension,8.31,24.36,None,No,Moderate,Non-Smoker,Yes
+76,12.83,3.75,Hypertension,8.47,,None,No,Low,Non-Smoker,Yes
+76,9.06,0.96,Prehypertension,7.42,19.07,None,Yes,Low,Smoker,Yes
+66,6.93,,Prehypertension,6.37,20.61,None,No,Low,Non-Smoker,Yes
+78,11.83,1.03,Normal,5.91,18.18,None,No,High,Smoker,Yes
+34,,9.46,Normal,8.37,25.65,None,No,Low,Smoker,Yes
+27,14.71,5.89,Prehypertension,5.46,22.57,None,No,Low,Smoker,Yes
+74,7.46,2.69,Normal,6.88,22.4,None,No,Low,Non-Smoker,Yes
+72,4.2,6.44,Hypertension,9.84,27.01,ACE Inhibitor,No,Low,Non-Smoker,Yes
+66,13.72,2.75,Normal,6.38,21.87,Other,No,Moderate,Non-Smoker,Yes
+64,6.61,6.37,Normal,5.47,28.86,ACE Inhibitor,No,High,Smoker,Yes
+29,8.73,4.18,Normal,4.88,25.06,ACE Inhibitor,No,Low,Non-Smoker,Yes
+79,10.15,2.55,Hypertension,9.88,22.35,None,Yes,Moderate,Non-Smoker,Yes
+33,11.55,5.5,Normal,7.42,17.02,Other,Yes,Moderate,Non-Smoker,Yes
+41,8.9,4.3,Normal,5.96,26.98,None,Yes,Moderate,Non-Smoker,Yes
+36,6.06,4.88,Normal,6.77,25.27,None,No,High,Non-Smoker,Yes
+25,8.66,4.47,Prehypertension,6.2,25.49,Diuretic,No,Moderate,Non-Smoker,Yes
+48,6.74,4.45,Normal,,25.63,None,No,Low,Non-Smoker,Yes
+38,8.75,5.76,Normal,7.95,21.62,None,No,High,Non-Smoker,No
+34,12.88,9.68,Normal,7.04,23.32,None,Yes,Moderate,Non-Smoker,Yes
+40,10.27,6.75,Prehypertension,7.85,21.94,None,Yes,Low,Non-Smoker,Yes
+54,8.62,4.48,Normal,7.01,29.63,None,Yes,Low,Non-Smoker,Yes
+71,10.22,3.32,Normal,7.16,,None,No,High,Non-Smoker,Yes
+33,10.43,3.56,Normal,,21.21,None,Yes,Moderate,Non-Smoker,Yes
+23,4.77,1.24,Normal,8.09,29.93,None,No,Moderate,Smoker,Yes
+25,8.13,5.46,Prehypertension,5.69,29.44,None,No,Moderate,Smoker,Yes
+42,15.69,1.77,Normal,6.0,25.06,None,No,Moderate,Non-Smoker,Yes
+35,11.64,3.18,Hypertension,6.37,23.42,ACE Inhibitor,No,Low,Non-Smoker,Yes
+42,6.49,,Hypertension,4.53,22.29,None,No,Moderate,Smoker,Yes
+29,6.19,3.48,Normal,6.3,23.8,ACE Inhibitor,Yes,Moderate,Non-Smoker,Yes
+32,6.09,2.92,Prehypertension,6.22,20.06,None,No,Moderate,Non-Smoker,Yes
+76,10.6,1.37,Prehypertension,6.55,26.18,None,Yes,Low,Smoker,Yes
+43,12.82,6.65,Hypertension,,31.44,None,Yes,Low,Smoker,Yes
+58,9.75,2.17,Normal,8.11,26.53,None,No,Moderate,Non-Smoker,Yes
+62,8.47,2.71,Normal,7.48,19.04,None,Yes,Moderate,Non-Smoker,Yes
+43,,0.06,Normal,5.96,26.05,None,No,Moderate,Non-Smoker,Yes
+64,8.99,3.96,Hypertension,6.3,24.88,None,Yes,Moderate,Smoker,Yes
+49,5.54,3.27,Normal,8.01,26.01,None,No,Moderate,Non-Smoker,Yes
+27,2.19,4.4,Normal,6.69,20.31,None,No,High,Non-Smoker,No
+33,12.91,1.42,Normal,5.51,24.02,Other,No,Low,Non-Smoker,Yes
+24,4.98,5.62,Normal,6.9,27.97,None,No,Low,Non-Smoker,No
+34,7.03,0.0,Normal,5.69,19.19,Beta Blocker,No,Moderate,Smoker,Yes
+40,9.97,3.8,Normal,6.15,21.98,Beta Blocker,No,Low,Non-Smoker,Yes
+43,12.3,4.25,Normal,6.94,22.7,None,No,Moderate,Non-Smoker,Yes
+38,8.77,4.13,Hypertension,8.27,,ACE Inhibitor,Yes,High,Non-Smoker,Yes
+39,4.42,4.35,Normal,9.43,29.16,Other,No,Moderate,Non-Smoker,Yes
+75,7.1,5.74,Prehypertension,8.64,15.38,None,Yes,High,Non-Smoker,Yes
+24,5.96,6.91,Normal,6.91,28.49,None,No,Moderate,Non-Smoker,Yes
+31,7.89,3.66,Normal,9.71,29.31,None,No,Moderate,Non-Smoker,Yes
+32,,1.87,Prehypertension,7.67,29.02,None,Yes,Moderate,Non-Smoker,Yes
+70,0.39,5.23,Prehypertension,5.82,21.62,None,No,Low,Non-Smoker,Yes
+24,6.77,3.38,Normal,7.11,22.97,ACE Inhibitor,Yes,Low,Smoker,No
+26,6.55,6.78,Hypertension,6.21,16.95,Diuretic,No,Moderate,Non-Smoker,Yes
+68,4.23,2.68,Hypertension,5.5,15.0,None,No,High,Smoker,Yes
+65,9.76,2.11,Hypertension,5.59,22.37,None,Yes,Moderate,Smoker,Yes
+25,3.76,4.32,Normal,6.82,24.34,ACE Inhibitor,No,Low,Smoker,Yes
+67,4.1,0.17,Normal,7.91,24.8,None,No,Low,Smoker,Yes
+76,10.55,2.97,Prehypertension,8.28,27.7,None,Yes,High,Non-Smoker,Yes
+40,12.5,3.27,Prehypertension,5.51,37.78,None,No,Moderate,Non-Smoker,Yes
+46,7.77,4.49,Normal,6.64,22.22,None,No,High,Non-Smoker,Yes
+35,4.35,1.81,Prehypertension,7.58,19.25,None,Yes,Moderate,Smoker,Yes
+48,5.88,2.07,Normal,7.18,26.46,None,Yes,Moderate,Non-Smoker,Yes
+47,11.02,6.55,Normal,7.83,25.0,None,No,Moderate,Non-Smoker,Yes
+69,8.35,3.97,Normal,6.48,21.41,None,No,Low,Non-Smoker,Yes
+56,7.7,5.9,Prehypertension,8.53,28.1,None,No,Moderate,Smoker,Yes
+52,8.94,2.81,Normal,6.99,20.35,None,No,Moderate,Smoker,Yes
+35,7.89,3.88,Prehypertension,7.91,23.42,Beta Blocker,No,Moderate,Non-Smoker,Yes
+76,12.64,4.47,Normal,6.54,23.68,None,No,Moderate,Non-Smoker,Yes
+59,5.75,7.84,Prehypertension,7.07,19.74,None,Yes,Low,Non-Smoker,Yes
+56,5.41,3.52,Hypertension,5.08,16.31,None,Yes,Moderate,Smoker,Yes
+34,3.85,3.63,Prehypertension,,24.99,None,No,Low,Smoker,Yes
+31,,6.42,Hypertension,6.75,30.16,Other,Yes,Low,Non-Smoker,Yes
+48,4.72,3.16,Normal,7.12,28.32,None,Yes,Moderate,Non-Smoker,No
+41,8.65,4.63,Normal,10.22,28.63,None,No,Low,Non-Smoker,Yes
+52,8.06,6.22,Normal,6.54,20.4,Beta Blocker,Yes,Moderate,Smoker,Yes
+61,4.76,2.73,Normal,5.35,24.96,None,No,Low,Non-Smoker,Yes
+77,9.77,4.75,Prehypertension,9.04,17.59,None,No,Low,Non-Smoker,Yes
+62,12.55,7.84,Normal,8.29,24.76,None,Yes,Low,Non-Smoker,Yes
+51,9.07,6.03,Normal,5.61,30.25,Beta Blocker,Yes,Low,Smoker,Yes
